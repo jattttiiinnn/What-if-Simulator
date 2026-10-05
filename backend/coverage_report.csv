@@ -1,0 +1,2909 @@
+occupation,code,evidence_level,people_observed
+air force officer,0110.1,strong,41
+lieutenant,0110.10,strong,211
+navy officer,0110.11,strong,37
+squadron leader,0110.12,strong,43
+armed forces officer,0110.2,strong,96
+army captain,0110.3,strong,53
+army general,0110.4,limited,12
+army major,0110.5,limited,9
+artillery officer,0110.6,strong,63
+brigadier,0110.7,limited,11
+colonel,0110.8,limited,11
+fleet commander,0110.9,strong,29
+army corporal,0210.1,strong,113
+sergeant,0210.2,strong,325
+special forces officer,0210.3,strong,187
+warfare specialist,0210.4,strong,59
+air force pilot,0310.1,strong,55
+bomb disposal technician,0310.2,limited,8
+infantry soldier,0310.3,strong,755
+intelligence communications interceptor,0310.4,strong,46
+military engineer,0310.5,limited,9
+city councillor,1111.1,strong,141
+government minister,1111.2,limited,11
+governor,1111.3,strong,47
+mayor,1111.4,strong,111
+member of parliament,1111.5,strong,61
+secretary of state,1111.6,strong,871
+senator,1111.7,limited,16
+central bank governor,1112.1,limited,3
+consul,1112.2,strong,75
+diplomat,1112.3,strong,77
+ambassador,1112.3.1,strong,63
+embassy counsellor,1112.3.2,strong,46
+fire commissioner,1112.4,limited,11
+police commissioner,1112.5,strong,20
+public administration manager,1112.6,strong,42
+secretary general,1112.7,strong,190
+special-interest groups' official,1114.1,limited,6
+animal facility manager,1120.1,limited,7
+chief executive officer,1120.3,strong,300
+airport chief executive,1120.3.1,limited,6
+chief operating officer,1120.4,strong,47
+public employment service manager,1120.5,limited,5
+social entrepreneur,1120.6,strong,47
+financial manager,1211.1,strong,197
+accounting manager,1211.1.1,strong,412
+bank treasurer,1211.1.2,strong,55
+budget manager,1211.1.3,strong,117
+corporate treasurer,1211.1.4,strong,169
+employee volunteering programme coordinator,1212.1,strong,612
+human resources manager,1212.2,strong,499
+equality and inclusion manager,1212.2.1,strong,36
+volunteer manager,1212.3,strong,203
+policy manager,1213.2,strong,26
+social security administrator,1213.2.1,limited,16
+strategic planning manager,1213.2.2,strong,94
+tourism policy director,1213.2.3,limited,15
+procurement department manager,1213.3,strong,25
+programme manager,1213.4,strong,203
+business manager,1213.5,strong,1246
+branch manager,1213.5.1,strong,427
+EU funds manager,1213.6,strong,33
+health safety and environmental manager,1213.7,strong,46
+sustainability manager,1213.8,limited,18
+business service manager,1219.1,strong,216
+facilities manager,1219.1.1,strong,165
+security manager,1219.1.2,strong,110
+corporate social responsibility manager,1219.2,strong,51
+defence administration officer,1219.3,strong,134
+department manager,1219.4,strong,1048
+manufacturing facility manager,1219.5,strong,122
+chemical plant manager,1219.5.1,strong,25
+foundry manager,1219.5.2,limited,12
+power plant manager,1219.5.3,limited,19
+water treatment plant manager,1219.5.4,strong,34
+wood factory manager,1219.5.5,limited,19
+project manager,1219.6,strong,1420
+quality services manager,1219.7,strong,239
+auction house manager,1221.1,limited,4
+banking products manager,1221.2,strong,73
+chief marketing officer,1221.3,limited,7
+destination manager,1221.3.1,strong,24
+marketing manager,1221.3.2,strong,689
+sales manager,1221.3.2.1,strong,890
+category manager,1221.3.2.1.1,strong,150
+licensing manager,1221.3.2.1.2,strong,20
+motor vehicle aftersales manager,1221.3.2.1.3,strong,117
+online sales channel manager,1221.3.2.1.4,strong,142
+promotion manager,1221.3.3,strong,152
+commercial director,1221.4,strong,526
+digital marketing manager,1221.5,strong,66
+tourism product manager,1221.6,strong,77
+communication manager,1222.1,strong,243
+advertising manager,1222.1.1,strong,128
+public relations manager,1222.1.2,strong,115
+product manager,1223.1,strong,318
+insurance product manager,1223.1.1,strong,46
+research and development manager,1223.2,strong,279
+product development manager,1223.2.1,strong,134
+clothing development manager,1223.2.1.1,strong,73
+footwear product development manager,1223.2.1.2,limited,4
+games development manager,1223.2.1.3,limited,12
+leather goods product development manager,1223.2.1.4,limited,1
+research manager,1223.2.2,strong,62
+ICT research manager,1223.2.2.1,strong,32
+forester,1311.1,limited,14
+aquaculture husbandry manager,1312.2,limited,2
+aquaculture production manager,1312.3,limited,1
+green coffee coordinator,1321.1,limited,10
+manufacturing manager,1321.2,strong,86
+industrial production manager,1321.2.1,strong,192
+chemical production manager,1321.2.1.1,limited,8
+clothing operations manager,1321.2.1.2,strong,79
+food production manager,1321.2.1.3,strong,187
+footwear production manager,1321.2.1.4,limited,2
+leather finishing operations manager,1321.2.1.5,limited,4
+leather goods production manager,1321.2.1.6.1,limited,2
+leather wet processing department manager,1321.2.1.6.2,limited,7
+metallurgical manager,1321.2.1.7,strong,21
+metal production manager,1321.2.1.8,strong,25
+industrial quality manager,1321.2.2,strong,134
+leather goods quality manager,1321.2.2.2,limited,10
+textile quality manager,1321.2.2.3,limited,7
+operations manager,1321.2.3,strong,342
+sewerage systems manager,1321.2.4,limited,11
+waste management officer,1321.2.5,limited,13
+textile operations manager,1321.3,strong,78
+mine manager,1322.1,limited,1
+mine production manager,1322.1.1,limited,1
+oil and gas production manager,1322.1.2,limited,13
+quarry manager,1322.2,limited,3
+construction manager,1323.1,strong,180
+construction general contractor,1323.1.1,strong,222
+property developer,1323.1.2,strong,39
+airport director,1324.1,limited,5
+air traffic manager,1324.2,strong,64
+logistics and distribution manager,1324.3,strong,686
+distribution manager,1324.3.1,strong,333
+inland water transport general manager,1324.3.1.1,strong,21
+maritime water transport general manager,1324.3.1.2,strong,47
+rail operations manager,1324.3.1.3,limited,17
+road operations manager,1324.3.1.4,strong,108
+road transport division manager,1324.3.1.5,strong,172
+specialised goods distribution manager,1324.3.1.6,strong,21
+electrical household appliances distribution manager,1324.3.1.6.10,limited,17
+electronic and telecommunications equipment and parts distribution manager,1324.3.1.6.11,strong,37
+"fish, crustaceans and molluscs distribution manager",1324.3.1.6.12,limited,5
+flowers and plants distribution manager,1324.3.1.6.13,strong,200
+fruit and vegetables distribution manager,1324.3.1.6.14,strong,80
+furniture carpets and lighting equipment distribution manager,1324.3.1.6.15,limited,12
+"hardware, plumbing and heating equipment and supplies distribution manager",1324.3.1.6.16,limited,19
+"hides, skins and leather products distribution manager",1324.3.1.6.17,limited,8
+household goods distribution manager,1324.3.1.6.18,limited,14
+live animals distribution manager,1324.3.1.6.19,limited,7
+"agricultural raw materials, seeds and animal feeds distribution manager",1324.3.1.6.2,limited,14
+"machinery, industrial equipment, ships and aircraft distribution manager",1324.3.1.6.20,limited,6
+meat and meat products distribution manager,1324.3.1.6.21,strong,27
+metals and metal ores distribution manager,1324.3.1.6.22,limited,9
+perfume and cosmetics distribution manager,1324.3.1.6.24,strong,58
+pharmaceutical goods distribution manager,1324.3.1.6.25,strong,139
+"sugar, chocolate and sugar confectionery distribution manager",1324.3.1.6.26,limited,12
+textile industry machinery distribution manager,1324.3.1.6.27,limited,1
+"textiles, textile semi-finished and raw materials distribution manager",1324.3.1.6.28,limited,10
+tobacco products distribution manager,1324.3.1.6.29,limited,6
+beverages distribution manager,1324.3.1.6.3,strong,93
+waste and scrap distribution manager,1324.3.1.6.30,limited,17
+watches and jewellery distribution manager,1324.3.1.6.31,limited,3
+wood and construction materials distribution manager,1324.3.1.6.32,limited,12
+chemical products distribution manager,1324.3.1.6.4,limited,12
+china and glassware distribution manager,1324.3.1.6.5,limited,19
+clothing and footwear distribution manager,1324.3.1.6.6,strong,38
+"coffee, tea, cocoa and spices distribution manager",1324.3.1.6.7,strong,22
+"computers, computer peripheral equipment and software distribution manager",1324.3.1.6.8,strong,42
+dairy products and edible oils distribution manager,1324.3.1.6.9,strong,32
+import export manager,1324.3.2,strong,95
+import export manager in agricultural machinery and equipment,1324.3.2.1,limited,1
+import export manager in electrical household appliances,1324.3.2.10,limited,6
+import export manager in electronic and telecommunications equipment and parts,1324.3.2.11,limited,9
+"import export manager in fish, crustaceans and molluscs",1324.3.2.12,limited,2
+import export manager in flowers and plants,1324.3.2.13,limited,1
+import export manager in fruit and vegetables,1324.3.2.14,limited,8
+"import export manager in furniture, carpets and lighting equipment",1324.3.2.15,limited,8
+"import export manager in hardware, plumbing and heating equipment and supplies",1324.3.2.16,limited,1
+"import export manager in hides, skins and leather products",1324.3.2.17,limited,3
+import export manager in household goods,1324.3.2.18,limited,6
+import export manager in live animals,1324.3.2.19,limited,2
+"import export manager in agricultural raw materials, seeds and animal feeds",1324.3.2.2,limited,6
+"import export manager in machinery, industrial equipment, ships and aircraft",1324.3.2.20,limited,9
+import export manager in meat and meat products,1324.3.2.22,limited,8
+import export manager in metals and metal ores,1324.3.2.23,limited,9
+"import export manager in mining, construction and civil engineering machinery",1324.3.2.24,limited,2
+import export manager in office furniture,1324.3.2.25,limited,2
+import export manager in office machinery and equipment,1324.3.2.26,limited,3
+import export manager in perfume and cosmetics,1324.3.2.27,limited,9
+import export manager in pharmaceutical goods,1324.3.2.28,strong,29
+"import export manager in sugar, chocolate and sugar confectionery",1324.3.2.29,limited,4
+import export manager in beverages,1324.3.2.3,strong,20
+import export manager in textiles and textile semi-finished and raw materials,1324.3.2.31,limited,12
+import export manager in tobacco products,1324.3.2.32,limited,6
+import export manager in waste and scrap,1324.3.2.33,limited,3
+import export manager in watches and jewellery,1324.3.2.34,limited,3
+import export manager in wood and construction materials,1324.3.2.35,limited,6
+import export manager in chemical products,1324.3.2.4,limited,8
+import export manager in china and other glassware,1324.3.2.5,limited,8
+import export manager in clothing and footwear,1324.3.2.6,limited,7
+"import export manager in coffee, tea, cocoa and spices",1324.3.2.7,limited,5
+"import export manager in computers, computer peripheral equipment and software",1324.3.2.8,limited,5
+import export manager in dairy products and edible oils,1324.3.2.9,limited,9
+intermodal logistics manager,1324.3.3,strong,52
+warehouse manager,1324.3.4,strong,1111
+finished leather warehouse manager,1324.3.4.1,limited,3
+move manager,1324.4,limited,16
+movie distributor,1324.5,limited,17
+pipeline superintendent,1324.6,limited,2
+railway station manager,1324.7,limited,5
+supply chain manager,1324.8,strong,353
+forecast manager,1324.8.1,strong,107
+purchasing manager,1324.8.2,strong,320
+leather raw materials purchasing manager,1324.8.2.1,limited,3
+resource manager,1324.8.3,strong,113
+chief data officer,1330.1,strong,55
+ICT information and knowledge manager,1330.1.1,strong,25
+ICT environmental manager,1330.10,limited,2
+chief information officer,1330.2,strong,75
+chief technology officer,1330.3,strong,42
+ICT documentation manager,1330.4,strong,42
+ICT operations manager,1330.5,strong,258
+software manager,1330.5.1,strong,181
+ICT product manager,1330.6,strong,254
+ICT project manager,1330.7,strong,360
+ICT vendor relationship manager,1330.8,strong,46
+telecommunications manager,1330.9,strong,164
+child care coordinator,1341.1,strong,985
+child day care centre manager,1341.2,strong,177
+nursery school head teacher,1341.3,strong,506
+clinical informatics manager,1342.1,strong,50
+healthcare institution manager,1342.2,strong,110
+social services manager,1344.1,strong,61
+public housing manager,1344.1.1,strong,43
+youth centre manager,1344.1.2,strong,198
+youth programme director,1344.1.3,strong,263
+headteacher,1345.1,strong,145
+dean of faculty,1345.1.1,strong,109
+university department head,1345.1.10,limited,8
+deputy head teacher,1345.1.2,strong,142
+education programme coordinator,1345.1.3,strong,71
+further education principal,1345.1.4,strong,22
+head of higher education institutions,1345.1.5,strong,31
+primary school head teacher,1345.1.6,strong,115
+secondary school department head,1345.1.7,strong,45
+secondary school head teacher,1345.1.8,strong,46
+special educational needs head teacher,1345.1.9,limited,17
+bank manager,1346.1,strong,92
+brokerage firm director,1346.2,strong,33
+credit union manager,1346.3,strong,36
+insurance agency manager,1346.4,strong,141
+insurance claims manager,1346.5,strong,44
+pension scheme manager,1346.6,limited,18
+airside safety manager,1349.1,limited,19
+court administrator,1349.10,limited,8
+document management officer,1349.11,strong,110
+energy manager,1349.12,limited,19
+environmental protection manager,1349.13,strong,39
+front of house manager,1349.14,strong,121
+interpretation agency manager,1349.15,limited,2
+library manager,1349.16,limited,12
+museum director,1349.18,limited,4
+publications coordinator,1349.19,strong,109
+airspace manager,1349.2,limited,16
+rescue centre manager,1349.20,limited,19
+service manager,1349.21,strong,140
+legal service manager,1349.21.1,strong,67
+sport administrator,1349.22,strong,107
+translation agency manager,1349.23,strong,59
+artistic director,1349.3,strong,50
+aviation communications and frequency coordination manager,1349.4,limited,19
+aviation surveillance and code coordination manager,1349.5,strong,29
+book publisher,1349.6,strong,48
+chief fire officer,1349.7,limited,8
+commercial art gallery manager,1349.8,strong,21
+correctional services manager,1349.9,limited,10
+accommodation manager,1411.1,strong,193
+hospitality entertainment manager,1411.2,strong,68
+rooms division manager,1411.3,strong,315
+restaurant manager,1412.1,strong,1048
+department store manager,1420.1,strong,273
+retail department manager,1420.2,strong,1173
+sales account manager,1420.3,strong,3490
+shop manager,1420.4,strong,825
+ammunition shop manager,1420.4.1,limited,4
+clothing shop manager,1420.4.10,strong,432
+computer shop manager,1420.4.11,strong,61
+computer software and multimedia shop manager,1420.4.12,strong,33
+confectionery shop manager,1420.4.13,strong,28
+cosmetics and perfume shop manager,1420.4.14,strong,46
+craft shop manager,1420.4.15,strong,30
+delicatessen shop manager,1420.4.16,strong,99
+domestic appliances shop manager,1420.4.17,strong,28
+drugstore manager,1420.4.18,limited,15
+eyewear and optical equipment shop manager,1420.4.19,limited,15
+antique shop manager,1420.4.2,limited,3
+fish and seafood shop manager,1420.4.20,strong,21
+floor and wall coverings shop manager,1420.4.21,strong,52
+flower and garden shop manager,1420.4.22,strong,61
+fruit and vegetables shop manager,1420.4.23,strong,87
+fuel station manager,1420.4.24,strong,59
+furniture shop manager,1420.4.25,strong,180
+hardware and paint shop manager,1420.4.26,strong,50
+jewellery and watches shop manager,1420.4.27,strong,60
+kitchen and bathroom shop manager,1420.4.28,strong,63
+meat and meat products shop manager,1420.4.29,strong,81
+audio and video equipment shop manager,1420.4.3,strong,51
+medical goods shop manager,1420.4.30,strong,81
+motor vehicle shop manager,1420.4.31,strong,204
+music and video shop manager,1420.4.32,strong,40
+orthopaedic supply shop manager,1420.4.33,limited,7
+pet and pet food shop manager,1420.4.34,strong,30
+photography shop manager,1420.4.35,strong,33
+press and stationery shop manager,1420.4.36,strong,85
+second-hand shop manager,1420.4.37,limited,15
+shoe and leather accessories shop manager,1420.4.38,strong,85
+sporting and outdoor accessories shop manager,1420.4.39,strong,91
+audiology equipment shop manager,1420.4.4,limited,5
+telecommunication equipment shop manager,1420.4.40,strong,112
+textile shop manager,1420.4.41,strong,23
+tobacco shop manager,1420.4.42,limited,6
+toys and games shop manager,1420.4.43,strong,40
+bakery shop manager,1420.4.5,strong,197
+beverages shop manager,1420.4.6,strong,146
+bicycle shop manager,1420.4.7,strong,47
+bookshop manager,1420.4.8,strong,24
+building materials shop manager,1420.4.9,strong,20
+supermarket manager,1420.5,strong,267
+trade regional manager,1420.6,strong,620
+cultural facilities manager,1431.1,strong,27
+cultural centre director,1431.1.1,strong,65
+performance production manager,1431.1.2,strong,63
+recreational facilities manager,1431.2,limited,15
+beauty salon manager,1431.2.1,strong,102
+gambling manager,1431.2.3,limited,7
+lottery manager,1431.2.4,limited,1
+spa manager,1431.2.5,strong,35
+zoo curator,1431.2.6,limited,3
+sport facility manager,1431.3,strong,66
+call centre manager,1439.1,strong,124
+camping ground manager,1439.2,strong,197
+contact centre manager,1439.3,strong,600
+garage manager,1439.4,strong,107
+laundry and dry cleaning manager,1439.5,strong,60
+tourist information centre manager,1439.6,strong,41
+tour operator manager,1439.7,strong,97
+travel agency manager,1439.8,strong,102
+astronomer,2111.1,strong,112
+cosmologist,2111.2,limited,14
+physicist,2111.3,strong,21
+meteorologist,2112.1,limited,12
+aviation meteorologist,2112.1.1,limited,6
+climatologist,2112.1.2,limited,14
+weather forecaster,2112.1.3,limited,16
+metrologist,2112.2,limited,16
+analytical chemist,2113.1.1,strong,191
+chemical application specialist,2113.1.2,strong,42
+chemical tester,2113.1.3,strong,107
+cosmetic chemist,2113.1.4,strong,44
+fragrance chemist,2113.1.5,limited,15
+textile chemist,2113.1.6,limited,3
+sensory scientist,2113.2,strong,23
+geologist,2114.1,limited,15
+environmental geologist,2114.1.1,limited,8
+seismologist,2114.1.10,limited,2
+geochemist,2114.1.3,limited,19
+hydrogeologist,2114.1.4,limited,9
+hydrologist,2114.1.5,strong,22
+mine geologist,2114.1.6,limited,1
+mud logger,2114.1.7,limited,15
+oceanographer,2114.1.8,strong,24
+palaeontologist,2114.1.9,limited,8
+geophysicist,2114.2,limited,17
+mineralogist,2114.3,limited,10
+actuarial consultant,2120.1,strong,31
+demographer,2120.2,limited,6
+gambling games developer,2120.3,limited,2
+mathematician,2120.5,strong,52
+statistician,2120.6,strong,45
+biometrician,2120.6.1,limited,8
+animal behaviourist,2131.1,limited,3
+animal feed nutritionist,2131.2,limited,16
+biologist,2131.4,strong,31
+aquaculture biologist,2131.4.1,limited,18
+physiologist,2131.4.11,limited,11
+,2131.4.12,strong,211
+toxicologist,2131.4.13,limited,11
+,2131.4.3,strong,211
+botanicals specialist,2131.4.5,limited,3
+botanist,2131.4.6,limited,18
+curator of horticulture,2131.4.6.1,strong,26
+epidemiologist,2131.4.7,limited,9
+marine biologist,2131.4.9,limited,15
+food biotechnologist,2131.5,limited,12
+,2131.8,strong,211
+,2131.8.1,strong,211
+,2131.8.2,strong,211
+agricultural scientist,2132.1,strong,82
+agronomist,2132.2,limited,14
+aquaculture recirculation manager,2132.3,limited,2
+fisheries adviser,2132.4,limited,3
+forestry adviser,2132.5,limited,9
+livestock advisor,2132.6,limited,6
+airport environment officer,2133.1,limited,1
+pipeline environmental project manager,2133.10,limited,7
+soil scientist,2133.11,limited,9
+water quality analyst,2133.13,strong,106
+air pollution analyst,2133.14,limited,17
+environmental technician,2133.15,strong,47
+groundwater monitoring technician,2133.15.1,strong,61
+aquaculture environmental analyst,2133.2,limited,2
+conservation scientist,2133.3,strong,59
+countryside officer,2133.4,strong,152
+ecologist,2133.5,strong,40
+environmental programme coordinator,2133.6,strong,77
+environmental scientist,2133.7,strong,61
+natural resources consultant,2133.8,limited,15
+nature conservation officer,2133.9,strong,112
+clothing technologist,2141.1,limited,14
+process engineer,2141.10,strong,110
+textile technologist,2141.11,limited,18
+food and beverage packaging technologist,2141.2,strong,78
+homologation engineer,2141.3,limited,6
+industrial engineer,2141.4,strong,46
+manufacturing engineer,2141.4.1,strong,51
+production engineer,2141.4.2,strong,45
+automation engineer,2141.4.2.1,limited,18
+food production engineer,2141.4.2.2,strong,28
+surface engineer,2141.4.3,limited,12
+leather goods industrial engineer,2141.5,limited,1
+leather production planner,2141.6,limited,19
+maintenance and repair engineer,2141.8,strong,146
+packaging production manager,2141.9,strong,140
+civil engineer,2142.1,strong,84
+airport planning engineer,2142.1.1,limited,6
+water engineer,2142.1.11,limited,14
+construction engineer,2142.1.2,strong,157
+drainage engineer,2142.1.3,limited,1
+geological engineer,2142.1.4,limited,16
+hydropower engineer,2142.1.5,limited,4
+pipeline engineer,2142.1.7,strong,21
+rail project engineer,2142.1.8,limited,17
+transport engineer,2142.1.9,strong,33
+environmental engineer,2143.1,strong,30
+environmental mining engineer,2143.1.1,limited,4
+recycling specialist,2143.1.3,limited,6
+waste treatment engineer,2143.1.4,limited,18
+environmental expert,2143.2,limited,5
+wastewater engineer,2143.3,strong,25
+mechanical engineer,2144.1,strong,66
+aerospace engineer,2144.1.1,limited,10
+aerodynamics engineer,2144.1.1.1,limited,6
+marine engineer,2144.1.10,limited,8
+mechatronics engineer,2144.1.11,limited,13
+mine mechanical engineer,2144.1.12,limited,2
+naval architect,2144.1.14,limited,4
+optomechanical engineer,2144.1.15,limited,4
+packing machinery engineer,2144.1.16,strong,27
+powertrain engineer,2144.1.17,limited,10
+precision engineer,2144.1.18,limited,16
+rolling stock engineer,2144.1.19,limited,4
+agricultural engineer,2144.1.2,strong,20
+agricultural equipment design engineer,2144.1.2.1,limited,10
+rotating equipment engineer,2144.1.20,limited,6
+steam engineer,2144.1.21,limited,8
+tooling engineer,2144.1.22,limited,8
+welding engineer,2144.1.23,limited,7
+automotive engineer,2144.1.3,strong,57
+container equipment design engineer,2144.1.4,strong,23
+engine designer,2144.1.5,strong,22
+equipment engineer,2144.1.6,strong,20
+fluid power engineer,2144.1.7,strong,38
+"heating, ventilation, air conditioning engineer",2144.1.8,strong,65
+industrial tool design engineer,2144.1.9,strong,23
+chemical engineer,2145.1,strong,20
+brewmaster,2145.1.2,limited,10
+food technologist,2145.1.4,strong,23
+gas distribution engineer,2145.1.5,limited,11
+gas production engineer,2145.1.6,limited,4
+oenologist,2145.1.7,limited,3
+paper engineer,2145.1.8,limited,3
+rubber technologist,2145.2,limited,4
+synthetic materials engineer,2145.3,limited,4
+assayer,2146.1,strong,28
+petroleum engineer,2146.10,limited,18
+drilling engineer,2146.2,limited,2
+liquid fuel engineer,2146.4,limited,7
+metallurgist,2146.5,limited,5
+chemical metallurgist,2146.5.1,limited,5
+process metallurgist,2146.5.2,strong,37
+mine development engineer,2146.6,limited,6
+mine health and safety engineer,2146.7,limited,1
+mineral processing engineer,2146.9,limited,2
+acoustical engineer,2149.1,strong,48
+health and safety engineer,2149.10,limited,13
+fire prevention and protection engineer,2149.10.1,limited,10
+materials engineer,2149.11,strong,28
+nanoengineer,2149.11.1,limited,15
+wood technology engineer,2149.11.2,limited,16
+optical engineer,2149.12,limited,4
+photonics engineer,2149.12.1,limited,15
+patent engineer,2149.13,strong,20
+quantity surveyor,2149.14,strong,112
+robotics engineer,2149.15,limited,17
+test engineer,2149.16,strong,106
+"textile, leather and footwear researcher",2149.17,limited,15
+application engineer,2149.2,strong,130
+calculation engineer,2149.2.1,strong,234
+component engineer,2149.2.2,strong,25
+contract engineer,2149.2.3,strong,59
+design engineer,2149.2.4,strong,99
+installation engineer,2149.2.5,strong,76
+logistics engineer,2149.2.6,strong,148
+quality engineer,2149.2.7,strong,374
+compliance engineer,2149.2.7.1,strong,28
+autonomous driving specialist,2149.3,limited,11
+aviation ground systems engineer,2149.4,limited,5
+bioengineer,2149.5,limited,6
+biomedical engineer,2149.5.1,limited,14
+commissioning engineer,2149.6,strong,114
+dependability engineer,2149.7,strong,21
+energy engineer,2149.9,limited,2
+alternative fuels engineer,2149.9.1,limited,13
+energy systems engineer,2149.9.2,limited,14
+nuclear engineer,2149.9.4,limited,16
+offshore renewable energy engineer,2149.9.5,limited,4
+onshore wind energy engineer,2149.9.6,limited,12
+renewable energy engineer,2149.9.7,strong,29
+solar energy engineer,2149.9.8,strong,27
+thermal engineer,2149.9.9,strong,38
+electrical engineer,2151.1,strong,84
+electric power generation engineer,2151.1.1,limited,6
+electromagnetic engineer,2151.1.2,limited,4
+electromechanical engineer,2151.1.3,strong,31
+mine electrical engineer,2151.1.4,limited,1
+power distribution engineer,2151.1.5,limited,15
+substation engineer,2151.1.6,limited,11
+smart home engineer,2151.2,strong,20
+electronics engineer,2152.1,strong,66
+computer hardware engineer,2152.1.1,strong,69
+microsystem engineer,2152.1.10,limited,18
+optoelectronic engineer,2152.1.11,strong,31
+power electronics engineer,2152.1.12,limited,12
+predictive maintenance expert,2152.1.13,limited,15
+satellite engineer,2152.1.14,limited,15
+sensor engineer,2152.1.15,limited,6
+flight test engineer,2152.1.2,limited,11
+instrumentation engineer,2152.1.3,limited,9
+language engineer,2152.1.4,strong,38
+medical device engineer,2152.1.5,strong,44
+microelectronics designer,2152.1.6,limited,14
+microelectronics engineer,2152.1.7,limited,10
+integrated circuit design engineer,2152.1.7.1,strong,53
+microelectronics materials engineer,2152.1.8,limited,5
+microelectronics smart manufacturing engineer,2152.1.9,strong,34
+telecommunications engineer,2153.1,strong,131
+telecommunications analyst,2153.1.1,strong,180
+architect,2161.1,strong,156
+interior architect,2161.1.1,strong,167
+landscape architect,2162.1,strong,49
+landscape designer,2162.1.1,strong,23
+industrial designer,2163.1,strong,30
+automotive designer,2163.1.1,strong,29
+costume designer,2163.1.2,strong,28
+fashion designer,2163.1.3,strong,55
+clothing fashion designer,2163.1.3.1,strong,144
+footwear designer,2163.1.3.2,limited,10
+leather goods designer,2163.1.3.3,limited,7
+furniture designer,2163.1.4,strong,112
+jewellery designer,2163.1.5,strong,32
+model maker,2163.1.6,strong,50
+puppet designer,2163.1.7,limited,1
+textile designer,2163.1.8,strong,37
+leather goods product developer,2163.2,limited,1
+textile colourist,2163.3,limited,7
+textile product developer,2163.4,limited,15
+land planner,2164.1,strong,65
+mobility services manager,2164.2,strong,20
+transport planner,2164.3,strong,105
+urban planner,2164.4,strong,49
+cadastral technician,2165.1,strong,29
+cartographer,2165.2,strong,56
+geographic information systems specialist,2165.3,strong,137
+land surveyor,2165.4,strong,83
+hydrographic surveyor,2165.4.1,strong,31
+mine surveyor,2165.4.2,limited,2
+3D modeller,2166.1,strong,54
+illustrator,2166.10,strong,72
+performance lighting designer,2166.11,strong,35
+performance video designer,2166.12,strong,40
+special effects artist,2166.13,limited,14
+stop-motion animator,2166.14,strong,1785
+animation layout artist,2166.2,limited,17
+animator,2166.3,strong,813
+3D animator,2166.3.1,limited,4
+desktop publisher,2166.4,strong,596
+digital artist,2166.5,strong,27
+digital games designer,2166.6,strong,27
+digital media designer,2166.7,strong,248
+gambling games designer,2166.8,limited,1
+graphic designer,2166.9,strong,1315
+general practitioner,2211.1,strong,225
+specialised doctor,2212.1,strong,107
+advanced nurse practitioner,2221.1,strong,146
+nurse responsible for general care,2221.2,strong,1920
+specialist nurse,2221.3,strong,626
+midwife,2222.1,strong,266
+aromatherapist,2230.1,limited,1
+complementary therapist,2230.2,limited,19
+acupuncturist,2230.2.1,limited,3
+homeopath,2230.2.2,strong,51
+traditional chinese medicine therapist,2230.2.3,limited,2
+animal chiropractor,2250.1,strong,30
+animal osteopath,2250.2,limited,1
+animal therapist,2250.4,limited,12
+animal hydrotherapist,2250.4.1,limited,16
+animal massage therapist,2250.4.2,limited,4
+aquatic animal health professional,2250.5,limited,7
+general veterinarian,2250.6,strong,66
+official veterinarian,2250.7,limited,12
+specialised veterinarian,2250.8,limited,19
+dental practitioner,2261.1,strong,124
+specialist dentist,2261.2,limited,9
+pharmacist,2262.1,strong,274
+pharmaceutical quality specialist,2262.1.1,strong,182
+specialist pharmacist,2262.1.2,strong,38
+hospital pharmacist,2262.1.2.1,strong,395
+emergency response coordinator,2263.1,strong,134
+food safety specialist,2263.2,strong,95
+health and safety officer,2263.3,strong,201
+ergonomist,2263.3.1,limited,19
+radiation protection officer,2263.5,limited,6
+advanced physiotherapist,2264.1,strong,32
+physiotherapist,2264.2,strong,517
+dietitian,2265.1,strong,55
+prepared meals nutritionist,2265.1.1,strong,127
+audiologist,2266.1,strong,124
+speech and language therapist,2266.2,strong,374
+optometrist,2267.1,strong,34
+orthoptist,2267.2,strong,28
+chiropractor,2269.1,strong,106
+specialist chiropractor,2269.10,strong,80
+osteopath,2269.11,strong,49
+medical physics expert,2269.3,limited,9
+occupational therapist,2269.4,strong,400
+occupational therapy assistant,2269.5,strong,40
+podiatrist,2269.6,strong,42
+podiatry assistant,2269.7,strong,43
+radiographer,2269.8,strong,136
+nuclear medicine radiographer,2269.8.2,strong,60
+recreational therapist,2269.9,strong,90
+animal assisted therapist,2269.9.1,limited,5
+art therapist,2269.9.2,strong,46
+dance therapist,2269.9.3,limited,15
+music therapist,2269.9.4,strong,26
+higher education lecturer,2310.1,strong,180
+anthropology lecturer,2310.1.1,strong,36
+communications lecturer,2310.1.10,strong,74
+computer science lecturer,2310.1.11,strong,58
+dentistry lecturer,2310.1.12,strong,30
+earth science lecturer,2310.1.13,strong,98
+economics lecturer,2310.1.14,strong,37
+education studies lecturer,2310.1.15,strong,78
+engineering lecturer,2310.1.16,strong,39
+fine arts instructor,2310.1.17,strong,30
+food science lecturer,2310.1.18,strong,55
+archaeology lecturer,2310.1.2,strong,24
+history lecturer,2310.1.20,strong,49
+journalism lecturer,2310.1.21,strong,54
+law lecturer,2310.1.22,strong,70
+linguistics lecturer,2310.1.23,strong,38
+mathematics lecturer,2310.1.24,strong,61
+modern languages lecturer,2310.1.26,strong,62
+music instructor,2310.1.27,strong,51
+nursing lecturer,2310.1.28,strong,109
+performing arts school dance instructor,2310.1.29,strong,38
+architecture lecturer,2310.1.3,strong,43
+performing arts theatre instructor,2310.1.30,strong,24
+philosophy lecturer,2310.1.32,limited,7
+physics lecturer,2310.1.33,strong,28
+politics lecturer,2310.1.34,strong,28
+psychology lecturer,2310.1.35,strong,126
+religious studies lecturer,2310.1.36,limited,13
+social work lecturer,2310.1.37,strong,49
+sociology lecturer,2310.1.38,strong,53
+space science lecturer,2310.1.39,limited,12
+art studies lecturer,2310.1.4,strong,78
+university literature lecturer,2310.1.40,strong,25
+university research assistant,2310.1.41,strong,607
+university teaching assistant,2310.1.42,strong,955
+veterinary medicine lecturer,2310.1.43,strong,26
+assistant lecturer,2310.1.5,strong,105
+biology lecturer,2310.1.6,strong,42
+business lecturer,2310.1.7,strong,40
+chemistry lecturer,2310.1.8,strong,30
+classical languages lecturer,2310.1.9,limited,13
+social work practice educator,2310.2,strong,434
+vocational teacher,2320.1,strong,161
+"agriculture, forestry and fishery vocational teacher",2320.1.1,strong,25
+electricity and energy vocational teacher,2320.1.10,strong,97
+electronics and automation vocational teacher,2320.1.11,strong,61
+firefighter instructor,2320.1.12,limited,19
+food service vocational teacher,2320.1.13,strong,128
+hairdressing vocational teacher,2320.1.14,strong,94
+hospitality vocational teacher,2320.1.15,strong,148
+industrial arts vocational teacher,2320.1.16,strong,123
+maritime instructor,2320.1.17,strong,24
+occupational driving instructor,2320.1.19,strong,90
+air traffic instructor,2320.1.2,limited,9
+occupational railway instructor,2320.1.20,strong,26
+physical education vocational teacher,2320.1.21,strong,183
+police trainer,2320.1.22,strong,37
+transport technology vocational teacher,2320.1.23,strong,21
+travel and tourism vocational teacher,2320.1.24,strong,67
+armed forces training and education officer,2320.1.3,strong,175
+auxiliary nursing and midwifery vocational teacher,2320.1.4,strong,161
+beauty vocational teacher,2320.1.5,strong,154
+business administration vocational teacher,2320.1.6,strong,126
+business and marketing vocational teacher,2320.1.7,strong,230
+cabin crew instructor,2320.1.8,strong,34
+design and applied arts vocational teacher,2320.1.9,strong,89
+secondary school teacher,2330.1,strong,3446
+art teacher secondary school,2330.1.1,strong,317
+literature teacher at secondary school,2330.1.10,strong,162
+mathematics teacher at secondary school,2330.1.11,strong,438
+modern languages teacher secondary school,2330.1.12,strong,2003
+music teacher secondary school,2330.1.13,strong,301
+philosophy teacher secondary school,2330.1.14,strong,43
+physical education teacher secondary school,2330.1.15,strong,539
+physics teacher secondary school,2330.1.16,strong,221
+religious education teacher at secondary school,2330.1.17,strong,434
+science teacher secondary school,2330.1.18,strong,569
+biology teacher secondary school,2330.1.2,strong,364
+business studies and economics teacher secondary school,2330.1.3,strong,409
+chemistry teacher secondary school,2330.1.4,strong,127
+classical languages teacher secondary school,2330.1.5,strong,79
+drama teacher secondary school,2330.1.6,strong,373
+geography teacher secondary school,2330.1.7,strong,275
+history teacher secondary school,2330.1.8,strong,444
+ICT teacher secondary school,2330.1.9,strong,499
+primary school teacher,2341.1,strong,2035
+Steiner school teacher,2341.1.1,limited,17
+early years teacher,2342.1,strong,1330
+Freinet school teacher,2342.2,strong,63
+Montessori school teacher,2342.3,strong,35
+curriculum administrator,2351.1,strong,142
+educational researcher,2351.2,strong,76
+education inspector,2351.3,strong,167
+special educational needs coordinator,2351.4,strong,45
+special educational needs teacher,2352.1,strong,75
+adult literacy teacher,2352.1.1,strong,123
+early years special educational needs teacher,2352.1.2,strong,467
+learning support teacher,2352.1.3,strong,232
+special educational needs itinerant teacher,2352.1.4,strong,224
+special educational needs teacher primary school,2352.1.5,strong,145
+special educational needs teacher secondary school,2352.1.6,strong,172
+teacher of talented and gifted students,2352.2,limited,7
+language school teacher,2353.1,strong,912
+sign language teacher,2353.2,limited,18
+music teacher,2354.1,strong,72
+arts education officer,2355.1,strong,297
+circus arts teacher,2355.2,limited,17
+dance teacher,2355.3,strong,104
+drama teacher,2355.4,strong,28
+photography teacher,2355.5,strong,35
+visual arts teacher,2355.6,strong,215
+ICT trainer,2356.1,strong,243
+digital literacy teacher,2356.1.1,strong,112
+academic advisor,2359.1,strong,231
+instructional designer,2359.10,strong,122
+learning mentor,2359.11,strong,131
+prison instructor,2359.12,strong,30
+public speaking coach,2359.13,strong,30
+tutor,2359.14,strong,219
+academic support officer,2359.2,strong,298
+admissions coordinator,2359.3,strong,69
+assessor of prior learning,2359.4,strong,279
+assistive technologist,2359.5,strong,196
+e-learning developer,2359.7,strong,84
+educational counsellor,2359.8,strong,242
+further education teacher,2359.9,strong,144
+accountant,2411.1,strong,1272
+accounting analyst,2411.1.1,strong,158
+grants management officer,2411.1.10,limited,7
+public finance accountant,2411.1.11,strong,106
+tax advisor,2411.1.12,strong,90
+bankruptcy trustee,2411.1.3,strong,47
+budget analyst,2411.1.4,strong,70
+cost analyst,2411.1.5,strong,152
+dividend analyst,2411.1.6,limited,3
+financial auditor,2411.1.7,strong,133
+financial controller,2411.1.8,strong,426
+financial fraud examiner,2411.1.9,strong,30
+business valuer,2412.1,limited,3
+public funding advisor,2412.10,strong,35
+venture capitalist,2412.11,limited,13
+corporate banking adviser,2412.2,strong,223
+corporate risk manager,2412.3,strong,31
+financial planner,2412.4,strong,70
+relationship banking manager,2412.4.1,strong,373
+financial risk manager,2412.5,strong,25
+investment adviser,2412.6,strong,156
+corporate investment banker,2412.6.1,strong,59
+investment fund management assistant,2412.6.2,strong,179
+investment manager,2412.6.3,limited,16
+investor relations manager,2412.6.4,strong,38
+investment fund manager,2412.7,strong,24
+personal trust officer,2412.8,limited,9
+programme funding manager,2412.9,limited,12
+financial analyst,2413.1,strong,267
+insurance rating analyst,2413.1.1,strong,37
+investment analyst,2413.1.2,strong,25
+mergers and acquisitions analyst,2413.1.3,strong,32
+securities analyst,2413.1.4,strong,52
+middle office analyst,2413.2,strong,1170
+business analyst,2421.1,strong,275
+manufacturing cost estimator,2421.1.1,strong,119
+business consultant,2421.2,strong,306
+business intelligence manager,2421.3,strong,83
+lean manager,2421.4,strong,107
+logistics analyst,2421.5,strong,164
+civil service administrative officer,2422.1,strong,1081
+monitoring and evaluation officer,2422.10,strong,107
+parliamentary assistant,2422.11,strong,174
+policy officer,2422.12,strong,94
+agricultural policy officer,2422.12.1,strong,34
+labour market policy officer,2422.12.10,limited,15
+legal policy officer,2422.12.11,strong,71
+public health policy officer,2422.12.12,strong,31
+recreation policy officer,2422.12.13,strong,28
+regional development policy officer,2422.12.14,strong,66
+social services policy officer,2422.12.15,strong,58
+competition policy officer,2422.12.2,limited,7
+cultural policy officer,2422.12.3,strong,184
+education policy officer,2422.12.4,strong,50
+environmental policy officer,2422.12.5,strong,62
+fiscal affairs policy officer,2422.12.6,limited,19
+foreign affairs officer,2422.12.7,strong,116
+housing policy officer,2422.12.8,strong,31
+immigration policy officer,2422.12.9,strong,38
+political affairs officer,2422.13,strong,39
+procurement category specialist,2422.14,strong,39
+public procurement specialist,2422.15,strong,41
+social service consultant,2422.16,limited,14
+sports programme coordinator,2422.17,strong,135
+trade development officer,2422.18,strong,122
+community development officer,2422.2,strong,218
+employment programme coordinator,2422.3,limited,11
+healthcare consultant,2422.6,strong,76
+humanitarian advisor,2422.7,strong,44
+intelligence officer,2422.8,strong,120
+international relations officer,2422.9,strong,145
+career guidance advisor,2423.1,strong,42
+employment and vocational integration consultant,2423.2,strong,106
+human resources officer,2423.3,strong,287
+labour relations officer,2423.4,strong,89
+occupational analyst,2423.5,strong,178
+recruitment consultant,2423.6,strong,1292
+business coach,2424.1,strong,120
+corporate trainer,2424.2,strong,344
+,2424.3,strong,211
+advertising copywriter,2431.1,strong,364
+marketing consultant,2431.10,strong,779
+advertising media planner,2431.10.1,strong,115
+eBusiness manager,2431.10.2,strong,67
+marketing assistant,2431.10.3,strong,2471
+online marketer,2431.10.4,strong,618
+market research analyst,2431.11,strong,515
+membership manager,2431.12,strong,43
+network marketer,2431.13,strong,230
+pricing specialist,2431.14,strong,143
+product and services manager,2431.15,strong,435
+promotion assistant,2431.16,strong,558
+advertising media buyer,2431.2,strong,58
+advertising specialist,2431.3,strong,133
+brand manager,2431.4,strong,166
+business developer,2431.5,strong,617
+client relations manager,2431.6,strong,1306
+creative director,2431.7,strong,137
+customer experience manager,2431.8,strong,26
+hospitality revenue manager,2431.9,limited,19
+activism officer,2432.1,strong,125
+election agent,2432.2,limited,3
+fundraising manager,2432.3,strong,123
+intercultural communication consultant,2432.4,strong,140
+online community manager,2432.5,strong,190
+political campaign officer,2432.6,limited,9
+campaign canvasser,2432.6.1,strong,43
+political party agent,2432.7,strong,42
+public affairs consultant,2432.8,strong,37
+public relations officer,2432.9,strong,1149
+spokesperson,2432.9.1,strong,98
+after-sales service technician,2433.1,strong,1383
+medical sales representative,2433.2,strong,488
+renewable energy consultant,2433.3,strong,20
+sales engineer,2433.4,strong,321
+solar energy sales consultant,2433.5,strong,51
+technical sales representative,2433.6,strong,568
+technical sales representative in agricultural machinery and equipment,2433.6.1,strong,83
+technical sales representative in chemical products,2433.6.2,strong,152
+"technical sales representative in hardware, plumbing and heating equipment",2433.6.3,strong,177
+technical sales representative in machinery and industrial equipment,2433.6.4,strong,328
+technical sales representative in mining and construction machinery,2433.6.5,limited,12
+technical sales representative in office machinery and equipment,2433.6.6,strong,250
+technical sales representative in the textile machinery industry,2433.6.7,strong,74
+ICT account manager,2434.1,strong,480
+ICT business development manager,2434.2,strong,56
+ICT presales engineer,2434.3,strong,62
+technical sales representative in electronic and telecommunications equipment,2434.4,strong,626
+ICT consultant,2511.10,strong,169
+artificial intelligence engineer,2511.11,limited,4
+ICT research consultant,2511.12,strong,86
+ICT system analyst,2511.13,strong,321
+ICT system architect,2511.14,strong,84
+blockchain architect,2511.14.1,limited,4
+ICT system developer,2511.15,strong,182
+ICT system integration consultant,2511.16,strong,233
+integration engineer,2511.17,strong,45
+IT auditor,2511.18,strong,45
+user experience analyst,2511.19,limited,14
+computer vision engineer,2511.2,limited,19
+data analyst,2511.3,strong,345
+data scientist,2511.4,strong,60
+embedded system designer,2511.5,strong,31
+enterprise architect,2511.6,strong,22
+green ICT consultant,2511.7,limited,4
+ICT business analysis manager,2511.8,strong,21
+ICT business analyst,2511.9,strong,145
+cloud engineer,2512.1,limited,19
+software analyst,2512.2,strong,449
+software architect,2512.3,strong,61
+software developer,2512.4,strong,750
+blockchain developer,2512.4.1,limited,11
+user interface developer,2512.5,strong,97
+digital games developer,2513.1,strong,43
+search engine optimisation expert,2513.2,strong,58
+user interface designer,2513.3,strong,35
+web content manager,2513.4,strong,223
+web developer,2513.5,strong,596
+ICT application configurator,2514.1,strong,53
+ICT application developer,2514.2,strong,276
+embedded systems software developer,2514.2.1,strong,150
+mobile application developer,2514.2.2,strong,114
+industrial mobile devices software developer,2514.3,strong,50
+numerical tool and process control programmer,2514.4,strong,257
+data quality specialist,2519.1,strong,71
+ICT auditor manager,2519.2,limited,9
+ICT change and configuration manager,2519.3,strong,135
+ICT disaster recovery analyst,2519.4,strong,32
+ICT quality assurance manager,2519.5,strong,30
+ICT test analyst,2519.6,strong,408
+software tester,2519.7,strong,166
+digital games tester,2519.7.1,strong,20
+ICT accessibility tester,2519.7.2,limited,12
+ICT integration tester,2519.7.3,strong,75
+ICT system tester,2519.7.4,strong,84
+ICT usability tester,2519.7.5,limited,12
+database administrator,2521.1,strong,134
+database designer,2521.2,strong,133
+database developer,2521.3,strong,77
+database integrator,2521.4,strong,338
+data warehouse designer,2521.5,strong,188
+ICT system administrator,2522.1,strong,379
+ICT network administrator,2522.1.1,strong,400
+system configurator,2522.1.2,strong,419
+ICT capacity planner,2523.1,limited,19
+ICT network architect,2523.2,strong,105
+ICT network engineer,2523.3,strong,228
+chief ICT security officer,2529.1,limited,15
+digital forensics expert,2529.2,limited,13
+embedded systems security engineer,2529.3,strong,22
+ethical hacker,2529.4,limited,7
+ICT resilience manager,2529.5,limited,9
+ICT security administrator,2529.6,limited,16
+cyber incident responder,2529.7,limited,13
+cybersecurity risk manager,2529.8,strong,43
+knowledge engineer,2529.9,limited,5
+lawyer,2611.1,strong,222
+corporate lawyer,2611.1.1,strong,87
+prosecutor,2611.1.2,limited,9
+judge,2612.1,strong,44
+contract manager,2619.1,strong,695
+notary,2619.10,strong,181
+ombudsman,2619.11,strong,50
+regulatory affairs manager,2619.12,strong,67
+coroner,2619.2,limited,4
+court jury coordinator,2619.3,strong,21
+data protection officer,2619.4,limited,4
+election observer,2619.5,strong,63
+human rights officer,2619.6,strong,41
+legal consultant,2619.7,strong,199
+legislative drafter,2619.8,strong,31
+mediator,2619.9,strong,67
+archivist,2621.1,strong,325
+collection manager,2621.2,strong,39
+conservator,2621.3,strong,200
+cultural archive manager,2621.4,limited,13
+cultural visitor services manager,2621.5,strong,55
+exhibition curator,2621.6,strong,250
+exhibition registrar,2621.7,strong,62
+museum scientist,2621.8,strong,65
+zoo registrar,2621.9,limited,3
+information manager,2622.1,strong,32
+librarian,2622.2,strong,124
+economic policy officer,2631.1,limited,18
+economist,2631.2,strong,68
+business economics researcher,2631.2.1,strong,50
+economic adviser,2631.2.2,strong,42
+economic development coordinator,2631.2.3,strong,28
+tax policy analyst,2631.2.4,limited,8
+anthropologist,2632.1,limited,11
+communication scientist,2632.1.1,strong,21
+media scientist,2632.1.2,strong,59
+archaeologist,2632.2,strong,104
+behavioural scientist,2632.3,strong,26
+criminologist,2632.4,strong,35
+geographer,2632.5,strong,24
+sociologist,2632.6,strong,23
+social work researcher,2632.6.1,strong,501
+thanatology researcher,2632.7,limited,12
+historian,2633.1,strong,84
+genealogist,2633.1.1,limited,1
+philosopher,2633.2,limited,17
+political scientist,2633.3,limited,12
+psychologist,2634.2,strong,201
+clinical psychologist,2634.2.1,strong,393
+educational psychologist,2634.2.2,strong,207
+health psychologist,2634.2.3,limited,13
+psychotherapist,2634.2.4,strong,209
+social counsellor,2635.1,strong,115
+bereavement counsellor,2635.1.1,limited,8
+drug and alcohol addiction counsellor,2635.1.2,strong,28
+family planning counsellor,2635.1.3,strong,26
+marriage counsellor,2635.1.4,limited,19
+sexual violence counsellor,2635.1.5,strong,26
+social pedagogue,2635.2,strong,206
+social worker,2635.3,strong,39
+benefits advice worker,2635.3.1,strong,41
+education welfare officer,2635.3.10,strong,249
+employment support worker,2635.3.11,strong,221
+enterprise development worker,2635.3.12,limited,19
+family social worker,2635.3.13,strong,105
+homelessness worker,2635.3.15,strong,343
+hospital social worker,2635.3.16,strong,181
+mental health social worker,2635.3.17,strong,169
+migrant social worker,2635.3.18,strong,443
+military welfare worker,2635.3.19,strong,22
+child care social worker,2635.3.2,strong,312
+palliative care social worker,2635.3.20,strong,170
+probation officer,2635.3.21,limited,12
+rehabilitation support worker,2635.3.22,strong,76
+social work supervisor,2635.3.23,strong,131
+substance misuse worker,2635.3.24,strong,45
+victim support officer,2635.3.25,strong,57
+youth offending team worker,2635.3.26,strong,69
+youth worker,2635.3.27,strong,1342
+youth information worker,2635.3.27.1,strong,350
+clinical social worker,2635.3.3,strong,338
+community development social worker,2635.3.5,strong,110
+community social worker,2635.3.6,strong,229
+consultant social worker,2635.3.7,strong,28
+criminal justice social worker,2635.3.8,limited,9
+crisis situation social worker,2635.3.9,strong,96
+chaplain,2636.1,strong,51
+minister of religion,2636.2,limited,9
+missionary,2636.3,limited,9
+religion scientific researcher,2636.4,limited,9
+book editor,2641.1,strong,21
+dramaturge,2641.2,strong,47
+literary scholar,2641.3,strong,56
+writer,2641.4,strong,81
+lyricist,2641.4.1,strong,435
+script writer,2641.4.2,strong,34
+speechwriter,2641.4.3,strong,38
+technical communicator,2641.4.4,strong,127
+journalist,2642.1,strong,407
+blogger,2642.1.1,strong,120
+fact checker,2642.1.10,strong,26
+foreign correspondent,2642.1.11,strong,130
+magazine editor,2642.1.12,strong,78
+newspaper editor,2642.1.13,strong,115
+picture editor,2642.1.14,strong,86
+political journalist,2642.1.15,strong,29
+sports journalist,2642.1.16,strong,199
+vlogger,2642.1.17,limited,8
+broadcast news editor,2642.1.2,strong,63
+business journalist,2642.1.3,strong,41
+columnist,2642.1.4,strong,268
+copy editor,2642.1.5,strong,330
+crime journalist,2642.1.6,limited,6
+critic,2642.1.7,strong,64
+editor-in-chief,2642.1.8,strong,115
+entertainment journalist,2642.1.9,strong,104
+interpreter,2643.2,strong,927
+lexicographer,2643.3,limited,14
+linguist,2643.4,strong,42
+lawyer linguist,2643.4.1,strong,72
+sign language interpreter,2643.5,strong,23
+translator,2643.6,strong,491
+localiser,2643.6.1,strong,51
+subtitler,2643.6.2,strong,70
+artistic painter,2651.1,strong,542
+storyboard artist,2651.10,limited,4
+video artist,2651.11,strong,82
+art restorer,2651.2,strong,71
+cartoonist,2651.3,limited,15
+ceramicist,2651.4,limited,14
+conceptual artist,2651.5,strong,115
+drawing artist,2651.6,strong,324
+glass artist,2651.7,limited,3
+printmaker,2651.8,limited,9
+sculptor,2651.9,strong,20
+composer,2652.1,limited,18
+music arranger,2652.1.1,strong,35
+music director,2652.2,limited,19
+musician,2652.3,strong,135
+musical conductor,2652.3.1,limited,8
+choirmaster/choirmistress,2652.3.1.1,strong,32
+singer,2652.3.2,strong,144
+répétiteur,2652.4,strong,58
+sound artist,2652.5,limited,5
+choreographer,2653.1,limited,17
+dance répétiteur,2653.1.2,strong,114
+dancer,2653.2,strong,97
+art director,2654.1,strong,117
+animation director,2654.1.1,strong,335
+casting director,2654.1.2,limited,10
+director of photography,2654.1.3,limited,15
+performance lighting director,2654.1.4,limited,11
+production designer,2654.1.5,limited,18
+stage director,2654.1.6,strong,34
+technical director,2654.1.7,strong,20
+video and motion picture director,2654.1.8,strong,34
+post-production supervisor,2654.2,strong,93
+producer,2654.3,strong,44
+music producer,2654.3.1,strong,130
+video and motion picture producer,2654.3.2,limited,13
+radio producer,2654.4,strong,37
+video and motion picture editor,2654.5,strong,62
+actor/actress,2655.1,strong,125
+voice-over artist,2655.1.1,limited,16
+audio describer,2656.1,strong,28
+news anchor,2656.2,strong,159
+presenter,2656.3,strong,176
+community artist,2659.1,strong,109
+performance artist,2659.2,strong,187
+circus artist,2659.2.1,limited,14
+,2659.2.2,strong,211
+puppeteer,2659.2.3,strong,37
+stand-up comedian,2659.2.4,limited,12
+street performer,2659.2.5,strong,363
+variety artist,2659.2.6,limited,10
+street artist,2659.3,strong,20
+tourist animator,2659.4,strong,297
+chromatographer,3111.1.1,strong,122
+nuclear technician,3111.10,strong,21
+physics technician,3111.11,strong,218
+radiation protection technician,3111.12,limited,6
+remote sensing technician,3111.13,strong,54
+soil surveying technician,3111.14,strong,87
+food analyst,3111.3,strong,162
+geology technician,3111.4,strong,25
+hydrographic surveying technician,3111.5,limited,16
+leather laboratory technician,3111.6,limited,3
+material testing technician,3111.7,strong,21
+meteorology technician,3111.8,strong,43
+metrology technician,3111.9,strong,93
+civil engineering technician,3112.1,strong,35
+bridge inspector,3112.1.1,strong,29
+rail maintenance technician,3112.1.10,strong,82
+road maintenance technician,3112.1.11,strong,36
+sewerage maintenance technician,3112.1.12,limited,12
+water systems engineering technician,3112.1.13,limited,13
+building inspector,3112.1.2,strong,45
+construction quality inspector,3112.1.3,strong,28
+construction quality manager,3112.1.4,strong,21
+energy assessor,3112.1.5,limited,8
+domestic energy assessor,3112.1.5.1,limited,12
+fire inspector,3112.1.6,limited,15
+fire protection technician,3112.1.7,strong,105
+fire safety tester,3112.1.8,limited,3
+landfill supervisor,3112.1.9,limited,10
+surveying technician,3112.10,strong,89
+construction safety inspector,3112.2,strong,38
+construction safety manager,3112.3,strong,74
+corrosion technician,3112.4,limited,3
+energy analyst,3112.5,limited,14
+energy conservation officer,3112.6,limited,7
+energy consultant,3112.7,strong,60
+engineering assistant,3112.8,strong,436
+railway infrastructure inspector,3112.9,limited,6
+electrical engineering technician,3113.1,strong,77
+calibration technician,3113.1.1,strong,81
+electromechanical engineering technician,3113.1.2,strong,1282
+hydropower technician,3113.2,limited,13
+electronics engineering technician,3114.1,strong,63
+avionics inspector,3114.1.1,limited,4
+sensor engineering technician,3114.1.10,strong,94
+computer hardware engineering technician,3114.1.2,strong,53
+computer hardware test technician,3114.1.3,strong,151
+instrumentation engineering technician,3114.1.4,strong,217
+medical device engineering technician,3114.1.5,strong,76
+microelectronics engineering technician,3114.1.6,limited,8
+microelectronics maintenance technician,3114.1.7,strong,36
+microsystem engineering technician,3114.1.8,limited,13
+optoelectronic engineering technician,3114.1.9,strong,25
+mechanical engineering technician,3115.1,strong,20
+aerospace engineering technician,3115.1.1,limited,12
+material stress analyst,3115.1.10,strong,62
+mechatronics engineering technician,3115.1.11,strong,123
+motor vehicle engine inspector,3115.1.12,limited,10
+motor vehicle engine tester,3115.1.13,strong,26
+optomechanical engineering technician,3115.1.14,limited,1
+pneumatic engineering technician,3115.1.15,strong,36
+production engineering technician,3115.1.16,strong,99
+refrigeration air condition and heat pump technician,3115.1.17,strong,580
+rolling stock engineering technician,3115.1.18,limited,3
+rolling stock engine inspector,3115.1.19,limited,1
+aircraft engine inspector,3115.1.2,limited,1
+rolling stock engine tester,3115.1.20,strong,28
+rolling stock inspector,3115.1.21,limited,16
+vessel engine inspector,3115.1.22,limited,2
+vessel engine tester,3115.1.23,limited,3
+welding inspector,3115.1.24,strong,21
+aircraft engine tester,3115.1.3,limited,2
+automotive engineering technician,3115.1.4,strong,71
+"heating, ventilation, air conditioning and refrigeration engineering technician",3115.1.5,strong,227
+industrial maintenance supervisor,3115.1.6,strong,139
+marine engineering technician,3115.1.7,limited,3
+marine mechatronics technician,3115.1.8,limited,18
+marine surveyor,3115.1.9,limited,18
+chemical engineering technician,3116.1,strong,31
+asphalt laboratory technician,3116.1.1,limited,10
+chemical manufacturing quality technician,3116.1.2,strong,267
+colour sampling technician,3116.1.3,strong,99
+hazardous waste technician,3116.1.4,limited,8
+desalination technician,3117.1,limited,13
+geotechnician,3117.2,limited,6
+metallurgical technician,3117.3,limited,4
+mine safety officer,3117.4,limited,16
+mine surveying technician,3117.5,limited,18
+3D printing technician,3118.1,limited,1
+clothing CAD technician,3118.2,limited,6
+drafter,3118.3,strong,490
+aerospace engineering drafter,3118.3.1,limited,12
+marine engineering drafter,3118.3.10,limited,6
+mechanical engineering drafter,3118.3.11,strong,119
+product development engineering drafter,3118.3.12,strong,319
+rolling stock engineering drafter,3118.3.13,limited,16
+architectural drafter,3118.3.2,strong,315
+automotive engineering drafter,3118.3.3,strong,122
+civil drafter,3118.3.4,strong,138
+computer-aided design operator,3118.3.5,strong,285
+electrical drafter,3118.3.6,strong,124
+electromechanical drafter,3118.3.7,strong,22
+electronics drafter,3118.3.8,strong,34
+"heating, ventilation, air conditioning (and refrigeration) drafter",3118.3.9,strong,50
+printed circuit board designer,3118.4,strong,48
+airport maintenance technician,3119.1,strong,27
+metal additive manufacturing operator,3119.10,limited,2
+offshore renewable energy technician,3119.11,limited,6
+photonics engineering technician,3119.12,strong,20
+pipeline compliance coordinator,3119.13,limited,10
+process engineering technician,3119.14,strong,101
+product development engineering technician,3119.15,strong,155
+quality engineering technician,3119.16,strong,306
+footwear quality technician,3119.16.2,limited,1
+leather goods quality control laboratory technician,3119.16.3,limited,16
+leather goods quality technician,3119.16.4,limited,6
+textile chemical quality technician,3119.16.5,limited,15
+textile quality technician,3119.16.6,limited,15
+tanning technician,3119.17,limited,3
+textile process controller,3119.18,limited,5
+utilities inspector,3119.19,strong,69
+automation engineering technician,3119.2,strong,138
+robotics engineering technician,3119.2.1,strong,31
+aviation safety officer,3119.3,limited,15
+commissioning technician,3119.4,strong,1267
+food technician,3119.5,strong,94
+footwear product developer,3119.6,limited,6
+footwear production technician,3119.7,strong,23
+industrial engineering technician,3119.8,strong,50
+leather goods manufacturing technician,3119.9,limited,6
+mine supervisor,3121.1,limited,1
+mine shift manager,3121.1.1,limited,7
+dairy processing technician,3122.1,strong,24
+food production planner,3122.2,strong,130
+industrial assembly supervisor,3122.3,strong,66
+aircraft assembly supervisor,3122.3.1,strong,24
+container equipment assembly supervisor,3122.3.2,strong,23
+footwear assembly supervisor,3122.3.3,limited,3
+machinery assembly supervisor,3122.3.4,strong,124
+motor vehicle assembly supervisor,3122.3.5,strong,150
+rolling stock assembly supervisor,3122.3.6,strong,30
+vessel assembly supervisor,3122.3.7,limited,12
+wood assembly supervisor,3122.3.8,strong,34
+production supervisor,3122.4,strong,869
+animal feed supervisor,3122.4.1,strong,34
+metal production supervisor,3122.4.10,strong,41
+optical instrument production supervisor,3122.4.11,limited,15
+paper mill supervisor,3122.4.12,strong,53
+plastic and rubber products manufacturing supervisor,3122.4.13,strong,76
+precision mechanics supervisor,3122.4.14,limited,5
+print studio supervisor,3122.4.15,strong,156
+wood production supervisor,3122.4.16,limited,7
+chemical processing supervisor,3122.4.2,strong,24
+distillery supervisor,3122.4.3,limited,12
+electrical equipment production supervisor,3122.4.4,strong,23
+electronics production supervisor,3122.4.5,strong,26
+footwear production supervisor,3122.4.6,limited,2
+leather goods production supervisor,3122.4.7,limited,1
+machine operator supervisor,3122.4.8,strong,167
+malt house supervisor,3122.4.9,limited,2
+waste management supervisor,3122.5,strong,28
+construction general supervisor,3123.1,strong,443
+bricklaying supervisor,3123.1.1,strong,39
+dredging supervisor,3123.1.10,limited,5
+electrical supervisor,3123.1.11,strong,131
+glass installation supervisor,3123.1.12,limited,16
+insulation supervisor,3123.1.13,limited,17
+lift installation supervisor,3123.1.14,limited,10
+paperhanger supervisor,3123.1.15,strong,37
+plastering supervisor,3123.1.16,strong,29
+plumbing supervisor,3123.1.17,strong,20
+power lines supervisor,3123.1.18,strong,51
+rail construction supervisor,3123.1.19,limited,14
+bridge construction supervisor,3123.1.2,strong,23
+road construction supervisor,3123.1.20,strong,95
+roofing supervisor,3123.1.21,strong,53
+sewer construction supervisor,3123.1.22,strong,27
+structural ironwork supervisor,3123.1.23,strong,54
+terrazzo setter supervisor,3123.1.24,strong,29
+tiling supervisor,3123.1.25,strong,32
+water conservation technician supervisor,3123.1.26,limited,16
+carpenter supervisor,3123.1.3,strong,47
+concrete finisher supervisor,3123.1.4,strong,35
+construction painting supervisor,3123.1.5,strong,88
+construction scaffolding supervisor,3123.1.6,strong,65
+crane crew supervisor,3123.1.7,strong,45
+demolition supervisor,3123.1.8,limited,2
+dismantling supervisor,3123.1.9,limited,1
+underwater construction supervisor,3123.2,limited,13
+offshore renewable energy plant operator,3131.1,limited,3
+onshore wind farm technician,3131.2,strong,22
+power production plant operator,3131.3,strong,49
+electrical power distributor,3131.3.1,strong,94
+electrical transmission system operator,3131.3.2,strong,93
+fossil-fuel power plant operator,3131.3.3,limited,6
+hydroelectric plant operator,3131.3.5,limited,7
+nuclear reactor operator,3131.3.6,limited,14
+power plant control room operator,3131.3.7,strong,59
+solar power plant operator,3131.3.8,limited,9
+steam turbine operator,3131.3.9,limited,4
+incinerator operator,3132.1,limited,1
+liquid waste treatment plant operator,3132.2,strong,41
+solid waste operator,3132.3,strong,35
+wastewater treatment operator,3132.4,strong,79
+wastewater treatment technician,3132.5,strong,36
+water plant technician,3132.6,strong,83
+water treatment systems operator,3132.7,strong,39
+chemical processing plant controller,3133.1,strong,117
+air separation plant operator,3133.1.1,limited,17
+biogas technician,3133.1.2,limited,10
+chemical plant control room operator,3133.1.3,strong,58
+gas processing plant supervisor,3133.1.4,limited,12
+gas station operator,3133.1.5,limited,15
+gas processing plant control room operator,3134.1,limited,19
+gas processing plant operator,3134.2,limited,15
+oil refinery control room operator,3134.3,strong,22
+petroleum pump system operator,3134.4,strong,43
+refinery shift manager,3134.5,strong,23
+metal furnace operator,3135.1,limited,13
+automated assembly line operator,3139.1,strong,468
+clothing process control technician,3139.1.1,strong,51
+industrial robot controller,3139.2,strong,144
+pulp control operator,3139.3,limited,2
+biotechnical technician,3141.1,strong,60
+scientific laboratory technician,3141.2,strong,185
+zoology technician,3141.2.5,strong,42
+agricultural technician,3142.1,strong,26
+aquaculture quality supervisor,3142.1.1,limited,9
+aquaculture site supervisor,3142.1.2,limited,5
+viticulture adviser,3142.1.3,limited,1
+forestry technician,3143.1,limited,2
+fisheries engineering technician,3151.1,limited,6
+marine chief engineer,3151.2,limited,11
+ship assistant engineer,3151.3,limited,14
+ship duty engineer,3151.4,limited,3
+deck officer,3152.1,strong,47
+helmsman,3152.2,limited,13
+maritime pilot,3152.3,strong,27
+ship captain,3152.4,strong,24
+skipper,3152.5,strong,23
+aircraft maintenance engineer,3153.1,limited,6
+aircraft pilot,3153.2,strong,70
+co-pilot,3153.2.1,strong,55
+commercial pilot,3153.2.2,limited,15
+airline transport pilot,3153.2.2.1,strong,27
+flight instructor,3153.2.3,limited,8
+helicopter pilot,3153.2.4,limited,16
+private pilot,3153.2.5,limited,13
+second officer,3153.2.6,limited,8
+astronaut,3153.3,strong,34
+drone pilot,3153.4,limited,16
+air traffic controller,3154.1,limited,7
+aeronautical information service officer,3154.1.1,strong,53
+aeronautical information specialist,3154.1.2,limited,10
+airport operations officer,3154.1.3,limited,18
+aviation inspector,3154.2,limited,11
+flight operations officer,3154.3,strong,61
+air traffic safety technician,3155.1,limited,4
+clinical perfusion scientist,3211.1,strong,150
+pharmacy assistant,3213.1,strong,817
+clinical trial assistant,3213.2,strong,201
+audiology technician,3214.1,strong,56
+,3214.2,strong,211
+prosthetist-orthotist,3214.3,strong,60
+,3214.3.1,strong,211
+maternity support worker,3222.1,strong,242
+herbal therapist,3230.1,limited,5
+alternative animal therapist,3240.1,limited,3
+veterinary technician,3240.2,strong,63
+animal artificial insemination technician,3240.2.1,limited,12
+animal embryo transfer technician,3240.2.2,limited,7
+equine dental technician,3240.2.3,limited,7
+veterinary nurse,3240.2.4,strong,160
+dental chairside assistant,3251.1,strong,341
+,3251.2,strong,211
+medical records clerk,3252.1,strong,320
+medical records manager,3252.2,strong,84
+picture archiving and communication systems administrator,3252.3,limited,15
+waiting list coordinator,3252.4,strong,41
+community health worker,3253.1,strong,123
+first aid instructor,3253.1.1,strong,33
+optician,3254.1,strong,25
+optical technician,3254.1.1,strong,26
+massage therapist,3255.1,strong,49
+physiotherapy assistant,3255.2,strong,243
+shiatsu practitioner,3255.3,strong,23
+sophrologist,3255.4,strong,24
+doctors' surgery assistant,3256.1,strong,331
+environmental health inspector,3257.1,strong,43
+food safety inspector,3257.3,strong,74
+industrial waste inspector,3257.4,limited,11
+hazardous materials inspector,3257.4.1,strong,24
+hazardous waste inspector,3257.4.2,limited,9
+occupational health and safety inspector,3257.5,limited,15
+healthcare inspector,3257.5.1,strong,59
+transport health and safety inspector,3257.6,limited,19
+health and safety inspector,3257.7,strong,21
+emergency ambulance driver,3258.1,strong,225
+paramedic in emergency responses,3258.2,strong,141
+assistant clinical psychologist,3259.2,strong,360
+chiropractic assistant,3259.3,strong,35
+covid tester,3259.4,strong,32
+dietetic technician,3259.5,strong,240
+respiratory therapy technician,3259.7,strong,32
+temperature screener,3259.8,limited,18
+asset manager,3311.1,strong,47
+financial broker,3311.2,strong,70
+foreign exchange broker,3311.2.1,limited,15
+,3311.2.2,strong,211
+mutual fund broker,3311.2.3,limited,18
+securities broker,3311.2.4,limited,11
+securities underwriter,3311.2.4.1,strong,23
+stock broker,3311.2.5,strong,87
+financial trader,3311.3,strong,50
+energy trader,3311.3.1,limited,9
+foreign exchange trader,3311.3.2,limited,18
+futures trader,3311.3.3,limited,3
+securities trader,3311.3.4,strong,28
+stock trader,3311.3.5,strong,32
+bank account manager,3312.1,strong,192
+credit adviser,3312.2,strong,197
+credit analyst,3312.2.1,strong,149
+credit manager,3312.3,strong,75
+credit risk analyst,3312.4,strong,49
+loan officer,3312.5,strong,178
+mortgage loan underwriter,3312.6,strong,29
+student financial support coordinator,3312.7,strong,22
+accounting assistant,3313.1,strong,4873
+bookkeeper,3313.2,strong,1307
+grants administrator,3313.3,limited,17
+actuarial assistant,3314.1,strong,40
+statistical assistant,3314.2,strong,438
+foreclosure specialist,3315.1,limited,12
+gemmologist,3315.2,strong,27
+insurance claims handler,3315.3,strong,205
+insurance fraud investigator,3315.4,limited,4
+loss adjuster,3315.5,strong,93
+personal property appraiser,3315.6,limited,3
+property appraiser,3315.7,limited,16
+real estate surveyor,3315.8,limited,4
+insurance broker,3321.1,strong,489
+insurance risk consultant,3321.2,strong,550
+insurance underwriter,3321.3,limited,3
+property insurance underwriter,3321.3.1,strong,25
+commercial sales representative,3322.1,strong,3136
+electricity sales representative,3322.1.1,strong,289
+renewable energy sales representative,3322.1.2,strong,74
+costume buyer,3323.1,strong,61
+purchaser,3323.2,strong,576
+green coffee buyer,3323.2.1,limited,3
+ICT buyer,3323.2.2,strong,70
+purchase planner,3323.2.3,strong,356
+textile sourcing merchandiser,3323.2.4,strong,52
+set buyer,3323.3,limited,10
+standalone public buyer,3323.4,strong,24
+timber trader,3323.5,strong,71
+commodity broker,3324.1,strong,67
+shipbroker,3324.1.1,strong,70
+waste broker,3324.1.2,strong,23
+commodity trader,3324.2,strong,24
+non-vessel operating common carrier,3324.3,strong,55
+wholesale merchant,3324.4,strong,178
+wholesale merchant in agricultural machinery and equipment,3324.4.1,limited,10
+wholesale merchant in electrical household appliances,3324.4.10,limited,19
+wholesale merchant in electronic and telecommunications equipment and parts,3324.4.11,strong,47
+wholesale merchant in fish crustaceans and molluscs,3324.4.12,limited,16
+wholesale merchant in flowers and plants,3324.4.13,strong,40
+wholesale merchant in fruit and vegetables,3324.4.14,strong,49
+"wholesale merchant in furniture, carpets and lighting equipment",3324.4.15,strong,78
+"wholesale merchant in hardware, plumbing and heating equipment and supplies",3324.4.16,limited,12
+"wholesale merchant in hides, skins and leather products",3324.4.17,limited,13
+wholesale merchant in household goods,3324.4.18,strong,22
+wholesale merchant in live animals,3324.4.19,limited,18
+"wholesale merchant in agricultural raw materials, seeds and animal feeds",3324.4.2,strong,36
+"wholesale merchant in machinery, industrial equipment, ships and aircraft",3324.4.20,strong,27
+wholesale merchant in machine tools,3324.4.21,limited,17
+wholesale merchant in meat and meat products,3324.4.22,strong,28
+wholesale merchant in metals and metal ores,3324.4.23,strong,57
+"wholesale merchant in mining, construction and civil engineering machinery",3324.4.24,limited,13
+wholesale merchant in office furniture,3324.4.25,strong,54
+wholesale merchant in office machinery and equipment,3324.4.26,strong,22
+wholesale merchant in perfume and cosmetics,3324.4.27,strong,38
+wholesale merchant in pharmaceutical goods,3324.4.28,strong,79
+"wholesale merchant in sugar, chocolate and sugar confectionery",3324.4.29,strong,24
+wholesale merchant in beverages,3324.4.3,strong,66
+wholesale merchant in textile industry machinery,3324.4.30,limited,7
+wholesale merchant in textiles and textile semi-finished and raw materials,3324.4.31,strong,22
+wholesale merchant in tobacco products,3324.4.32,limited,14
+wholesale merchant in waste and scrap,3324.4.33,limited,4
+wholesale merchant in watches and jewellery,3324.4.34,strong,21
+wholesale merchant in wood and construction materials,3324.4.35,strong,46
+wholesale merchant in chemical products,3324.4.4,strong,29
+wholesale merchant in china and other glassware,3324.4.5,strong,49
+wholesale merchant in clothing and footwear,3324.4.6,strong,108
+"wholesale merchant in coffee, tea, cocoa and spices",3324.4.7,limited,14
+wholesale merchant in computer peripheral equipment and software,3324.4.8,strong,65
+wholesale merchant in dairy products and edible oils,3324.4.9,strong,51
+customs and excise officer,3331.1,strong,216
+forwarding manager,3331.2,strong,491
+import export specialist,3331.2.1,strong,171
+import export specialist in agricultural machinery and equipment,3331.2.1.1,limited,5
+import export specialist in electrical household appliances,3331.2.1.10,limited,1
+import export specialist in electronic and telecommunications equipment,3331.2.1.11,limited,3
+"import export specialist in fish, crustaceans and molluscs",3331.2.1.12,limited,4
+import export specialist in flowers and plants,3331.2.1.13,limited,5
+import export specialist in fruit and vegetables,3331.2.1.14,limited,14
+"import export specialist in furniture, carpets and lighting equipment",3331.2.1.15,limited,8
+"import export specialist in hides, skins and leather products",3331.2.1.17,limited,9
+import export specialist in household goods,3331.2.1.18,strong,84
+import export specialist in live animals,3331.2.1.19,limited,1
+"import export specialist in agricultural raw materials, seeds and animal feeds",3331.2.1.2,limited,5
+"import export specialist in machinery, industrial equipment, ships and aircraft",3331.2.1.20,limited,15
+import export specialist in machine tools,3331.2.1.21,limited,2
+import export specialist in meat and meat products,3331.2.1.22,limited,2
+import export specialist in metals and metal ores,3331.2.1.23,limited,7
+"import export specialist in mining, construction, civil engineering machinery",3331.2.1.24,limited,1
+import export specialist in office furniture,3331.2.1.25,limited,2
+import export specialist in office machinery and equipment,3331.2.1.26,limited,9
+import export specialist in perfume and cosmetics,3331.2.1.27,limited,2
+import export specialist in pharmaceutical goods,3331.2.1.28,limited,12
+"import export specialist in sugar, chocolate and sugar confectionery",3331.2.1.29,limited,2
+import export specialist in beverages,3331.2.1.3,limited,12
+import export specialist in textiles and textile semi-finished and raw materials,3331.2.1.31,limited,10
+import export specialist in tobacco products,3331.2.1.32,limited,1
+import export specialist in waste and scrap,3331.2.1.33,limited,8
+import export specialist in watches and jewellery,3331.2.1.34,limited,8
+import export specialist in wood and construction materials,3331.2.1.35,limited,9
+import export specialist in chemical products,3331.2.1.4,limited,9
+import export specialist in china and other glassware,3331.2.1.5,limited,5
+import export specialist in clothing and footwear,3331.2.1.6,limited,3
+"import export specialist in coffee, tea, cocoa and spices",3331.2.1.7,limited,4
+"import export specialist in computers, peripheral equipment and software",3331.2.1.8,limited,12
+import export specialist in dairy products and edible oils,3331.2.1.9,limited,9
+shipping agent,3331.2.2,strong,336
+international forwarding operations coordinator,3331.3,strong,73
+event assistant,3332.1,strong,1403
+event manager,3332.2,strong,330
+venue director,3332.2.1,strong,347
+wedding planner,3332.2.2,strong,40
+venue programmer,3332.3,strong,143
+employment agent,3333.1,strong,368
+housing manager,3334.1,strong,70
+property acquisitions manager,3334.2,strong,21
+title closer,3334.2.1,strong,100
+real estate agent,3334.3,strong,435
+letting agent,3334.3.1,strong,198
+real estate investor,3334.3.2,limited,12
+real estate leasing manager,3334.4,strong,61
+real estate manager,3334.5,strong,120
+advertising sales agent,3339.1,strong,409
+auctioneer,3339.2,limited,16
+intellectual property consultant,3339.3,limited,13
+promoter,3339.4,strong,293
+publishing rights manager,3339.5,limited,10
+relocation officer,3339.6,strong,217
+talent agent,3339.7,strong,44
+tourism contract negotiator,3339.8,strong,34
+call centre analyst,3341.1,strong,171
+call centre quality auditor,3341.2,strong,122
+call centre supervisor,3341.3,strong,207
+contact centre supervisor,3341.4,strong,62
+data entry supervisor,3341.5,strong,101
+field survey manager,3341.6,strong,42
+office manager,3341.7,strong,1358
+civil registrar,3342.1,strong,77
+legal administrative assistant,3342.2,strong,663
+administrative assistant,3343.1,strong,27035
+court reporter,3343.1.1,limited,19
+education administrator,3343.1.2,strong,1848
+fundraising assistant,3343.1.3,strong,73
+international student exchange coordinator,3343.1.4,strong,198
+procurement support officer,3343.1.5,strong,203
+project support officer,3343.1.6,strong,916
+supply chain assistant,3343.1.7,strong,6904
+editorial assistant,3343.2,strong,1001
+executive assistant,3343.3,strong,447
+management assistant,3343.4,strong,3599
+scopist,3343.5,strong,137
+medical administrative assistant,3344.1,strong,1551
+medical practice manager,3344.2,strong,158
+medical transcriptionist,3344.3,strong,160
+customs officer,3351.1,strong,52
+hand luggage inspector,3351.2,strong,67
+immigration officer,3351.3,strong,25
+tax compliance officer,3352.1,strong,49
+tax inspector,3352.2,strong,67
+social security inspector,3353.1,strong,20
+social security officer,3353.2,strong,88
+pensions administrator,3353.2.1,strong,73
+immigration adviser,3354.1,strong,59
+licensing officer,3354.2,strong,86
+passport officer,3354.3,strong,75
+criminal investigator,3355.1,strong,38
+police detective,3355.2,strong,112
+police inspector,3355.3,strong,50
+agricultural inspector,3359.1,limited,16
+consumer rights advisor,3359.2,strong,28
+fisheries observer,3359.3,limited,15
+forestry inspector,3359.4,limited,1
+freight inspector,3359.5,strong,79
+marine cargo inspector,3359.5.1,strong,27
+gaming inspector,3359.6,strong,48
+weights and measures inspector,3359.8,limited,16
+case administrator,3411.1,strong,443
+conveyance clerk,3411.2,limited,7
+court administrative officer,3411.3,strong,119
+court bailiff,3411.4,strong,90
+court clerk,3411.5,strong,128
+court enforcement officer,3411.6,limited,4
+legal assistant,3411.7,strong,489
+private detective,3411.8,limited,12
+store detective,3411.8.1,strong,84
+justice of the peace,3411.9,limited,19
+crisis helpline operator,3412.1,strong,142
+legal guardian,3412.2,strong,92
+life coach,3412.3,strong,134
+social care worker,3412.4,strong,1445
+adult community care worker,3412.4.1,strong,405
+residential childcare worker,3412.4.10,strong,1366
+residential home adult care worker,3412.4.11,strong,736
+residential home older adult care worker,3412.4.12,strong,794
+residential home young people care worker,3412.4.13,strong,2889
+child welfare worker,3412.4.3,strong,123
+disability support worker,3412.4.4,strong,802
+foster care support worker,3412.4.6,strong,44
+mental health support worker,3412.4.8,strong,180
+,3412.4.9,strong,211
+social work assistant,3412.5,strong,223
+volunteer mentor,3412.6,strong,539
+monk/nun,3413.1,limited,9
+pastoral worker,3413.2,strong,42
+professional athlete,3421.1,strong,60
+artistic coach,3422.1,limited,4
+lifeguard instructor,3422.2,limited,12
+sports coach,3422.3,strong,24
+football coach,3422.3.1,strong,322
+sports instructor,3422.4,strong,691
+boxing instructor,3422.4.1,strong,43
+golf instructor,3422.4.2,strong,20
+ice-skating coach,3422.4.3,strong,20
+ski instructor,3422.4.4,strong,86
+snowboard instructor,3422.4.5,strong,70
+swimming teacher,3422.4.6,strong,212
+tennis coach,3422.4.7,strong,188
+sports official,3422.5,strong,78
+outdoor activities coordinator,3423.1.1,strong,51
+outdoor animator,3423.1.2,strong,139
+assistant outdoor animator,3423.1.2.1,strong,82
+outdoor activities instructor,3423.1.2.2,strong,101
+survival instructor,3423.1.2.2.1,limited,15
+specialised outdoor animator,3423.1.2.3,strong,56
+fitness instructor,3423.2,strong,366
+leisure attendant,3423.2.1,strong,298
+personal trainer,3423.2.2,strong,160
+pilates teacher,3423.2.3,strong,34
+sport therapist,3423.2.4,strong,41
+horse riding instructor,3423.3,strong,58
+mountain guide,3423.4,strong,49
+photographer,3431.1,strong,438
+photojournalist,3431.2,strong,117
+interior designer,3432.1,strong,453
+interior planner,3432.1.1,strong,500
+merchandiser,3432.2,strong,765
+miniature set designer,3432.3,limited,2
+set builder,3432.4,strong,114
+scenic painter,3432.4.1,strong,54
+set designer,3432.5,strong,66
+visual merchandiser,3432.6,strong,1037
+art handler,3433.1,strong,146
+big data archive librarian,3433.2,strong,167
+taxidermist,3433.3,limited,3
+chef,3434.1,strong,195
+head chef,3434.1.1,strong,860
+pastry chef,3434.1.2,strong,432
+head pastry chef,3434.1.2.1,strong,28
+private chef,3434.1.3,limited,16
+assistant stage director,3435.1,strong,229
+head of workshop,3435.10,strong,58
+location manager,3435.11,strong,24
+mask maker,3435.12,strong,1359
+media integration operator,3435.13,strong,28
+performance flying director,3435.14,limited,2
+performance lighting technician,3435.15,strong,68
+intelligent lighting engineer,3435.15.1,strong,126
+prompter,3435.16,strong,1120
+prop maker,3435.17,limited,9
+prop master/prop mistress,3435.18,strong,20
+pyrotechnic designer,3435.19,limited,1
+assistant video and motion picture director,3435.2,strong,109
+pyrotechnician,3435.20,limited,1
+script supervisor,3435.21,strong,46
+stage manager,3435.22,strong,80
+stand-in,3435.23,strong,60
+stunt performer,3435.24,limited,14
+theatre technician,3435.25,strong,82
+followspot operator,3435.25.1,limited,12
+light board operator,3435.25.2,strong,42
+scenery technician,3435.25.3,strong,29
+stage machinist,3435.25.4,strong,34
+stage technician,3435.25.5,limited,18
+audio production technician,3435.3,strong,63
+automated fly bar operator,3435.4,limited,4
+body artist,3435.5,strong,28
+broadcasting programme director,3435.6,strong,37
+dresser,3435.7,strong,93
+costume attendant,3435.7.1,strong,159
+extra,3435.8,strong,168
+fight director,3435.9,limited,6
+data centre operator,3511.1,strong,345
+ICT help desk agent,3512.1,strong,1926
+ICT help desk manager,3512.2,strong,382
+ICT security technician,3512.3,strong,34
+ICT technician,3512.4,strong,422
+aviation data communications manager,3513.1,strong,24
+ICT network technician,3513.2,strong,689
+webmaster,3514.1,strong,290
+audio-visual technician,3521.1,strong,168
+boom operator,3521.1.1,strong,74
+sound operator,3521.1.10,limited,16
+video technician,3521.1.11,strong,34
+camera operator,3521.1.2,strong,83
+performance rental technician,3521.1.3,strong,81
+performance video operator,3521.1.4,strong,46
+projectionist,3521.1.5,strong,50
+recording studio technician,3521.1.6,strong,71
+sound designer,3521.1.7,limited,9
+sound editor,3521.1.8,limited,14
+sound mastering engineer,3521.1.9,strong,20
+broadcast technician,3521.2,strong,77
+telecommunications engineering technician,3522.1,strong,211
+office clerk,4110.1,strong,2964
+membership administrator,4110.1.1,strong,198
+secretary,4120.1,strong,5679
+typist,4131.1,strong,768
+data entry clerk,4132.1,strong,1159
+bank teller,4211.1,strong,1531
+post office counter clerk,4211.2,strong,2159
+bingo caller,4212.1,limited,10
+casino cashier,4212.3,limited,14
+casino gaming manager,4212.4,limited,3
+casino pit boss,4212.4.1,limited,1
+gaming dealer,4212.5,strong,78
+lottery operator,4212.6,limited,12
+odds compiler,4212.7,limited,1
+race track operator,4212.8,limited,6
+pawnbroker,4213.1,limited,6
+debt collector,4214.1,strong,308
+insurance collector,4214.2,strong,121
+ground steward/ground stewardess,4221.1,strong,102
+host/hostess,4221.2,strong,484
+ticket sales agent,4221.3,strong,596
+railway sales agent,4221.3.1,strong,49
+tourist information officer,4221.4,strong,375
+tour operator representative,4221.5,strong,462
+tour organiser,4221.6,strong,545
+travel agent,4221.7,strong,559
+travel consultant,4221.8,strong,403
+customer contact centre information clerk,4222.1,strong,1715
+live chat operator,4222.1.1,limited,17
+telephone switchboard operator,4223.1,strong,2543
+emergency medical dispatcher,4223.1.1,strong,93
+hospitality establishment receptionist,4224.1,strong,1827
+camping ground operative,4224.1.1,strong,1255
+night auditor,4224.2,strong,604
+customer service representative,4225.1,strong,1599
+receptionist,4226.1,strong,3935
+front line medical receptionist,4226.1.1,strong,643
+veterinary receptionist,4226.1.2,strong,166
+market research interviewer,4227.1,strong,441
+survey enumerator,4227.2,strong,310
+,4229.1,strong,211
+hotel concierge,4229.2,strong,664
+billing clerk,4311.1,strong,2605
+sales support assistant,4311.2,strong,5057
+auditing clerk,4312.1,strong,413
+back office specialist,4312.2,strong,858
+financial markets back office administrator,4312.2.1,strong,95
+foreign exchange cashier,4312.3,strong,132
+insurance clerk,4312.4,strong,678
+investment clerk,4312.5,strong,55
+property assistant,4312.6,strong,411
+tax clerk,4312.7,strong,485
+payroll clerk,4313.1,strong,463
+inventory coordinator,4321.1,strong,2328
+footwear factory warehouse operator,4321.1.1,strong,61
+leather goods warehouse operator,4321.1.2,limited,4
+raw material reception operator,4321.1.3,strong,50
+raw materials warehouse specialist,4321.1.4,strong,216
+warehouse operators for clothing,4321.1.5,strong,386
+machinery assembly coordinator,4322.1,strong,41
+aircraft cargo operations coordinator,4323.1,strong,74
+pipeline route manager,4323.10,strong,38
+port coordinator,4323.11,limited,9
+rail logistics coordinator,4323.12,strong,29
+rail traffic controller,4323.13,limited,11
+road transport maintenance scheduler,4323.14,strong,53
+ship pilot dispatcher,4323.15,strong,36
+ship planner,4323.16,strong,59
+taxi controller,4323.17,strong,119
+tram controller,4323.18,limited,14
+vessel operations coordinator,4323.19,strong,35
+aircraft dispatcher,4323.2,strong,38
+water traffic coordinator,4323.20,strong,26
+baggage flow supervisor,4323.3,strong,29
+bus route supervisor,4323.4,strong,137
+dangerous goods safety adviser,4323.5,strong,30
+freight transport dispatcher,4323.6,strong,534
+gas scheduling representative,4323.7,limited,12
+gas transmission system operator,4323.8,limited,11
+move coordinator,4323.9,strong,96
+library assistant,4411.1,strong,674
+mail clerk,4412.1,strong,1512
+postman/postwoman,4412.2,strong,2107
+proofreader,4413.1,strong,90
+file clerk,4415.1,strong,1133
+human resources assistant,4416.1,strong,3389
+advertising assistant,4419.1,strong,469
+foreign language correspondence clerk,4419.2,strong,426
+cabin crew manager,5111.1,strong,152
+steward/stewardess,5111.2,strong,236
+flight attendant,5111.2.1,strong,530
+ship steward/ship stewardess,5111.2.2,strong,218
+train attendant,5111.2.3,strong,326
+chief conductor,5112.1,limited,17
+railway passenger service agent,5112.2,strong,27
+train conductor,5112.3,limited,18
+passenger fare controller,5112.3.1,strong,215
+tourist guide,5113.1,strong,285
+environmental education officer,5113.1.1,strong,270
+park guide,5113.1.2,strong,46
+zoo educator,5113.1.3,strong,44
+cook,5120.1,strong,2123
+diet cook,5120.1.1,strong,92
+fish cook,5120.1.2,strong,29
+grill cook,5120.1.3,strong,268
+industrial cook,5120.1.4,strong,50
+restaurant host/restaurant hostess,5131.1,strong,3841
+waiter/waitress,5131.2,strong,9697
+head waiter/head waitress,5131.2.1,strong,737
+sommelier,5131.2.2,strong,121
+beer sommelier,5131.2.2.1,strong,53
+head sommelier,5131.2.2.2,strong,59
+wine sommelier,5131.2.2.3,strong,47
+bartender,5132.1,strong,2976
+barista,5132.1.1,strong,1052
+cocktail bartender,5132.1.2,strong,347
+hairdresser,5141.1,strong,800
+barber,5141.1.1,strong,582
+hairdresser assistant,5141.1.2,strong,2207
+hair stylist,5141.1.3,limited,12
+performance hairdresser,5141.1.4,strong,75
+aesthetician,5142.1,strong,617
+spa attendant,5142.10,strong,225
+tanning consultant,5142.11,strong,31
+weight loss consultant,5142.12,strong,45
+beauty salon attendant,5142.2,strong,766
+hair removal technician,5142.3,strong,30
+make-up and hair designer,5142.4,strong,45
+make-up artist,5142.5,strong,159
+manicurist,5142.6,strong,99
+masseur/masseuse,5142.7,strong,93
+pedicurist,5142.8,strong,190
+personal stylist,5142.9,strong,124
+hotel butler,5151.1,strong,155
+housekeeping supervisor,5151.2,strong,280
+bed and breakfast operator,5152.1,strong,165
+domestic housekeeper,5152.2,strong,157
+domestic butler,5152.2.1,strong,276
+building caretaker,5153.1,strong,472
+,5153.1.1,strong,211
+house sitter,5153.1.2,strong,198
+verger,5153.1.3,strong,91
+astrologer,5161.1,limited,3
+fortune teller,5161.2,limited,1
+medium,5161.3,limited,14
+psychic,5161.4,limited,1
+companion,5162.1,strong,1748
+cemetery attendant,5163.1,strong,54
+embalmer,5163.2,strong,37
+funeral attendant,5163.3,strong,23
+funeral services director,5163.4,limited,6
+animal care attendant,5164.1,strong,56
+animal groomer,5164.1.1,strong,109
+kennel worker,5164.1.2,strong,306
+zookeeper,5164.1.3,strong,60
+zoo section leader,5164.10,limited,7
+animal handler,5164.2,strong,182
+animal trainer,5164.2.1,limited,4
+dog trainer,5164.2.1.1,strong,50
+guide dog instructor,5164.2.1.1.1,limited,9
+horse trainer,5164.2.1.2,strong,89
+animal shelter worker,5164.3,strong,164
+cattle pedicure,5164.5,strong,84
+dog breeder,5164.6,limited,4
+kennel supervisor,5164.8,limited,13
+pet sitter,5164.9,strong,120
+driving instructor,5165.1,strong,42
+bus driving instructor,5165.1.1,strong,136
+car driving instructor,5165.1.2,strong,117
+motorcycle instructor,5165.1.3,limited,14
+truck driving instructor,5165.1.4,strong,43
+vessel steering instructor,5165.2,strong,24
+club host/club hostess,5169.1,strong,108
+dating service consultant,5169.2,strong,47
+escort,5169.3,strong,37
+market vendor,5211.1,strong,210
+street food vendor,5212.1,strong,69
+retail entrepreneur,5221.1,strong,568
+shop supervisor,5222.1,strong,673
+checkout supervisor,5222.1.1,strong,385
+car leasing agent,5223.1,strong,336
+motor vehicles parts advisor,5223.2,strong,332
+personal shopper,5223.3,strong,113
+sales assistant,5223.4,strong,17779
+sales processor,5223.5,strong,2265
+shop assistant,5223.6,strong,17214
+specialised seller,5223.7,strong,801
+ammunition specialised seller,5223.7.1,limited,15
+"computer games, multimedia and software specialised seller",5223.7.10,strong,110
+confectionery specialised seller,5223.7.11,strong,836
+cosmetics and perfume specialised seller,5223.7.12,strong,731
+delicatessen specialised seller,5223.7.13,strong,575
+domestic appliances specialised seller,5223.7.14,strong,218
+eyewear and optical equipment specialised seller,5223.7.15,strong,134
+fish and seafood specialised seller,5223.7.16,strong,217
+floor and wall coverings specialised seller,5223.7.17,strong,161
+flower and garden specialised seller,5223.7.18,strong,425
+fruit and vegetables specialised seller,5223.7.19,strong,749
+audio and video equipment specialised seller,5223.7.2,strong,301
+furniture specialised seller,5223.7.20,strong,568
+hardware and paint specialised seller,5223.7.21,strong,298
+jewellery and watches specialised seller,5223.7.22,strong,401
+meat and meat products specialised seller,5223.7.23,strong,720
+medical goods specialised seller,5223.7.24,strong,458
+motor vehicles specialised seller,5223.7.25,strong,1008
+music and video shop specialised seller,5223.7.26,strong,247
+pet and pet food specialised seller,5223.7.28,strong,224
+press and stationery specialised seller,5223.7.29,strong,551
+audiology equipment specialised seller,5223.7.3,strong,57
+second-hand goods specialised seller,5223.7.30,strong,65
+shoe and leather accessories specialised seller,5223.7.31,strong,926
+specialised antique dealer,5223.7.32,strong,31
+sporting accessories specialised seller,5223.7.33,strong,280
+telecommunications equipment specialised seller,5223.7.34,strong,1175
+textile specialised seller,5223.7.35,strong,243
+tobacco specialised seller,5223.7.36,strong,54
+toys and games specialised seller,5223.7.37,strong,263
+bakery specialised seller,5223.7.4,strong,2018
+beverages specialised seller,5223.7.5,strong,487
+bookshop specialised seller,5223.7.6,strong,278
+building materials specialised seller,5223.7.7,strong,220
+clothing specialised seller,5223.7.8,strong,3620
+computer and accessories specialised seller,5223.7.9,strong,564
+cashier,5230.1,strong,10877
+lottery cashier,5230.2,strong,20
+ticket issuing clerk,5230.3,strong,126
+art model,5241.1,strong,26
+fashion model,5241.2,strong,124
+promotions demonstrator,5242.1,strong,1046
+door to door seller,5243.1,strong,532
+call centre agent,5244.1,strong,3886
+fuel station specialised seller,5245.1,strong,292
+food service worker,5246.1,strong,4098
+quick service restaurant team leader,5246.2,strong,404
+rental manager,5249.1,strong,79
+rental service representative,5249.2,strong,134
+"rental service representative in other machinery, equipment and tangible goods",5249.2.1,strong,25
+rental service representative in agricultural machinery and equipment,5249.2.1.1,limited,3
+rental service representative in air transport equipment,5249.2.1.2,limited,7
+rental service representative in cars and light motor vehicles,5249.2.1.3,strong,145
+rental service representative in construction and civil engineering machinery,5249.2.1.4,limited,17
+rental service representative in office machinery and equipment,5249.2.1.5,strong,75
+rental service representative in trucks,5249.2.1.6,strong,77
+rental service representative in water transport equipment,5249.2.1.7,limited,14
+rental service representative in personal and household goods,5249.2.2,limited,16
+rental service representative in recreational and sports goods,5249.2.2.1,strong,35
+rental service representative in video tapes and disks,5249.2.2.2,strong,35
+vehicle rental agent,5249.3,strong,131
+child care worker,5311.1,strong,3627
+au pair,5311.1.1,strong,307
+babysitter,5311.1.2,strong,3005
+nanny,5311.1.4,strong,947
+school bus attendant,5311.2,strong,423
+early years teaching assistant,5312.1,strong,1745
+primary school teaching assistant,5312.2,strong,1119
+secondary school teaching assistant,5312.3,strong,1871
+nurse assistant,5321.1.1,strong,1518
+hospital porter,5329.1,strong,253
+sterile services technician,5329.3,strong,108
+industrial firefighter,5411.1.1,limited,9
+marine firefighter,5411.1.2,limited,8
+mine rescue officer,5411.1.3,limited,2
+pump operator,5411.1.4,strong,22
+police officer,5412.1,strong,182
+juvenile correctional officer,5413.1,strong,194
+prison officer,5413.2,strong,135
+security guard,5414.1,strong,970
+airport security officer,5414.1.1,strong,192
+armoured car guard,5414.1.2,strong,51
+bodyguard,5414.1.3,strong,70
+door supervisor,5414.1.4,limited,15
+gate guard,5414.1.5,strong,153
+hospitality establishment security officer,5414.1.6,strong,29
+security alarm investigator,5414.1.7,strong,176
+security consultant,5414.1.8,strong,161
+security guard supervisor,5414.1.9,strong,105
+aircraft marshaller,5419.1,limited,18
+game keeper,5419.10,strong,54
+civil enforcement officer,5419.2,strong,136
+coastguard watch officer,5419.3,strong,37
+crossing guard,5419.4,strong,135
+crowd controller,5419.5,strong,72
+emergency response worker,5419.6,strong,113
+life guard,5419.7,strong,129
+street warden,5419.8,strong,197
+animal welfare inspector,5419.9,limited,11
+agronomic crop production team leader,6111.1,limited,6
+arboriculturist,6112.1,strong,85
+fruit production team leader,6112.2,limited,13
+hop farmer,6112.3,limited,4
+vineyard cellar master,6112.4,limited,2
+vineyard machinery operator,6112.5,limited,3
+vineyard manager,6112.6,limited,17
+groundsman/groundswoman,6113.1,strong,455
+horticulture production manager,6113.2,strong,29
+horticulture production team leader,6113.3,strong,66
+interior landscaper,6113.4,strong,20
+landscape gardener,6113.5,strong,1399
+tree surgeon,6113.6,strong,40
+crop production manager,6114.1,limited,16
+cattle breeder,6121.1,strong,26
+equine yard manager,6121.2,strong,27
+horse breeder,6121.3,limited,12
+pig breeder,6121.4,limited,10
+sheep breeder,6121.5,limited,19
+shepherd,6121.6,strong,55
+poultry breeder,6122.1,limited,10
+poultry sexer,6122.2,limited,5
+bee breeder,6123.1,limited,6
+fur animals breeder,6129.1,limited,1
+farm manager,6130.1,limited,18
+mixed farmer,6130.2,strong,32
+forest ranger,6210.1,strong,43
+aquaculture cage technician,6221.1,strong,23
+aquaculture recirculation technician,6221.10,limited,5
+water-based aquaculture technician,6221.11,limited,2
+aquaculture hatchery manager,6221.3,limited,2
+aquaculture hatchery worker,6221.5,limited,9
+aquaculture husbandry technician,6221.6,limited,1
+aquaculture husbandry worker,6221.7,strong,20
+aquaculture mooring manager,6221.8,limited,2
+fisheries boatman,6222.1,limited,4
+deep-sea fishery worker,6223.1,limited,4
+hunter,6224.1,limited,8
+house builder,7111.1,strong,369
+bricklayer,7112.1,strong,650
+stonemason,7113.1,strong,84
+stone engraver,7113.1.1,limited,12
+concrete finisher,7114.1,strong,281
+terrazzo setter,7114.2,strong,27
+carpenter,7115.1,strong,470
+door installer,7115.2,strong,847
+fireplace installer,7115.3,strong,33
+kitchen unit installer,7115.4,strong,307
+staircase installer,7115.5,limited,16
+window installer,7115.6,strong,40
+frame maker,7115.7,strong,35
+construction scaffolder,7119.1,strong,335
+demolition worker,7119.2,strong,52
+manufactured wooden building assembler,7119.3,strong,104
+steeplejack,7119.4,strong,34
+roofer,7121.1,strong,1078
+carpet fitter,7122.1,strong,60
+hardwood floor layer,7122.2,strong,188
+resilient floor layer,7122.3,strong,325
+tile fitter,7122.4,strong,534
+ceiling installer,7123.1,strong,129
+plasterer,7123.2,strong,255
+insulation worker,7124.1,strong,284
+plate glass installer,7125.1,strong,367
+vehicle glazier,7125.2,strong,69
+bathroom fitter,7126.1,strong,249
+sewerage network operative,7126.10,strong,21
+sewer construction worker,7126.11,strong,104
+sprinkler fitter,7126.12,strong,55
+water conservation technician,7126.13,strong,243
+water network operative,7126.14,strong,127
+drain technician,7126.2,limited,13
+gas service technician,7126.3,strong,87
+heating technician,7126.4,strong,167
+irrigation system installer,7126.5,strong,20
+irrigation technician,7126.6,limited,7
+pipeline maintenance worker,7126.7,strong,57
+plumber,7126.8,strong,381
+septic tank servicer,7126.9,strong,282
+heating and ventilation service installer,7127.1,strong,492
+construction painter,7131.1,strong,618
+marine painter,7131.2,limited,16
+paperhanger,7131.3,strong,642
+lacquer spray gun operator,7132.1,strong,146
+surface treatment operator,7132.2,strong,199
+transport equipment painter,7132.3,strong,97
+asbestos abatement worker,7133.1,strong,52
+building exterior cleaner,7133.2,strong,50
+chimney sweep,7133.3,strong,36
+chimney sweep supervisor,7133.4,limited,16
+decontamination worker,7133.5,strong,32
+foundry operative,7211.1,strong,56
+coquille casting worker,7211.1.1,strong,22
+foundry moulder,7211.1.2,limited,4
+mouldmaker,7211.1.3,limited,3
+brazier,7212.1,limited,1
+solderer,7212.2,strong,31
+welder,7212.3,strong,1397
+electron beam welder,7212.3.1,strong,32
+laser beam welder,7212.3.2,strong,172
+pipe welder,7212.3.3,strong,156
+spot welder,7212.3.4,strong,75
+welding coordinator,7212.4,limited,19
+boilermaker,7213.1,strong,38
+container equipment assembler,7213.2,strong,133
+coppersmith,7213.3,limited,8
+sheet metal worker,7213.4,strong,234
+dismantling worker,7214.1,strong,119
+shipwright,7214.2,limited,19
+structural ironworker,7214.3,strong,315
+riveter,7214.3.1,strong,361
+event scaffolder,7215.1,strong,463
+stagehand,7215.1.1,strong,158
+rigger,7215.2,strong,768
+boat rigger,7215.2.1,strong,194
+ground rigger,7215.2.2,strong,318
+high rigger,7215.2.3,strong,37
+rigging supervisor,7215.3,strong,73
+,7215.4,strong,211
+blacksmith,7221.1,limited,7
+farrier,7221.1.1,limited,16
+drop forging hammer worker,7221.2,strong,20
+hydraulic forging press worker,7221.3,strong,22
+mechanical forging press worker,7221.4,strong,28
+casting mould maker,7222.1,strong,65
+gunsmith,7222.2,strong,71
+locksmith,7222.3,strong,37
+precision mechanic,7222.4,strong,42
+tool and die maker,7222.5,strong,45
+boring machine operator,7223.1,strong,288
+laser marking machine operator,7223.10,limited,5
+metal nibbling operator,7223.11,strong,84
+metal planer operator,7223.12,strong,134
+moulding machine operator,7223.13,limited,2
+ornamental metal worker,7223.14,strong,120
+oxy fuel burning machine operator,7223.15,limited,2
+plasma cutting machine operator,7223.16,limited,5
+router operator,7223.17,strong,31
+scrap metal operative,7223.18,strong,49
+screw machine operator,7223.19,strong,148
+briquetting machine operator,7223.2,limited,2
+spark erosion machine operator,7223.20,strong,42
+stamping press operator,7223.21,strong,102
+straightening machine operator,7223.22,strong,35
+swaging machine operator,7223.23,limited,9
+thread rolling machine operator,7223.24,strong,87
+upsetting machine operator,7223.25,strong,261
+chain making machine operator,7223.3,limited,2
+computer numerical control machine operator,7223.4,strong,713
+engraving machine operator,7223.4.1,limited,7
+grinding machine operator,7223.4.2,limited,17
+laser cutting machine operator,7223.4.3,strong,32
+lathe and turning machine operator,7223.4.4,strong,1141
+metalworking lathe operator,7223.4.4.1,limited,15
+metal sawing machine operator,7223.4.5,strong,90
+milling machine operator,7223.4.6,strong,503
+punch press operator,7223.4.7,strong,149
+water jet cutter operator,7223.4.8,limited,3
+drilling machine operator,7223.5,limited,6
+drill press operator,7223.6,strong,57
+fitter and turner,7223.7,strong,641
+gear machinist,7223.8,strong,78
+heat treatment furnace operator,7223.9,strong,33
+metal polisher,7224.1,limited,4
+tool grinder,7224.2,strong,140
+automotive brake technician,7231.1,strong,562
+vehicle technician,7231.10,strong,1397
+coachbuilder,7231.2,strong,308
+diesel engine mechanic,7231.3,strong,87
+refurbishing technician,7231.4,strong,372
+vehicle restoration technician,7231.5,strong,59
+roadside vehicle technician,7231.6,strong,238
+tyre fitter,7231.7,strong,277
+vehicle maintenance attendant,7231.8,strong,826
+vehicle maintenance supervisor,7231.9,strong,257
+aircraft de-icer installer,7232.1,strong,28
+aircraft engine specialist,7232.2,limited,5
+aircraft gas turbine engine overhaul technician,7232.3,limited,3
+aircraft maintenance coordinator,7232.4,strong,39
+aircraft maintenance technician,7232.5,strong,76
+construction equipment technician,7233.1,strong,103
+marine mechanic,7233.10,strong,39
+mining equipment mechanic,7233.11,limited,15
+moulding machine technician,7233.12,strong,76
+pneumatic systems technician,7233.13,strong,55
+rotating equipment mechanic,7233.14,strong,626
+textile machinery technician,7233.15,strong,34
+crane technician,7233.2,strong,102
+fisheries assistant engineer,7233.3,limited,2
+fluid power technician,7233.4,strong,577
+forge equipment technician,7233.5,strong,158
+greaser,7233.6,strong,89
+industrial machinery mechanic,7233.7,strong,1140
+land-based machinery technician,7233.8,strong,103
+agricultural machinery technician,7233.8.1,strong,92
+forestry machinery technician,7233.8.2,limited,11
+marine fitter,7233.9,strong,27
+bicycle mechanic,7234.1,strong,367
+clock and watchmaker,7311.1,limited,13
+optical instrument assembler,7311.2,strong,33
+optical instrument repairer,7311.3,strong,35
+precision instrument assembler,7311.4,strong,22
+surgical instrument maker,7311.5,limited,6
+watch and clock repairer,7311.6,strong,102
+idiophone musical instruments maker,7312.1,limited,2
+instrument technician,7312.2,strong,194
+keyboard musical instrument maker,7312.3,limited,3
+harpsichord maker,7312.3.1,limited,1
+piano maker,7312.3.3,limited,7
+membranophone musical instruments maker,7312.4,limited,4
+musical instrument technician,7312.5,strong,24
+stringed musical instrument maker,7312.6,strong,31
+guitar maker,7312.6.1,limited,14
+violin maker,7312.6.3,limited,1
+wind musical instrument maker,7312.7,limited,5
+jeweller,7313.1,limited,7
+filigree maker,7313.1.1,limited,1
+goldsmith,7313.1.2,strong,72
+jewellery engraver,7313.1.3,limited,3
+jewellery mounter,7313.1.4,strong,23
+jewellery polisher,7313.1.5,limited,16
+jewellery repairer,7313.1.6,limited,11
+precious stone setter,7313.1.7,strong,101
+silversmith,7313.1.8,strong,22
+precious stone cutter,7313.2,strong,45
+hand brick moulder,7314.1,limited,7
+pottery and porcelain caster,7314.3,limited,14
+glass-blower,7315.1,limited,18
+glass beveller,7315.2,strong,265
+decorative painter,7316.1,strong,433
+ceramic painter,7316.1.1,limited,8
+glass painter,7316.1.2,limited,7
+porcelain painter,7316.1.3,limited,6
+wood painter,7316.1.4,strong,39
+glass engraver,7316.2,limited,6
+metal engraver,7316.3,limited,17
+sign maker,7316.4,strong,69
+artisan papermaker,7317.1,limited,8
+basketmaker,7317.2,strong,55
+brush maker,7317.3,strong,34
+toymaker,7317.4,strong,43
+wicker furniture maker,7317.5,limited,7
+woodcarver,7317.6,strong,84
+carpet handicraft worker,7318.1,limited,7
+carpet weaver,7318.2,strong,49
+fishing net maker,7318.3,limited,1
+knitter,7318.4,strong,37
+leather goods artisanal worker,7318.5,limited,10
+weaver,7318.6,strong,59
+candle maker,7319.1,limited,10
+sports equipment repair technician,7319.2,strong,42
+prepress technician,7321.1,strong,284
+imagesetter,7321.1.1,strong,167
+lithographer,7321.1.2,limited,11
+prepress operator,7321.1.3,strong,469
+scanning operator,7321.1.4,strong,344
+screen making technician,7321.1.5,strong,322
+typesetter,7321.1.6,strong,201
+digital printer,7322.1,strong,59
+textile printer,7322.10,strong,84
+flexographic press operator,7322.2,limited,19
+gravure press operator,7322.3,strong,71
+hot foil operator,7322.4,limited,9
+offset printer,7322.5,strong,106
+paper embossing press operator,7322.6,strong,130
+printing textile technician,7322.7,strong,42
+reprographics technician,7322.8,strong,62
+screen printer,7322.9,strong,143
+bindery operator,7323.1,strong,56
+book-sewing machine operator,7323.2,strong,612
+book restorer,7323.3,limited,19
+print folding operator,7323.4,strong,355
+electrician,7411.1,strong,1340
+building electrician,7411.1.1,strong,205
+domestic electrician,7411.1.1.1,strong,409
+industrial electrician,7411.1.1.2,strong,305
+electric meter technician,7411.1.2,strong,150
+event electrician,7411.1.3,strong,87
+solar energy technician,7411.1.4,strong,286
+automotive battery technician,7412.1,strong,48
+power tool repair technician,7412.10,strong,52
+rolling stock electrician,7412.11,strong,337
+theme park technician,7412.12,strong,24
+automotive electrician,7412.2,strong,141
+electrical mechanic,7412.3,strong,1068
+ground lighting officer,7412.5,strong,21
+household appliances repair technician,7412.6,strong,211
+lift technician,7412.7,strong,170
+marine electrician,7412.8,strong,25
+mining electrician,7412.9,limited,6
+electricity distribution technician,7413.1,strong,228
+cable jointer,7413.1.1,strong,123
+overhead line worker,7413.1.2,limited,15
+street lighting electrician,7413.1.3,strong,64
+ATM repair technician,7421.1,strong,174
+avionics technician,7421.2,strong,40
+consumer electronics repair technician,7421.3,strong,351
+marine electronics technician,7421.4,limited,12
+office equipment repair technician,7421.5,strong,380
+railway electronic technician,7421.6,limited,15
+smart home installer,7421.7,strong,135
+vehicle electronics installer,7421.8,strong,154
+communication infrastructure maintainer,7422.1,strong,126
+computer hardware repair technician,7422.2,strong,899
+mobile devices technician,7422.3,strong,97
+mobile phone repair technician,7422.3.1,strong,114
+radio technician,7422.4,strong,89
+security alarm technician,7422.5,strong,216
+telecommunications equipment maintainer,7422.6,strong,246
+telecommunications technician,7422.7,strong,413
+butcher,7511.1,strong,425
+halal butcher,7511.1.1,limited,1
+kosher butcher,7511.1.2,limited,2
+fish preparation operator,7511.2,strong,49
+fish trimmer,7511.3,strong,27
+meat cutter,7511.4,strong,41
+meat preparations operator,7511.5,strong,118
+slaughterer,7511.6,strong,86
+halal slaughterer,7511.6.1,limited,3
+kosher slaughterer,7511.6.2,limited,6
+baker,7512.1,strong,1354
+chocolatier,7512.2,strong,214
+confectioner,7512.3,strong,375
+pasta maker,7512.4,strong,31
+pastry maker,7512.5,strong,326
+dairy products maker,7513.1,limited,12
+milk reception operator,7513.2,strong,83
+,7514.1,strong,211
+oil mill operator,7514.2,strong,27
+oilseed presser,7514.3,limited,1
+coffee taster,7515.1,limited,19
+farm milk controller,7515.2,strong,36
+food grader,7515.3,strong,379
+malt master,7515.4,limited,4
+master coffee roaster,7515.5,limited,4
+curing room worker,7516.1,limited,14
+leaf sorter,7516.2,limited,13
+leaf tier,7516.3,limited,7
+wood drying kiln operator,7521.1,limited,3
+wood treater,7521.2,limited,2
+antique furniture reproducer,7522.1,limited,16
+cabinet maker,7522.2,strong,558
+cooper,7522.3,limited,15
+furniture finisher,7522.5,strong,142
+furniture restorer,7522.6,strong,81
+recreation model maker,7522.7,strong,24
+nailing machine operator,7523.1,strong,34
+wood boring machine operator,7523.2,limited,7
+wooden furniture machine operator,7523.3,strong,62
+wood pallet maker,7523.4,strong,98
+wood sander,7523.5,strong,33
+woodturner,7523.6,limited,4
+costume maker,7531.1,limited,6
+dressmaker,7531.2,strong,75
+hide grader,7531.3,strong,55
+milliner,7531.4,strong,110
+tailor,7531.5,strong,23
+wig and hairpiece maker,7531.6,limited,9
+clothing CAD patternmaker,7532.1,limited,15
+clothing cutter,7532.2,strong,53
+clothing product grader,7532.3,limited,15
+digital prototyper,7532.4,strong,22
+wearing apparel patternmaker,7532.7,strong,33
+doll maker,7533.1,limited,11
+embroiderer,7533.2,strong,33
+glove maker,7533.3,limited,10
+made-up textile articles manufacturer,7533.4,strong,32
+sewing machinist,7533.5,strong,434
+aircraft interior technician,7534.1,limited,16
+mattress maker,7534.2,strong,71
+upholsterer,7534.3,strong,190
+furniture upholsterer,7534.3.1,strong,95
+marine upholsterer,7534.3.2,limited,10
+motor vehicle upholsterer,7534.3.3,strong,265
+railway car upholsterer,7534.3.4,limited,13
+leather sorter,7535.1,limited,1
+tanner,7535.2,strong,68
+leather goods manual operator,7536.1,limited,3
+leather goods hand cutting operator,7536.1.2,limited,5
+leather goods hand stitcher,7536.1.3,limited,2
+shoemaker,7536.2,strong,36
+bespoke footwear technician,7536.2.1,strong,21
+footwear CAD patternmaker,7536.2.3,limited,4
+footwear hand sewer,7536.2.4,limited,1
+footwear patternmaker,7536.2.5,limited,1
+hand lasting operator,7536.2.6,limited,5
+orthopaedic footwear technician,7536.2.7,limited,13
+shoe repairer,7536.2.8,strong,59
+construction commercial diver,7541.1,strong,28
+harvest diver,7541.2,limited,7
+rescue diver,7541.3,strong,70
+shotfirer,7542.1,limited,6
+automated optical inspection operator,7543.1,strong,39
+product quality inspector,7543.10,strong,818
+cigar inspector,7543.10.1,limited,11
+clothing quality inspector,7543.10.2,strong,31
+precision device inspector,7543.10.3,strong,35
+textile quality inspector,7543.10.4,strong,43
+veneer grader,7543.11,strong,51
+automotive test driver,7543.2,strong,80
+battery test technician,7543.3,strong,39
+control panel tester,7543.4,strong,91
+non-destructive testing specialist,7543.5,limited,15
+printed circuit board test technician,7543.6,strong,154
+product assembly inspector,7543.7,strong,45
+aircraft assembly inspector,7543.7.1,limited,12
+consumer goods inspector,7543.7.2,strong,63
+electrical equipment inspector,7543.7.3,strong,46
+electronic equipment inspector,7543.7.4,strong,49
+motor vehicle assembly inspector,7543.7.5,strong,242
+rolling stock assembly inspector,7543.7.6,strong,44
+vessel assembly inspector,7543.7.7,limited,11
+product grader,7543.8,strong,97
+engineered wood board grader,7543.8.1,limited,8
+lumber grader,7543.8.2,strong,26
+pulp grader,7543.8.3,limited,1
+product quality controller,7543.9,strong,1077
+footwear quality controller,7543.9.1,limited,7
+leather goods quality controller,7543.9.2,limited,2
+metal product quality control inspector,7543.9.3,strong,72
+pest management worker,7544.1,strong,35
+pesticides sprayer,7544.1.1,limited,10
+dewatering technician,8111.1,strong,825
+driller,8111.2,strong,22
+surface miner,8111.3,limited,15
+underground heavy equipment operator,8111.4,limited,4
+underground miner,8111.5,strong,33
+mineral crushing operator,8112.1,limited,2
+mineral processing operator,8112.2,strong,22
+stone driller,8112.3,limited,17
+stone planer,8112.4,strong,59
+derrickhand,8113.1,strong,165
+drill operator,8113.2,limited,7
+oil rig motorhand,8113.3,limited,9
+pipeline pump operator,8113.4,strong,30
+roughneck,8113.5,strong,73
+roustabout,8113.6,strong,76
+tool pusher,8113.7,limited,5
+tunnel boring machine operator,8113.8,limited,18
+well-digger,8113.9,limited,16
+asphalt plant operator,8114.1,limited,17
+block machine operator,8114.2,limited,16
+concrete products machine operator,8114.3,strong,158
+electrolytic cell maker,8114.4,limited,5
+precast moulder,8114.5,strong,24
+slate mixer,8114.6,limited,7
+stone polisher,8114.7,limited,9
+stone splitter,8114.8,strong,27
+casting machine operator,8121.1,limited,12
+extrusion machine operator,8121.2,strong,108
+metal annealer,8121.3,limited,10
+metal drawing machine operator,8121.4,strong,35
+metal rolling mill operator,8121.5,strong,106
+spring maker,8121.6,limited,17
+wire weaving machine operator,8121.7,limited,5
+abrasive blasting operator,8122.1,strong,30
+rustproofer,8122.10,strong,27
+surface grinding machine operator,8122.11,strong,187
+tumbling machine operator,8122.12,limited,16
+anodising machine operator,8122.2,limited,12
+coating machine operator,8122.3,strong,27
+cylindrical grinder operator,8122.4,limited,3
+deburring machine operator,8122.5,strong,44
+dip tank operator,8122.6,limited,17
+electroplating machine operator,8122.7,limited,4
+enameller,8122.8,limited,6
+filing machine operator,8122.9,strong,480
+capsule filling machine operator,8131.1,strong,118
+lime kiln operator,8131.10,limited,1
+mine control room operator,8131.11,limited,5
+nitrator operator,8131.12,limited,10
+nitroglycerin neutraliser,8131.13,limited,17
+nitroglycerin separator operator,8131.14,limited,9
+nonwoven filament machine operator,8131.15,limited,15
+perfume production machine operator,8131.16,limited,7
+pill maker operator,8131.17,strong,114
+plodder operator,8131.18,limited,13
+soap maker,8131.19,strong,64
+soap drier operator,8131.19.2,limited,8
+chemical mixer,8131.2,strong,121
+fertiliser mixer,8131.2.1,limited,14
+lacquer maker,8131.2.2,strong,106
+paint mixer,8131.2.3,strong,54
+pesticide mixer,8131.2.4,limited,8
+tracer powder blender,8131.2.5,limited,11
+varnish maker,8131.2.6,limited,11
+wax bleacher,8131.21,strong,37
+cosmetics production machine operator,8131.4,strong,96
+distillation operator,8131.5,limited,1
+fermenter operator,8131.7,strong,79
+gauger,8131.8,strong,63
+granulator machine operator,8131.9,strong,45
+motion picture film developer,8132.1,strong,57
+photographic developer,8132.2,strong,65
+rubber products machine operator,8141.1,limited,16
+belt builder,8141.1.1,strong,89
+coagulation operator,8141.1.2,limited,1
+foam rubber mixer,8141.1.3,limited,2
+rubber cutting machine tender,8141.1.4,limited,11
+rubber dipping machine operator,8141.1.5,limited,3
+sectional belt mould assembler,8141.1.6,strong,20
+tyre builder,8141.1.7,strong,106
+tyre vulcaniser,8141.1.8,strong,57
+V-belt builder,8141.1.9,limited,5
+V-belt coverer,8141.1.9.1,strong,135
+V-belt finisher,8141.1.9.2,strong,21
+blow moulding machine operator,8142.1,limited,8
+plastic heat treatment equipment operator,8142.10,limited,1
+plastic rolling machine operator,8142.11,strong,223
+pultrusion machine operator,8142.12,limited,2
+record press operator,8142.13,strong,36
+vacuum forming machine operator,8142.14,limited,4
+cake press operator,8142.2,strong,34
+compression moulding machine operator,8142.3,strong,36
+fiberglass laminator,8142.4,limited,3
+fibreglass machine operator,8142.5,strong,58
+filament winding operator,8142.6,strong,22
+injection moulding operator,8142.7,strong,36
+optical disc moulding machine operator,8142.7.1,limited,7
+insulating tube winder,8142.8,strong,75
+plastic furniture machine operator,8142.9,strong,35
+absorbent pad machine operator,8143.1,limited,12
+corrugator operator,8143.2,strong,22
+envelope maker,8143.3,strong,350
+paper bag machine operator,8143.4,strong,98
+paperboard products assembler,8143.5,strong,173
+paper cutter operator,8143.6,strong,28
+tissue paper perforating and rewinding operator,8143.7,limited,8
+paper stationery machine operator,8143.8,strong,131
+cotton gin operator,8151.1,limited,7
+spinning machine operator,8151.2,limited,14
+man-made fiber spinner,8151.2.1,limited,19
+twisting machine operator,8151.2.2,limited,4
+yarn spinner,8151.2.3,limited,14
+spinning textile operator,8151.3,strong,136
+winding machine operator,8151.4,strong,32
+knitting machine operator,8152.1,limited,3
+knitting machine supervisor,8152.1.1,limited,1
+knitting textile technician,8152.1.2,limited,9
+textile machine operator,8152.2,limited,7
+weaving machine operator,8152.3,limited,16
+weaving machine supervisor,8152.3.2,limited,2
+weaving textile technician,8152.3.3,strong,66
+sewing machine operator,8153.1,strong,60
+clothing alteration machinist,8153.1.1,strong,223
+clothing sample machinist,8153.1.2,strong,93
+embroidery machine operator,8153.1.3,limited,17
+leather goods stitching machine operator,8153.1.4,limited,5
+protective clothing apparel manufacturer,8153.1.5,limited,17
+finishing textile technician,8154.1,limited,14
+textile dyeing technician,8154.2,strong,66
+textile dyer,8154.3,limited,7
+textile finishing machine operator,8154.4,strong,99
+leather production machine operator,8155.1,limited,9
+colour sampling operator,8155.1.1,strong,221
+leather finishing operator,8155.1.2,limited,1
+automated cutting machine operator,8156.1,strong,117
+footwear production machine operator,8156.2,strong,21
+cutting machine operator,8156.2.1,limited,2
+footwear maintenance technician,8156.2.2,limited,2
+footwear stitching machine operator,8156.2.3,limited,1
+lasting machine operator,8156.2.4,limited,2
+pre-lasting operator,8156.2.5,strong,22
+sole and heel operator,8156.2.6,limited,6
+leather goods machine operator,8156.3,limited,14
+leather goods maintenance technician,8156.3.1,limited,11
+pre-stitching machine operator,8156.4,limited,7
+laundry worker,8157.1,strong,391
+laundry ironer,8157.1.1,strong,711
+laundry workers supervisor,8157.2,limited,17
+braiding machine operator,8159.1,limited,1
+braiding textile technician,8159.2,limited,6
+canvas goods assembler,8159.3,strong,83
+mattress making machine operator,8159.5,strong,146
+nonwoven staple machine operator,8159.6,strong,513
+nonwoven textile technician,8159.7,limited,10
+textile pattern making machine operator,8159.8,strong,57
+animal feed operator,8160.1,strong,149
+cacao beans cleaner,8160.10,limited,9
+candy machine operator,8160.11,limited,3
+carbonation operator,8160.12,limited,3
+cellar operator,8160.13,limited,7
+centrifuge operator,8160.14,strong,40
+chilling operator,8160.15,strong,142
+chocolate moulding operator,8160.16,strong,112
+cider fermentation operator,8160.17,limited,1
+cigarette making machine operator,8160.18,strong,28
+clarifier,8160.19,strong,20
+baking operator,8160.2,strong,92
+cocoa mill operator,8160.20,limited,16
+cocoa press operator,8160.21,limited,7
+coffee grinder,8160.22,strong,27
+coffee roaster,8160.23,limited,5
+dairy processing operator,8160.24,strong,30
+dairy products manufacturing worker,8160.25,strong,77
+distillery miller,8160.26,limited,3
+distillery worker,8160.27,strong,170
+dryer attendant,8160.28,strong,28
+extract mixer tester,8160.29,limited,9
+beverage filtration technician,8160.3,strong,111
+fish canning operator,8160.31,strong,52
+fish production operator,8160.32,strong,23
+flour purifier operator,8160.33,limited,13
+food production operator,8160.34,strong,2312
+fruit-press operator,8160.35,limited,18
+fruit and vegetable canner,8160.36,strong,630
+germination operator,8160.37,limited,4
+honey extractor,8160.38,limited,1
+hydrogenation machine operator,8160.39,limited,5
+blanching operator,8160.4,limited,11
+kettle tender,8160.40,limited,5
+liquor blender,8160.41,strong,28
+liquor grinding mill operator,8160.42,limited,14
+malt kiln operator,8160.43,limited,4
+milk heat treatment process operator,8160.44,limited,1
+miller,8160.45,strong,26
+pasta operator,8160.46,limited,17
+prepared meat operator,8160.47,strong,242
+refining machine operator,8160.48,limited,7
+sauce production operator,8160.49,strong,96
+blender operator,8160.5,limited,4
+starch converting operator,8160.50,limited,13
+starch extraction operator,8160.51,limited,11
+sugar refinery operator,8160.52,strong,30
+vermouth manufacturer,8160.53,limited,4
+wine fermenter,8160.54,limited,17
+yeast distiller,8160.55,limited,8
+blending plant operator,8160.6,strong,38
+brew house operator,8160.7,strong,63
+bulk filler,8160.8,strong,252
+cacao bean roaster,8160.9,limited,4
+digester operator,8171.2,limited,2
+froth flotation deinking operator,8171.3,limited,12
+laminating machine operator,8171.4,strong,108
+paper machine operator,8171.5,limited,12
+paper pulp moulding operator,8171.6,limited,2
+pulp technician,8171.8,limited,9
+wash deinking operator,8171.9,strong,90
+chipper operator,8172.1,limited,2
+crosscut saw operator,8172.2,strong,26
+debarker operator,8172.3,limited,15
+engineered wood board machine operator,8172.4,limited,8
+sawmill operator,8172.5,strong,328
+band saw operator,8172.5.1,strong,53
+planer thicknesser operator,8172.5.2,strong,24
+table saw operator,8172.5.3,strong,28
+veneer slicer operator,8172.5.4,limited,8
+wood router operator,8172.5.5,limited,3
+wood fuel pelletiser,8172.6,limited,5
+auger press operator,8181.1,limited,11
+kiln firer,8181.10,limited,6
+brick and tile caster,8181.2,limited,12
+clay kiln burner,8181.3,limited,9
+clay products dry kiln operator,8181.3.1,limited,1
+tunnel kiln operator,8181.3.2,limited,6
+drawing kiln operator,8181.4,strong,47
+dry press operator,8181.5,limited,4
+fibre machine tender,8181.6,limited,19
+glass annealer,8181.7,limited,7
+glass forming machine operator,8181.8,limited,15
+glass polisher,8181.9,strong,51
+boiler operator,8182.1,strong,264
+steam plant operator,8182.2,strong,28
+canning and bottling line operator,8183.1,strong,339
+cigar brander,8183.2,strong,29
+cylinder filler,8183.3,strong,200
+footwear finishing and packing operator,8183.4,strong,69
+heat sealing machine operator,8183.5,strong,58
+leather goods packing operator,8183.6,limited,15
+packaging and filling machine operator,8183.7,strong,3514
+edge bander operator,8189.1,limited,11
+slitter operator,8189.2,strong,171
+aircraft assembler,8211.1,strong,38
+aircraft engine assembler,8211.1.1,limited,2
+industrial machinery assembler,8211.2,strong,141
+mechatronics assembler,8211.3,strong,143
+motorcycle assembler,8211.4,limited,18
+motor vehicle assembler,8211.5,strong,322
+motor vehicle body assembler,8211.5.1,strong,342
+motor vehicle engine assembler,8211.5.2,strong,47
+motor vehicle parts assembler,8211.5.3,strong,354
+rolling stock assembler,8211.6,strong,206
+vessel engine assembler,8211.7,limited,6
+dental instrument assembler,8212.1,strong,22
+electrical equipment assembler,8212.2,strong,126
+control panel assembler,8212.2.1,strong,311
+electrical cable assembler,8212.2.2,strong,197
+wire harness assembler,8212.2.3,strong,263
+electronic equipment assembler,8212.3,strong,140
+battery assembler,8212.3.1,strong,106
+electromechanical equipment assembler,8212.3.2,strong,304
+electronic musical instrument maker,8212.3.3,limited,12
+photographic equipment assembler,8212.3.4,strong,40
+printed circuit board assembler,8212.3.5,strong,187
+semiconductor processor,8212.3.6,strong,142
+surface-mount technology machine operator,8212.4,strong,54
+wave soldering machine operator,8212.5,strong,37
+ammunition assembler,8219.1,limited,13
+rubber goods assembler,8219.10,strong,82
+wood products assembler,8219.11,strong,99
+bicycle assembler,8219.2,strong,79
+firework assembler,8219.3,limited,5
+furniture assembler,8219.4,strong,694
+jewellery assembler,8219.5,limited,16
+medical device assembler,8219.6,strong,63
+metal furniture machine operator,8219.7,limited,11
+metal products assembler,8219.8,strong,986
+plastic products assembler,8219.9,strong,76
+train driver,8311.1,strong,49
+level crossing signalperson,8312.1,strong,54
+rail switchperson,8312.2,strong,84
+shunter,8312.3,limited,14
+train dispatcher,8312.4,strong,61
+train preparer,8312.5,limited,16
+motorcycle delivery person,8321.1,strong,112
+armoured car driver,8322.1,strong,23
+car and van delivery driver,8322.2,strong,1742
+hearse driver,8322.3,limited,9
+parking valet,8322.4,strong,649
+patient transport services driver,8322.5,strong,233
+private chauffeur,8322.6,strong,408
+taxi driver,8322.7,strong,658
+bus driver,8331.1,strong,1712
+trolley bus driver,8331.1.1,strong,92
+tram driver,8331.2,strong,77
+aircraft fuel system operator,8332.1,strong,77
+cargo vehicle driver,8332.2,strong,3018
+concrete pump operator,8332.3,strong,90
+dangerous goods driver,8332.4,strong,100
+fire service vehicle operator,8332.5,strong,24
+live animal transporter,8332.6,limited,9
+moving truck driver,8332.7,strong,92
+refuse vehicle driver,8332.8,strong,61
+forestry equipment operator,8341.1,strong,30
+land-based machinery operator,8341.2,strong,75
+land-based machinery supervisor,8341.3,limited,7
+bulldozer operator,8342.1,strong,77
+surface mine plant operator,8342.10,limited,5
+dredge operator,8342.2,limited,10
+excavator operator,8342.3,strong,112
+grader operator,8342.4,strong,98
+pile driving hammer operator,8342.5,strong,462
+road construction worker,8342.6,strong,321
+road roller operator,8342.7,strong,46
+scraper operator,8342.8,strong,172
+snow-clearing worker,8342.9,strong,32
+automated cable vehicle controller,8343.1,strong,62
+container crane operator,8343.2,strong,136
+mobile crane operator,8343.3,strong,76
+production plant crane operator,8343.4,strong,558
+tower crane operator,8343.5,strong,142
+forklift operator,8344.1,strong,4267
+boatswain,8350.1,limited,2
+decksman,8350.2,strong,61
+engine minder,8350.3,strong,33
+fisheries deckhand,8350.4,limited,12
+matrose,8350.5,strong,64
+ordinary seaman,8350.6,strong,42
+sailor,8350.7,strong,45
+domestic cleaner,9111.1,strong,3104
+aircraft groomer,9112.1,strong,137
+building cleaner,9112.2,strong,8133
+furniture cleaner,9112.3,strong,643
+room attendant,9112.4,strong,2049
+toilet attendant,9112.5,strong,544
+train cleaner,9112.6,strong,97
+linen room attendant,9121.1,strong,340
+wearing apparel presser,9121.2,strong,54
+vehicle cleaner,9122.1,strong,736
+window cleaner,9123.1,strong,69
+drapery and carpet cleaner,9129.1,strong,151
+sewerage cleaner,9129.2,strong,71
+swimming facility attendant,9129.3,strong,279
+fruit and vegetable picker,9211.1,strong,1258
+vineyard worker,9211.2,strong,36
+catcher,9212.1,strong,76
+equine worker,9212.2,strong,214
+groom,9212.3,strong,72
+livestock worker,9212.4,strong,128
+crop production worker,9213.1,strong,671
+garden labourer,9214.1,strong,1129
+horticulture worker,9214.2,strong,1573
+forest worker,9215.1,strong,818
+aquaculture cage mooring worker,9216.1,strong,26
+aquaculture harvesting worker,9216.2,limited,5
+on foot aquatic resources collector,9216.3,strong,25
+water-based aquaculture worker,9216.4,limited,11
+mining assistant,9311.1,strong,94
+civil engineering worker,9312.1,strong,275
+drainage worker,9312.1.1,strong,154
+rail layer,9312.1.2,strong,25
+road maintenance worker,9312.1.3,strong,237
+road marker,9312.1.4,strong,42
+road sign installer,9312.1.5,strong,93
+waterway construction labourer,9312.1.6,strong,22
+building construction worker,9313.1,strong,2345
+clothing finisher,9321.1,strong,703
+hand packer,9321.2,strong,5702
+factory hand,9329.1,strong,9354
+wood caulker,9329.2,limited,7
+bicycle courier,9331.1,strong,408
+carriage driver,9332.1,strong,36
+airport baggage handler,9333.1,strong,121
+distribution centre dispatcher,9333.2,strong,2784
+materials handler,9333.3,strong,2279
+mover,9333.4,strong,194
+rail intermodal equipment operator,9333.5,strong,53
+stevedore,9333.6,strong,1009
+stevedore superintendent,9333.7,strong,114
+warehouse worker,9333.8,strong,13318
+warehouse order picker,9333.8.1,strong,6537
+shelf filler,9334.1,strong,2498
+pizzaiolo,9411.1,strong,366
+quick service restaurant crew member,9411.2,strong,2066
+kitchen assistant,9412.1,strong,10008
+kitchen porter,9412.2,strong,507
+leaflet distributor,9510.1,strong,554
+hawker,9520.1,strong,221
+refuse collector,9611.1,strong,304
+recycling worker,9612.1,strong,100
+sorter labourer,9612.2,strong,181
+street sweeper,9613.1,strong,373
+doorman/doorwoman,9621.1,strong,166
+hotel porter,9621.2,strong,360
+handyperson,9622.1,strong,1871
+meter reader,9623.1,strong,63
+vending machine operator,9623.2,strong,333
+advertising installer,9629.1,strong,227
+amusement and recreation attendant,9629.2,strong,159
+attraction operator,9629.3,strong,44
+cloak room attendant,9629.4,strong,700
+laundromat attendant,9629.5,strong,1327
+locker room attendant,9629.6,strong,553
+usher,9629.7,strong,363
