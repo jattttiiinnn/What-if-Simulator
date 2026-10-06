@@ -1,0 +1,609 @@
+query,base,status,matched,confidence,evidence,suspicious_no_overlap
+software devexoper,software developer,200,software developer,94.4,strong,False
+software devzloper,software developer,200,software developer,94.4,strong,False
+Software Developer,software developer,200,software developer,88.9,strong,False
+softtware developer,software developer,200,software developer,97.3,strong,False
+  software developer  ,software developer,200,software developer,95.0,strong,False
+SOFTWARE DEVELOPER,software developer,200,software developer,5.6,strong,False
+software developr,software developer,200,software developer,97.1,strong,False
+sofnware developer,software developer,200,software developer,94.4,strong,False
+software develfper,software developer,200,software developer,94.4,strong,False
+software developer,software developer,200,software developer,100.0,strong,False
+software devekoper,software developer,200,software developer,94.4,strong,False
+softwware developer,software developer,200,software developer,97.3,strong,False
+software deevloper,software developer,200,software developer,94.4,strong,False
+software devleoper,software developer,200,software developer,94.4,strong,False
+software deeveloper,software developer,200,software developer,97.3,strong,False
+software dveloper,software developer,200,software developer,97.1,strong,False
+  full stack developer  ,full stack developer,200,software developer,100.0,strong,False
+full stack deeveloper,full stack developer,404_honest_reject,,,,
+full stakc developer,full stack developer,404_honest_reject,,,,
+full stack dqveloper,full stack developer,404_honest_reject,,,,
+futl stack developer,full stack developer,404_honest_reject,,,,
+fuls stack developer,full stack developer,404_honest_reject,,,,
+Full Stack Developer,full stack developer,200,software developer,100.0,strong,False
+full stacu developer,full stack developer,404_honest_reject,,,,
+full tsack developer,full stack developer,404_honest_reject,,,,
+full stack developer,full stack developer,200,software developer,100.0,strong,False
+ful lstack developer,full stack developer,404_honest_reject,,,,
+full stack doveloper,full stack developer,404_honest_reject,,,,
+full stack deveoper,full stack developer,404_honest_reject,,,,
+full stack dveeloper,full stack developer,404_honest_reject,,,,
+fll stack developer,full stack developer,404_honest_reject,,,,
+FULL STACK DEVELOPER,full stack developer,200,software developer,100.0,strong,False
+Fullstack Developer,fullstack developer,404_honest_reject,,,,
+fulstack developer,fullstack developer,404_honest_reject,,,,
+fullstack eveloper,fullstack developer,404_honest_reject,,,,
+fullstadk developer,fullstack developer,404_honest_reject,,,,
+fullstack developer,fullstack developer,404_honest_reject,,,,
+FULLSTACK DEVELOPER,fullstack developer,404_honest_reject,,,,
+fullstack developmr,fullstack developer,404_honest_reject,,,,
+fullstack deveeloper,fullstack developer,404_honest_reject,,,,
+  fullstack developer  ,fullstack developer,404_honest_reject,,,,
+fulltack developer,fullstack developer,404_honest_reject,,,,
+fullstcak developer,fullstack developer,404_honest_reject,,,,
+fullstack  developer,fullstack developer,404_honest_reject,,,,
+fullstack developr,fullstack developer,404_honest_reject,,,,
+fullstack develooper,fullstack developer,404_honest_reject,,,,
+fullstackd eveloper,fullstack developer,404_honest_reject,,,,
+fullstwck developer,fullstack developer,404_honest_reject,,,,
+backnd engineer,backend engineer,404_honest_reject,,,,
+BACKEND ENGINEER,backend engineer,200,ICT application developer,100.0,strong,False
+backend engineer,backend engineer,200,ICT application developer,100.0,strong,False
+backend egnineer,backend engineer,404_honest_reject,,,,
+  backend engineer  ,backend engineer,200,ICT application developer,100.0,strong,False
+bazkend engineer,backend engineer,404_honest_reject,,,,
+bakend engineer,backend engineer,404_honest_reject,,,,
+Backend Engineer,backend engineer,200,ICT application developer,100.0,strong,False
+backend engiineer,backend engineer,404_honest_reject,,,,
+blckend engineer,backend engineer,404_honest_reject,,,,
+backend enginer,backend engineer,404_honest_reject,,,,
+backend enngineer,backend engineer,404_honest_reject,,,,
+backend enginneer,backend engineer,404_honest_reject,,,,
+backend engieer,backend engineer,404_honest_reject,,,,
+backennd engineer,backend engineer,404_honest_reject,,,,
+backend eengineer,backend engineer,404_honest_reject,,,,
+  frontend developer  ,frontend developer,200,web developer,100.0,strong,False
+fronteend developer,frontend developer,404_honest_reject,,,,
+frontend developer,frontend developer,200,web developer,100.0,strong,False
+frontend dveeloper,frontend developer,404_honest_reject,,,,
+frotend developer,frontend developer,404_honest_reject,,,,
+fronntend developer,frontend developer,404_honest_reject,,,,
+frontnd developer,frontend developer,404_honest_reject,,,,
+frontend develsper,frontend developer,404_honest_reject,,,,
+frontend developqr,frontend developer,404_honest_reject,,,,
+frdntend developer,frontend developer,404_honest_reject,,,,
+frontned developer,frontend developer,404_honest_reject,,,,
+frontend develover,frontend developer,404_honest_reject,,,,
+fronted developer,frontend developer,404_honest_reject,,,,
+Frontend Developer,frontend developer,200,web developer,100.0,strong,False
+frontend dveloper,frontend developer,404_honest_reject,,,,
+FRONTEND DEVELOPER,frontend developer,200,web developer,100.0,strong,False
+dataa scientist,data scientist,200,data scientist,96.6,strong,False
+dat scientist,data scientist,200,data scientist,96.3,strong,False
+datta scientist,data scientist,200,data scientist,96.6,strong,False
+data scienist,data scientist,200,data scientist,96.3,strong,False
+data scientist,data scientist,200,data scientist,100.0,strong,False
+data scienuist,data scientist,200,data scientist,92.9,strong,False
+dtaa scientist,data scientist,200,data scientist,92.9,strong,False
+data scietnist,data scientist,200,data scientist,92.9,strong,False
+data  scientist,data scientist,200,data scientist,96.6,strong,False
+data scienttist,data scientist,200,data scientist,96.6,strong,False
+DATA SCIENTIST,data scientist,200,data scientist,7.1,strong,False
+data sientist,data scientist,200,data scientist,96.3,strong,False
+data scientiist,data scientist,200,data scientist,96.6,strong,False
+Data Scientist,data scientist,200,data scientist,85.7,strong,False
+data scientisst,data scientist,200,data scientist,96.6,strong,False
+  data scientist  ,data scientist,200,data scientist,95.0,strong,False
+data aanlyst,data analyst,200,data analyst,91.7,strong,False
+data anaylst,data analyst,200,data analyst,91.7,strong,False
+data onalyst,data analyst,200,data analyst,91.7,strong,False
+DATA ANALYST,data analyst,200,data analyst,8.3,strong,False
+data analyyst,data analyst,200,data analyst,96.0,strong,False
+data anayst,data analyst,200,data analyst,95.7,strong,False
+data aalyst,data analyst,200,data analyst,95.7,strong,False
+data anaoyst,data analyst,200,data analyst,91.7,strong,False
+data analyst,data analyst,200,data analyst,100.0,strong,False
+datazanalyst,data analyst,200,data analyst,91.7,strong,True
+  data analyst  ,data analyst,200,data analyst,95.0,strong,False
+dtaa analyst,data analyst,200,data analyst,91.7,strong,False
+daty analyst,data analyst,200,data analyst,91.7,strong,False
+data annalyst,data analyst,200,data analyst,96.0,strong,False
+Data Analyst,data analyst,200,data analyst,83.3,strong,False
+data aanalyst,data analyst,200,data analyst,96.0,strong,False
+product janager,product manager,200,product manager,93.3,strong,False
+PRODUCT MANAGER,product manager,200,product manager,6.7,strong,False
+product mannager,product manager,200,product manager,96.8,strong,False
+prodfct manager,product manager,200,product manager,93.3,strong,False
+prodct manager,product manager,200,product manager,96.6,strong,False
+Product Manager,product manager,200,product manager,86.7,strong,False
+product anager,product manager,200,product manager,96.6,strong,False
+  product manager  ,product manager,200,product manager,95.0,strong,False
+produtc manager,product manager,200,product manager,93.3,strong,False
+product  manager,product manager,200,product manager,96.8,strong,False
+produuct manager,product manager,200,product manager,96.8,strong,False
+porduct manager,product manager,200,product manager,93.3,strong,False
+product manager,product manager,200,product manager,100.0,strong,False
+product monager,product manager,200,product manager,93.3,strong,False
+prodect manager,product manager,200,project manager,93.3,strong,False
+pcoduct manager,product manager,200,product manager,93.3,strong,False
+UX DESIGNER,ux designer,200,user interface designer,100.0,strong,False
+uxdesigner,ux designer,404_honest_reject,,,,
+ux designor,ux designer,404_honest_reject,,,,
+us designer,ux designer,404_honest_reject,,,,
+  ux designer  ,ux designer,200,user interface designer,100.0,strong,False
+ux desgner,ux designer,404_honest_reject,,,,
+uxx designer,ux designer,404_honest_reject,,,,
+ux deszgner,ux designer,404_honest_reject,,,,
+ux designer,ux designer,200,user interface designer,100.0,strong,False
+ux deisgner,ux designer,404_honest_reject,,,,
+ux  designer,ux designer,404_honest_reject,,,,
+ux desiggner,ux designer,404_honest_reject,,,,
+ux desigjer,ux designer,404_honest_reject,,,,
+Ux Designer,ux designer,200,user interface designer,100.0,strong,False
+ux iesigner,ux designer,404_honest_reject,,,,
+uxd esigner,ux designer,404_honest_reject,,,,
+DEVOPS ENGINEER,devops engineer,200,ICT application developer,100.0,strong,False
+devopsengineer,devops engineer,404_honest_reject,,,,
+devops engxneer,devops engineer,404_honest_reject,,,,
+devos engineer,devops engineer,404_honest_reject,,,,
+devops engineer,devops engineer,200,ICT application developer,100.0,strong,False
+devops enoineer,devops engineer,404_honest_reject,,,,
+  devops engineer  ,devops engineer,200,ICT application developer,100.0,strong,False
+devops engneer,devops engineer,404_honest_reject,,,,
+dveops engineer,devops engineer,404_honest_reject,,,,
+devoops engineer,devops engineer,404_honest_reject,,,,
+devops engineeer,devops engineer,404_honest_reject,,,,
+Devops Engineer,devops engineer,200,ICT application developer,100.0,strong,False
+devops enginer,devops engineer,404_honest_reject,,,,
+devops engiineer,devops engineer,404_honest_reject,,,,
+devops enggineer,devops engineer,404_honest_reject,,,,
+devops enbineer,devops engineer,404_honest_reject,,,,
+qa enngineer,qa engineer,404_honest_reject,,,,
+qa engnieer,qa engineer,404_honest_reject,,,,
+qa enpineer,qa engineer,404_honest_reject,,,,
+qa  engineer,qa engineer,404_honest_reject,,,,
+qa egnineer,qa engineer,404_honest_reject,,,,
+qa enginneer,qa engineer,404_honest_reject,,,,
+q engineer,qa engineer,404_honest_reject,,,,
+qa engineer,qa engineer,200,software tester,100.0,strong,False
+qa engieer,qa engineer,404_honest_reject,,,,
+  qa engineer  ,qa engineer,200,software tester,100.0,strong,False
+QA ENGINEER,qa engineer,200,software tester,100.0,strong,False
+qa vngineer,qa engineer,404_honest_reject,,,,
+qa engineeer,qa engineer,404_honest_reject,,,,
+qa enzineer,qa engineer,404_honest_reject,,,,
+Qa Engineer,qa engineer,200,software tester,100.0,strong,False
+qa enginer,qa engineer,404_honest_reject,,,,
+business analyst,business analyst,200,business analyst,100.0,strong,False
+business aanalyst,business analyst,200,business analyst,97.0,strong,False
+business knalyst,business analyst,200,business analyst,93.8,strong,False
+busines analyst,business analyst,200,business analyst,96.8,strong,False
+busihess analyst,business analyst,200,business analyst,93.8,strong,False
+Business Analyst,business analyst,200,business analyst,87.5,strong,False
+business nalyst,business analyst,200,business analyst,96.8,strong,False
+  business analyst  ,business analyst,200,business analyst,95.0,strong,False
+business anaalyst,business analyst,200,business analyst,97.0,strong,False
+busiiness analyst,business analyst,200,business analyst,97.0,strong,False
+business annalyst,business analyst,200,business analyst,97.0,strong,False
+business analyxt,business analyst,200,business analyst,93.8,strong,False
+business mnalyst,business analyst,200,business analyst,93.8,strong,False
+business anaylst,business analyst,200,business analyst,93.8,strong,False
+businness analyst,business analyst,200,business analyst,97.0,strong,False
+BUSINESS ANALYST,business analyst,200,business analyst,6.2,strong,False
+web develoepr,web developer,200,web developer,92.3,strong,False
+web dveloper,web developer,200,web developer,96.0,strong,False
+  web developer  ,web developer,200,web developer,95.0,strong,False
+web develloper,web developer,200,web developer,96.3,strong,False
+Web Developer,web developer,200,web developer,84.6,strong,False
+web  developer,web developer,200,web developer,96.3,strong,False
+web deevloper,web developer,200,web developer,92.3,strong,False
+web deveoper,web developer,200,web developer,96.0,strong,False
+web developer,web developer,200,web developer,100.0,strong,False
+web geveloper,web developer,200,web developer,92.3,strong,False
+web deeveloper,web developer,200,web developer,96.3,strong,False
+web devlloper,web developer,200,web developer,92.3,strong,False
+web dveeloper,web developer,200,web developer,92.3,strong,False
+WEB DEVELOPER,web developer,200,web developer,7.7,strong,False
+web develooper,web developer,200,web developer,96.3,strong,False
+web developir,web developer,200,web developer,92.3,strong,False
+machine leaarning engineer,machine learning engineer,404_honest_reject,,,,
+machine learnign engineer,machine learning engineer,404_honest_reject,,,,
+machine learning engieer,machine learning engineer,404_honest_reject,,,,
+mahine learning engineer,machine learning engineer,404_honest_reject,,,,
+machine learning engineer,machine learning engineer,404_honest_reject,,,,
+machine learning engineeer,machine learning engineer,404_honest_reject,,,,
+machine earning engineer,machine learning engineer,404_honest_reject,,,,
+machine lerning engineer,machine learning engineer,404_honest_reject,,,,
+machine learning engnieer,machine learning engineer,404_honest_reject,,,,
+machine learnig engineer,machine learning engineer,404_honest_reject,,,,
+machine learninguengineer,machine learning engineer,404_honest_reject,,,,
+Machine Learning Engineer,machine learning engineer,404_honest_reject,,,,
+MACHINE LEARNING ENGINEER,machine learning engineer,404_honest_reject,,,,
+mchine learning engineer,machine learning engineer,404_honest_reject,,,,
+machvne learning engineer,machine learning engineer,404_honest_reject,,,,
+  machine learning engineer  ,machine learning engineer,404_honest_reject,,,,
+administrative ssistant,administrative assistant,200,administrative assistant,97.9,strong,False
+administrative assstant,administrative assistant,200,administrative assistant,97.9,strong,False
+admniistrative assistant,administrative assistant,200,administrative assistant,95.8,strong,False
+administraitve assistant,administrative assistant,200,administrative assistant,95.8,strong,False
+administrgtive assistant,administrative assistant,200,administrative assistant,95.8,strong,False
+adminibtrative assistant,administrative assistant,200,administrative assistant,95.8,strong,False
+administrative aassistant,administrative assistant,200,administrative assistant,98.0,strong,False
+administratvie assistant,administrative assistant,200,administrative assistant,95.8,strong,False
+adminqstrative assistant,administrative assistant,200,administrative assistant,95.8,strong,False
+administrative afsistant,administrative assistant,200,administrative assistant,95.8,strong,False
+Administrative Assistant,administrative assistant,200,administrative assistant,91.7,strong,False
+ADMINISTRATIVE ASSISTANT,administrative assistant,200,administrative assistant,4.2,strong,False
+administrative assistant,administrative assistant,200,administrative assistant,100.0,strong,False
+adminitsrative assistant,administrative assistant,200,administrative assistant,95.8,strong,False
+admministrative assistant,administrative assistant,200,administrative assistant,98.0,strong,False
+  administrative assistant  ,administrative assistant,200,administrative assistant,95.0,strong,False
+sals assistant,sales assistant,200,sales assistant,96.6,strong,False
+salles assistant,sales assistant,200,sales assistant,96.8,strong,False
+sales aassistant,sales assistant,200,sales assistant,96.8,strong,False
+sales hssistant,sales assistant,200,sales assistant,93.3,strong,False
+sales assistant,sales assistant,200,sales assistant,100.0,strong,False
+sales assisdant,sales assistant,200,sales assistant,93.3,strong,False
+sales assisstant,sales assistant,200,sales assistant,96.8,strong,False
+SALES ASSISTANT,sales assistant,200,sales assistant,6.7,strong,False
+salesa ssistant,sales assistant,200,sales assistant,93.3,strong,True
+Sales Assistant,sales assistant,200,sales assistant,86.7,strong,False
+saleo assistant,sales assistant,200,sales assistant,93.3,strong,False
+sales assistannt,sales assistant,200,sales assistant,96.8,strong,False
+sles assistant,sales assistant,200,sales assistant,96.6,strong,False
+sales aqsistant,sales assistant,200,sales assistant,93.3,strong,False
+  sales assistant  ,sales assistant,200,sales assistant,95.0,strong,False
+sales assistaant,sales assistant,200,sales assistant,96.8,strong,False
+SHOP ASSISTANT,shop assistant,200,shop assistant,7.1,strong,False
+shop sasistant,shop assistant,200,shop assistant,92.9,strong,False
+shop asssitant,shop assistant,200,shop assistant,92.9,strong,False
+shop assistannt,shop assistant,200,shop assistant,96.6,strong,False
+shop assistnat,shop assistant,200,shop assistant,92.9,strong,False
+shop assistqnt,shop assistant,200,shop assistant,92.9,strong,False
+shopassistant,shop assistant,200,shop assistant,96.3,strong,True
+shop assiztant,shop assistant,200,shop assistant,92.9,strong,False
+  shop assistant  ,shop assistant,200,shop assistant,95.0,strong,False
+shop assistant,shop assistant,200,shop assistant,100.0,strong,False
+Shop Assistant,shop assistant,200,shop assistant,85.7,strong,False
+shop assisttant,shop assistant,200,shop assistant,96.6,strong,False
+sop assistant,shop assistant,200,shop assistant,96.3,strong,False
+shopp assistant,shop assistant,200,shop assistant,96.6,strong,False
+shop asssistant,shop assistant,200,shop assistant,96.6,strong,False
+shop assstant,shop assistant,200,shop assistant,96.3,strong,False
+warehouse woker,warehouse worker,200,warehouse worker,96.8,strong,False
+wraehouse worker,warehouse worker,200,warehouse worker,93.8,strong,False
+warehouse worker,warehouse worker,200,warehouse worker,100.0,strong,False
+warehousewworker,warehouse worker,200,warehouse worker,93.8,strong,True
+wavehouse worker,warehouse worker,200,warehouse worker,93.8,strong,False
+warehousew orker,warehouse worker,200,warehouse worker,93.8,strong,True
+warehouse worer,warehouse worker,200,warehouse worker,96.8,strong,False
+Warehouse Worker,warehouse worker,200,warehouse worker,87.5,strong,False
+warehouse orker,warehouse worker,200,warehouse worker,96.8,strong,False
+warhouse worker,warehouse worker,200,warehouse worker,96.8,strong,False
+  warehouse worker  ,warehouse worker,200,warehouse worker,95.0,strong,False
+warrehouse worker,warehouse worker,200,warehouse worker,97.0,strong,False
+warehouse workeer,warehouse worker,200,warehouse worker,97.0,strong,False
+WAREHOUSE WORKER,warehouse worker,200,warehouse worker,6.2,strong,False
+warehouse wrker,warehouse worker,200,warehouse worker,96.8,strong,False
+waqehouse worker,warehouse worker,200,warehouse worker,93.8,strong,False
+cjshier,cashier,404_honest_reject,,,,
+Cashier,cashier,200,cashier,85.7,strong,False
+caashier,cashier,200,cashier,93.3,strong,True
+CASHIER,cashier,200,cashier,0.0,strong,False
+casxier,cashier,404_honest_reject,,,,
+csahier,cashier,404_honest_reject,,,,
+caswier,cashier,404_honest_reject,,,,
+cashire,cashier,404_honest_reject,,,,
+casheir,cashier,404_honest_reject,,,,
+casher,cashier,200,cashier,92.3,strong,True
+cayhier,cashier,404_honest_reject,,,,
+cashir,cashier,200,cashier,92.3,strong,True
+cashier,cashier,200,cashier,100.0,strong,False
+  cashier  ,cashier,200,cashier,90.0,strong,False
+coshier,cashier,404_honest_reject,,,,
+cashser,cashier,404_honest_reject,,,,
+kitchen assistant,kitchen assistant,200,kitchen assistant,100.0,strong,False
+  kitchen assistant  ,kitchen assistant,200,kitchen assistant,95.0,strong,False
+KITCHEN ASSISTANT,kitchen assistant,200,kitchen assistant,5.9,strong,False
+kitchen asistant,kitchen assistant,200,kitchen assistant,97.0,strong,False
+kitchen assisatnt,kitchen assistant,200,kitchen assistant,94.1,strong,False
+kittchen assistant,kitchen assistant,200,kitchen assistant,97.1,strong,False
+kitchen assxstant,kitchen assistant,200,kitchen assistant,94.1,strong,False
+Kitchen Assistant,kitchen assistant,200,kitchen assistant,88.2,strong,False
+kitchen assstant,kitchen assistant,200,kitchen assistant,97.0,strong,False
+kitchen assistnt,kitchen assistant,200,kitchen assistant,97.0,strong,False
+kitchen amsistant,kitchen assistant,200,kitchen assistant,94.1,strong,False
+kitchen aesistant,kitchen assistant,200,kitchen assistant,94.1,strong,False
+kitchen assistannt,kitchen assistant,200,kitchen assistant,97.1,strong,False
+kitchne assistant,kitchen assistant,200,kitchen assistant,94.1,strong,False
+kitchen mssistant,kitchen assistant,200,kitchen assistant,94.1,strong,False
+kivchen assistant,kitchen assistant,200,kitchen assistant,94.1,strong,False
+whiter,waiter,404_honest_reject,,,,
+waier,waiter,404_honest_reject,,,,
+water,waiter,200,water treatment plant manager,90.0,strong,False
+  waiter  ,waiter,200,waiter/waitress,90.0,strong,False
+waitr,waiter,200,waiter/waitress,90.0,strong,True
+waiter,waiter,200,waiter/waitress,90.0,strong,False
+waieer,waiter,404_honest_reject,,,,
+Waiter,waiter,200,waiter/waitress,90.0,strong,False
+wiater,waiter,404_honest_reject,,,,
+watier,waiter,404_honest_reject,,,,
+WAITER,waiter,200,waiter/waitress,90.0,strong,False
+waitre,waiter,200,waiter/waitress,90.0,strong,True
+witer,waiter,200,writer,90.9,strong,True
+waiiter,waiter,404_honest_reject,,,,
+waitter,waiter,404_honest_reject,,,,
+warter,waiter,404_honest_reject,,,,
+receptionst,receptionist,200,receptionist,95.7,strong,True
+RECEPTIONIST,receptionist,200,receptionist,0.0,strong,False
+  receptionist  ,receptionist,200,receptionist,95.0,strong,False
+receptirnist,receptionist,200,receptionist,91.7,strong,True
+Receptionist,receptionist,200,receptionist,91.7,strong,False
+receptienist,receptionist,200,receptionist,91.7,strong,True
+receptioonist,receptionist,200,receptionist,96.0,strong,True
+receptionist,receptionist,200,receptionist,100.0,strong,False
+receptionkst,receptionist,200,receptionist,91.7,strong,True
+receptionpst,receptionist,200,receptionist,91.7,strong,True
+receptinist,receptionist,200,receptionist,95.7,strong,True
+receptoinist,receptionist,200,receptionist,91.7,strong,True
+recepionist,receptionist,200,receptionist,95.7,strong,True
+recehtionist,receptionist,200,receptionist,91.7,strong,True
+receeptionist,receptionist,200,receptionist,96.0,strong,True
+rrceptionist,receptionist,200,receptionist,91.7,strong,True
+call cntre agent,call centre agent,200,call centre agent,97.0,strong,False
+call centre agetn,call centre agent,200,call centre agent,94.1,strong,False
+call centre agnet,call centre agent,200,call centre agent,94.1,strong,False
+call centre agent,call centre agent,200,call centre agent,100.0,strong,False
+callc entre agent,call centre agent,200,call centre agent,94.1,strong,False
+call center agent,call centre agent,200,call centre agent,94.1,strong,False
+call cenre agent,call centre agent,200,call centre agent,97.0,strong,False
+call centre gent,call centre agent,200,call centre agent,97.0,strong,False
+call centre aglnt,call centre agent,200,call centre agent,94.1,strong,False
+call cenntre agent,call centre agent,200,call centre agent,97.1,strong,False
+call ccentre agent,call centre agent,200,call centre agent,97.1,strong,False
+CALL CENTRE AGENT,call centre agent,200,call centre agent,11.8,strong,False
+  call centre agent  ,call centre agent,200,call centre agent,95.0,strong,False
+Call Centre Agent,call centre agent,200,call centre agent,82.4,strong,False
+cll centre agent,call centre agent,200,call centre agent,97.0,strong,False
+call centre agnt,call centre agent,200,call centre agent,97.0,strong,False
+accounting assidtant,accounting assistant,200,accounting assistant,95.0,strong,False
+accounting assirtant,accounting assistant,200,accounting assistant,95.0,strong,False
+accountirg assistant,accounting assistant,200,accounting assistant,95.0,strong,False
+accounting assisatnt,accounting assistant,200,accounting assistant,95.0,strong,False
+accounting  assistant,accounting assistant,200,accounting assistant,97.6,strong,False
+accounting assistant,accounting assistant,200,accounting assistant,100.0,strong,False
+ACCOUNTING ASSISTANT,accounting assistant,200,accounting assistant,5.0,strong,False
+acsounting assistant,accounting assistant,200,accounting assistant,95.0,strong,False
+Accounting Assistant,accounting assistant,200,accounting assistant,90.0,strong,False
+accountin gassistant,accounting assistant,200,accounting assistant,95.0,strong,True
+  accounting assistant  ,accounting assistant,200,accounting assistant,95.0,strong,False
+accountng assistant,accounting assistant,200,accounting assistant,97.4,strong,False
+accounting gssistant,accounting assistant,200,accounting assistant,95.0,strong,False
+accounting aassistant,accounting assistant,200,accounting assistant,97.6,strong,False
+accounting asssistant,accounting assistant,200,accounting assistant,97.6,strong,False
+accouting assistant,accounting assistant,200,accounting assistant,97.4,strong,False
+customer service represetative,customer service representative,200,customer service representative,98.4,strong,False
+customer service represeutative,customer service representative,200,customer service representative,96.8,strong,False
+customer service representative,customer service representative,200,customer service representative,100.0,strong,False
+customer sevice representative,customer service representative,200,customer service representative,98.4,strong,False
+customer service representaitve,customer service representative,200,customer service representative,96.8,strong,False
+customer service erpresentative,customer service representative,200,customer service representative,96.8,strong,False
+CUSTOMER SERVICE REPRESENTATIVE,customer service representative,200,customer service representative,6.5,strong,False
+customeer service representative,customer service representative,200,customer service representative,98.4,strong,False
+customrr service representative,customer service representative,200,customer service representative,96.8,strong,False
+customer sservice representative,customer service representative,200,customer service representative,98.4,strong,False
+customer servicf representative,customer service representative,200,customer service representative,96.8,strong,False
+customer service represenattive,customer service representative,200,customer service representative,96.8,strong,False
+Customer Service Representative,customer service representative,200,customer service representative,90.3,strong,False
+customer servce representative,customer service representative,200,customer service representative,98.4,strong,False
+  customer service representative  ,customer service representative,200,customer service representative,95.0,strong,False
+customer servicerepresentative,customer service representative,200,customer service representative,98.4,strong,False
+secretafy,secretary,404_honest_reject,,,,
+secrteary,secretary,404_honest_reject,,,,
+  secretary  ,secretary,200,secretary,95.0,strong,False
+SECRETARY,secretary,200,secretary,0.0,strong,False
+secretay,secretary,200,secretary,94.1,strong,True
+secreary,secretary,200,secretary,94.1,strong,True
+seecretary,secretary,200,secretary,94.7,strong,True
+secretary,secretary,200,secretary,100.0,strong,False
+Secretary,secretary,200,secretary,88.9,strong,False
+scretary,secretary,200,secretary,94.1,strong,True
+seretary,secretary,200,secretary,94.1,strong,True
+secrettary,secretary,200,secretary,94.7,strong,True
+sacretary,secretary,404_honest_reject,,,,
+sceretary,secretary,404_honest_reject,,,,
+secretpry,secretary,404_honest_reject,,,,
+secbetary,secretary,404_honest_reject,,,,
+teaccher,teacher,404_honest_reject,,,,
+teacher,teacher,200,nursery school head teacher,90.0,strong,False
+teahcer,teacher,404_honest_reject,,,,
+taecher,teacher,404_honest_reject,,,,
+techer,teacher,404_honest_reject,,,,
+teacmer,teacher,404_honest_reject,,,,
+teeacher,teacher,404_honest_reject,,,,
+teachher,teacher,404_honest_reject,,,,
+TEACHER,teacher,200,nursery school head teacher,90.0,strong,False
+tecaher,teacher,404_honest_reject,,,,
+teacehr,teacher,404_honest_reject,,,,
+teacser,teacher,404_honest_reject,,,,
+teachr,teacher,404_honest_reject,,,,
+tuacher,teacher,404_honest_reject,,,,
+Teacher,teacher,200,nursery school head teacher,90.0,strong,False
+  teacher  ,teacher,200,nursery school head teacher,90.0,strong,False
+nurrse,nurse,404_honest_reject,,,,
+nurse,nurse,200,nursery school head teacher,90.0,strong,True
+njrse,nurse,404_honest_reject,,,,
+Nurse,nurse,200,nursery school head teacher,90.0,strong,True
+  nurse  ,nurse,200,nursery school head teacher,90.0,strong,True
+nurze,nurse,404_honest_reject,,,,
+nubse,nurse,404_honest_reject,,,,
+nrse,nurse,404_honest_reject,,,,
+nuurse,nurse,404_honest_reject,,,,
+nures,nurse,404_honest_reject,,,,
+nruse,nurse,404_honest_reject,,,,
+nure,nurse,404_honest_reject,,,,
+nurre,nurse,404_honest_reject,,,,
+nusre,nurse,404_honest_reject,,,,
+NURSE,nurse,200,nursery school head teacher,90.0,strong,True
+nursse,nurse,404_honest_reject,,,,
+ACCOUNTANT,accountant,200,accountant,0.0,strong,False
+  accountant  ,accountant,200,accountant,95.0,strong,False
+Accountant,accountant,200,accountant,90.0,strong,False
+acccountant,accountant,200,accountant,95.2,strong,True
+accoountant,accountant,200,accountant,95.2,strong,True
+accountaant,accountant,200,accountant,95.2,strong,True
+accountfnt,accountant,200,accountant,90.0,strong,True
+accolntant,accountant,200,accountant,90.0,strong,True
+acyountant,accountant,200,accountant,90.0,strong,True
+accxuntant,accountant,200,accountant,90.0,strong,True
+accouuntant,accountant,200,accountant,95.2,strong,True
+accoutnant,accountant,200,accountant,90.0,strong,True
+accountant,accountant,200,accountant,100.0,strong,False
+accountannt,accountant,200,accountant,95.2,strong,True
+accounlant,accountant,200,accountant,90.0,strong,True
+acocuntant,accountant,200,accountant,90.0,strong,True
+markeing assistant,marketing assistant,200,marketing assistant,97.3,strong,False
+MARKETING ASSISTANT,marketing assistant,200,marketing assistant,5.3,strong,False
+marketing assystant,marketing assistant,200,marketing assistant,94.7,strong,False
+mraketing assistant,marketing assistant,200,marketing assistant,94.7,strong,False
+marketin gassistant,marketing assistant,200,marketing assistant,94.7,strong,True
+  marketing assistant  ,marketing assistant,200,marketing assistant,95.0,strong,False
+marketing aassistant,marketing assistant,200,marketing assistant,97.4,strong,False
+marketing assitant,marketing assistant,200,marketing assistant,97.3,strong,False
+marketing assstant,marketing assistant,200,marketing assistant,97.3,strong,False
+markeeting assistant,marketing assistant,200,marketing assistant,97.4,strong,False
+mjrketing assistant,marketing assistant,200,marketing assistant,94.7,strong,False
+marketing asisstant,marketing assistant,200,marketing assistant,94.7,strong,False
+mareting assistant,marketing assistant,200,marketing assistant,97.3,strong,False
+Marketing Assistant,marketing assistant,200,marketing assistant,89.5,strong,False
+marketing assistant,marketing assistant,200,marketing assistant,100.0,strong,False
+marketing asyistant,marketing assistant,200,marketing assistant,94.7,strong,False
+hr assisstant,hr assistant,404_honest_reject,,,,
+Hr Assistant,hr assistant,404_honest_reject,,,,
+HR ASSISTANT,hr assistant,404_honest_reject,,,,
+hr asststant,hr assistant,404_honest_reject,,,,
+hr asssistant,hr assistant,404_honest_reject,,,,
+hr assitant,hr assistant,404_honest_reject,,,,
+hr asssitant,hr assistant,404_honest_reject,,,,
+hr assostant,hr assistant,404_honest_reject,,,,
+hr assisttant,hr assistant,404_honest_reject,,,,
+hr assisant,hr assistant,404_honest_reject,,,,
+  hr assistant  ,hr assistant,404_honest_reject,,,,
+hrassistant,hr assistant,404_honest_reject,,,,
+hrr assistant,hr assistant,404_honest_reject,,,,
+hr assistant,hr assistant,404_honest_reject,,,,
+hr sasistant,hr assistant,404_honest_reject,,,,
+hr assistatt,hr assistant,404_honest_reject,,,,
+projec manager,project manager,200,project manager,96.6,strong,False
+project mazager,project manager,200,project manager,93.3,strong,False
+PROJECT MANAGER,project manager,200,project manager,6.7,strong,False
+projject manager,project manager,200,project manager,96.8,strong,False
+  project manager  ,project manager,200,project manager,95.0,strong,False
+project manager,project manager,200,project manager,100.0,strong,False
+project manger,project manager,200,project manager,96.6,strong,False
+Project Manager,project manager,200,project manager,86.7,strong,False
+project maager,project manager,200,project manager,96.6,strong,False
+projecj manager,project manager,200,project manager,93.3,strong,False
+project mannager,project manager,200,project manager,96.8,strong,False
+projezt manager,project manager,200,project manager,93.3,strong,False
+project anager,project manager,200,project manager,96.6,strong,False
+projet manager,project manager,200,project manager,96.6,strong,False
+projecd manager,project manager,200,project manager,93.3,strong,False
+project  manager,project manager,200,project manager,96.8,strong,False
+operrations manager,operations manager,200,operations manager,97.3,strong,False
+OPERATIONS MANAGER,operations manager,200,operations manager,5.6,strong,False
+operations mnaager,operations manager,200,operations manager,94.4,strong,False
+oprations manager,operations manager,200,operations manager,97.1,strong,False
+Operations Manager,operations manager,200,operations manager,88.9,strong,False
+  operations manager  ,operations manager,200,operations manager,95.0,strong,False
+operations macager,operations manager,200,operations manager,94.4,strong,False
+operations manaer,operations manager,200,operations manager,97.1,strong,False
+operattions manager,operations manager,200,operations manager,97.3,strong,False
+operationns manager,operations manager,200,operations manager,97.3,strong,False
+operations manrger,operations manager,200,operations manager,94.4,strong,False
+opertaions manager,operations manager,200,operations manager,94.4,strong,False
+operations mnager,operations manager,200,operations manager,97.1,strong,False
+operations managsr,operations manager,200,operations manager,94.4,strong,False
+operations manager,operations manager,200,operations manager,100.0,strong,False
+operations manaegr,operations manager,200,operations manager,94.4,strong,False
+graphip designer,graphic designer,200,graphic designer,93.8,strong,False
+graphic  designer,graphic designer,200,graphic designer,97.0,strong,False
+graphic desigger,graphic designer,200,graphic designer,93.8,strong,False
+grdphic designer,graphic designer,200,graphic designer,93.8,strong,False
+graphic dsigner,graphic designer,200,graphic designer,96.8,strong,False
+Graphic Designer,graphic designer,200,graphic designer,87.5,strong,False
+graphci designer,graphic designer,200,graphic designer,93.8,strong,False
+graphic designer,graphic designer,200,graphic designer,100.0,strong,False
+GRAPHIC DESIGNER,graphic designer,200,graphic designer,6.2,strong,False
+graphicc designer,graphic designer,200,graphic designer,97.0,strong,False
+graphic edsigner,graphic designer,200,graphic designer,93.8,strong,False
+  graphic designer  ,graphic designer,200,graphic designer,95.0,strong,False
+graphi designer,graphic designer,200,graphic designer,96.8,strong,False
+graphic esigner,graphic designer,200,graphic designer,96.8,strong,False
+graphic desigker,graphic designer,200,graphic designer,93.8,strong,False
+graphic desigver,graphic designer,200,graphic designer,93.8,strong,False
+Social Media Manager,social media manager,404_honest_reject,,,,
+social media maager,social media manager,404_honest_reject,,,,
+social media manager,social media manager,404_honest_reject,,,,
+  social media manager  ,social media manager,404_honest_reject,,,,
+socialfmedia manager,social media manager,404_honest_reject,,,,
+social medi manager,social media manager,404_honest_reject,,,,
+social mdia manager,social media manager,404_honest_reject,,,,
+sociaal media manager,social media manager,404_honest_reject,,,,
+social media managr,social media manager,404_honest_reject,,,,
+social media maanger,social media manager,404_honest_reject,,,,
+soccial media manager,social media manager,404_honest_reject,,,,
+social media mahager,social media manager,404_honest_reject,,,,
+social medic manager,social media manager,404_honest_reject,,,,
+SOCIAL MEDIA MANAGER,social media manager,404_honest_reject,,,,
+scoial media manager,social media manager,404_honest_reject,,,,
+social media aanager,social media manager,404_honest_reject,,,,
+Chief Happiness Officer,chief happiness officer,404_honest_reject,,,,
+chief happiness offimer,chief happiness officer,404_honest_reject,,,,
+chief happiness officcer,chief happiness officer,404_honest_reject,,,,
+chief happiness  officer,chief happiness officer,404_honest_reject,,,,
+chief hppiness officer,chief happiness officer,404_honest_reject,,,,
+chief happiness ofifcer,chief happiness officer,404_honest_reject,,,,
+CHIEF HAPPINESS OFFICER,chief happiness officer,404_honest_reject,,,,
+chief happiness officer,chief happiness officer,404_honest_reject,,,,
+chiei happiness officer,chief happiness officer,404_honest_reject,,,,
+chief happiness ouficer,chief happiness officer,404_honest_reject,,,,
+chief haappiness officer,chief happiness officer,404_honest_reject,,,,
+chief happineas officer,chief happiness officer,404_honest_reject,,,,
+  chief happiness officer  ,chief happiness officer,404_honest_reject,,,,
+chief happinses officer,chief happiness officer,404_honest_reject,,,,
+chief happinss officer,chief happiness officer,404_honest_reject,,,,
+chieef happiness officer,chief happiness officer,404_honest_reject,,,,
+blockhcain evangelist,blockchain evangelist,404_honest_reject,,,,
+blockchain evangelit,blockchain evangelist,404_honest_reject,,,,
+blockchain evafgelist,blockchain evangelist,404_honest_reject,,,,
+  blockchain evangelist  ,blockchain evangelist,404_honest_reject,,,,
+blockchain evatgelist,blockchain evangelist,404_honest_reject,,,,
+blockchain evangelwst,blockchain evangelist,404_honest_reject,,,,
+Blockchain Evangelist,blockchain evangelist,404_honest_reject,,,,
+blockcchain evangelist,blockchain evangelist,404_honest_reject,,,,
+blockchain vangelist,blockchain evangelist,404_honest_reject,,,,
+blockchain evangelst,blockchain evangelist,404_honest_reject,,,,
+BLOCKCHAIN EVANGELIST,blockchain evangelist,404_honest_reject,,,,
+blockkchain evangelist,blockchain evangelist,404_honest_reject,,,,
+blockcahin evangelist,blockchain evangelist,404_honest_reject,,,,
+blockchainevangelist,blockchain evangelist,404_honest_reject,,,,
+blockchain evanglist,blockchain evangelist,404_honest_reject,,,,
+blockchain evangelist,blockchain evangelist,404_honest_reject,,,,
+ninnja rockstar developer,ninja rockstar developer,404_honest_reject,,,,
+  ninja rockstar developer  ,ninja rockstar developer,404_honest_reject,,,,
+NINJA ROCKSTAR DEVELOPER,ninja rockstar developer,404_honest_reject,,,,
+niinja rockstar developer,ninja rockstar developer,404_honest_reject,,,,
+ninja rockstar devqloper,ninja rockstar developer,404_honest_reject,,,,
+Ninja Rockstar Developer,ninja rockstar developer,404_honest_reject,,,,
+ninja rockstarvdeveloper,ninja rockstar developer,404_honest_reject,,,,
+ninjagrockstar developer,ninja rockstar developer,404_honest_reject,,,,
+ninja rockstar developer,ninja rockstar developer,404_honest_reject,,,,
+ninja rockstarwdeveloper,ninja rockstar developer,404_honest_reject,,,,
+ninja rockstar develbper,ninja rockstar developer,404_honest_reject,,,,
+ninja rocckstar developer,ninja rockstar developer,404_honest_reject,,,,
+ninja rockstar deveolper,ninja rockstar developer,404_honest_reject,,,,
+ninja rrockstar developer,ninja rockstar developer,404_honest_reject,,,,
+ninja rockstar dfveloper,ninja rockstar developer,404_honest_reject,,,,
+ninja rokcstar developer,ninja rockstar developer,404_honest_reject,,,,

@@ -1,0 +1,1081 @@
+role,skill,status,skill_match,evidence_level,n_branches
+military engineer,javascript,200,,limited,0
+military engineer,js,200,,limited,0
+military engineer,frontend,200,,limited,0
+military engineer,html,200,,limited,0
+military engineer,css,200,,limited,0
+military engineer,java,200,,limited,0
+military engineer,backend,200,,limited,0
+military engineer,.net,200,,limited,0
+military engineer,enterprise,200,,limited,0
+military engineer,requirements,200,,limited,0
+military engineer,communication,200,,limited,0
+military engineer,analysis,200,,limited,0
+military engineer,business analysis,200,,limited,0
+military engineer,excel,200,,limited,0
+military engineer,customer service,200,,limited,0
+military engineer,cooking,200,,limited,0
+military engineer,photography,200,,limited,0
+military engineer,,200,,limited,0
+product manager,javascript,200,none,strong,3
+product manager,js,200,none,strong,3
+product manager,frontend,200,none,strong,3
+product manager,html,200,none,strong,3
+product manager,css,200,none,strong,3
+product manager,java,200,none,strong,3
+product manager,backend,200,none,strong,3
+product manager,.net,200,none,strong,3
+product manager,enterprise,200,none,strong,3
+product manager,requirements,200,none,strong,3
+product manager,communication,200,none,strong,3
+product manager,analysis,200,none,strong,3
+product manager,business analysis,200,none,strong,3
+product manager,excel,200,none,strong,3
+product manager,customer service,200,none,strong,3
+product manager,cooking,200,none,strong,3
+product manager,photography,200,none,strong,3
+product manager,,200,,strong,3
+food production engineer,javascript,200,none,strong,3
+food production engineer,js,200,none,strong,3
+food production engineer,frontend,200,none,strong,3
+food production engineer,html,200,none,strong,3
+food production engineer,css,200,none,strong,3
+food production engineer,java,200,none,strong,3
+food production engineer,backend,200,none,strong,3
+food production engineer,.net,200,none,strong,3
+food production engineer,enterprise,200,none,strong,3
+food production engineer,requirements,200,none,strong,3
+food production engineer,communication,200,none,strong,3
+food production engineer,analysis,200,none,strong,3
+food production engineer,business analysis,200,none,strong,3
+food production engineer,excel,200,none,strong,3
+food production engineer,customer service,200,none,strong,3
+food production engineer,cooking,200,none,strong,3
+food production engineer,photography,200,none,strong,3
+food production engineer,,200,,strong,3
+microelectronics designer,javascript,200,,limited,0
+microelectronics designer,js,200,,limited,0
+microelectronics designer,frontend,200,,limited,0
+microelectronics designer,html,200,,limited,0
+microelectronics designer,css,200,,limited,0
+microelectronics designer,java,200,,limited,0
+microelectronics designer,backend,200,,limited,0
+microelectronics designer,.net,200,,limited,0
+microelectronics designer,enterprise,200,,limited,0
+microelectronics designer,requirements,200,,limited,0
+microelectronics designer,communication,200,,limited,0
+microelectronics designer,analysis,200,,limited,0
+microelectronics designer,business analysis,200,,limited,0
+microelectronics designer,excel,200,,limited,0
+microelectronics designer,customer service,200,,limited,0
+microelectronics designer,cooking,200,,limited,0
+microelectronics designer,photography,200,,limited,0
+microelectronics designer,,200,,limited,0
+leather goods product developer,javascript,200,,limited,0
+leather goods product developer,js,200,,limited,0
+leather goods product developer,frontend,200,,limited,0
+leather goods product developer,html,200,,limited,0
+leather goods product developer,css,200,,limited,0
+leather goods product developer,java,200,,limited,0
+leather goods product developer,backend,200,,limited,0
+leather goods product developer,.net,200,,limited,0
+leather goods product developer,enterprise,200,,limited,0
+leather goods product developer,requirements,200,,limited,0
+leather goods product developer,communication,200,,limited,0
+leather goods product developer,analysis,200,,limited,0
+leather goods product developer,business analysis,200,,limited,0
+leather goods product developer,excel,200,,limited,0
+leather goods product developer,customer service,200,,limited,0
+leather goods product developer,cooking,200,,limited,0
+leather goods product developer,photography,200,,limited,0
+leather goods product developer,,200,,limited,0
+business analyst,javascript,200,none,strong,3
+business analyst,js,200,none,strong,3
+business analyst,frontend,200,none,strong,3
+business analyst,html,200,none,strong,3
+business analyst,css,200,none,strong,3
+business analyst,java,200,none,strong,3
+business analyst,backend,200,none,strong,3
+business analyst,.net,200,none,strong,3
+business analyst,enterprise,200,none,strong,3
+business analyst,requirements,200,none,strong,3
+business analyst,communication,200,none,strong,3
+business analyst,analysis,200,none,strong,3
+business analyst,business analysis,200,none,strong,3
+business analyst,excel,200,none,strong,3
+business analyst,customer service,200,none,strong,3
+business analyst,cooking,200,none,strong,3
+business analyst,photography,200,none,strong,3
+business analyst,,200,,strong,3
+data analyst,javascript,200,none,strong,3
+data analyst,js,200,none,strong,3
+data analyst,frontend,200,none,strong,3
+data analyst,html,200,none,strong,3
+data analyst,css,200,none,strong,3
+data analyst,java,200,none,strong,3
+data analyst,backend,200,none,strong,3
+data analyst,.net,200,none,strong,3
+data analyst,enterprise,200,none,strong,3
+data analyst,requirements,200,matched,strong,1
+data analyst,communication,200,matched,strong,1
+data analyst,analysis,200,matched,strong,1
+data analyst,business analysis,200,matched,strong,1
+data analyst,excel,200,none,strong,3
+data analyst,customer service,200,none,strong,3
+data analyst,cooking,200,none,strong,3
+data analyst,photography,200,none,strong,3
+data analyst,,200,,strong,3
+data scientist,javascript,200,none,strong,3
+data scientist,js,200,none,strong,3
+data scientist,frontend,200,none,strong,3
+data scientist,html,200,none,strong,3
+data scientist,css,200,none,strong,3
+data scientist,java,200,none,strong,3
+data scientist,backend,200,none,strong,3
+data scientist,.net,200,none,strong,3
+data scientist,enterprise,200,none,strong,3
+data scientist,requirements,200,none,strong,3
+data scientist,communication,200,none,strong,3
+data scientist,analysis,200,none,strong,3
+data scientist,business analysis,200,none,strong,3
+data scientist,excel,200,none,strong,3
+data scientist,customer service,200,none,strong,3
+data scientist,cooking,200,none,strong,3
+data scientist,photography,200,none,strong,3
+data scientist,,200,,strong,3
+software analyst,javascript,200,matched,strong,1
+software analyst,js,200,matched,strong,1
+software analyst,frontend,200,matched,strong,1
+software analyst,html,200,matched,strong,1
+software analyst,css,200,matched,strong,1
+software analyst,java,200,matched,strong,1
+software analyst,backend,200,matched,strong,1
+software analyst,.net,200,matched,strong,1
+software analyst,enterprise,200,matched,strong,1
+software analyst,requirements,200,none,strong,3
+software analyst,communication,200,none,strong,3
+software analyst,analysis,200,none,strong,3
+software analyst,business analysis,200,none,strong,3
+software analyst,excel,200,none,strong,3
+software analyst,customer service,200,none,strong,3
+software analyst,cooking,200,none,strong,3
+software analyst,photography,200,none,strong,3
+software analyst,,200,,strong,3
+software developer,javascript,200,matched,strong,1
+software developer,js,200,matched,strong,1
+software developer,frontend,200,matched,strong,1
+software developer,html,200,matched,strong,1
+software developer,css,200,matched,strong,1
+software developer,java,200,matched,strong,1
+software developer,backend,200,matched,strong,1
+software developer,.net,200,matched,strong,1
+software developer,enterprise,200,matched,strong,1
+software developer,requirements,200,matched,strong,1
+software developer,communication,200,matched,strong,1
+software developer,analysis,200,matched,strong,1
+software developer,business analysis,200,matched,strong,1
+software developer,excel,200,none,strong,3
+software developer,customer service,200,none,strong,3
+software developer,cooking,200,none,strong,3
+software developer,photography,200,none,strong,3
+software developer,,200,,strong,3
+web developer,javascript,200,none,strong,3
+web developer,js,200,none,strong,3
+web developer,frontend,200,none,strong,3
+web developer,html,200,none,strong,3
+web developer,css,200,none,strong,3
+web developer,java,200,matched,strong,1
+web developer,backend,200,matched,strong,1
+web developer,.net,200,matched,strong,1
+web developer,enterprise,200,matched,strong,1
+web developer,requirements,200,matched,strong,1
+web developer,communication,200,matched,strong,1
+web developer,analysis,200,matched,strong,1
+web developer,business analysis,200,matched,strong,1
+web developer,excel,200,none,strong,3
+web developer,customer service,200,none,strong,3
+web developer,cooking,200,none,strong,3
+web developer,photography,200,none,strong,3
+web developer,,200,,strong,3
+ICT application developer,javascript,200,matched,strong,1
+ICT application developer,js,200,matched,strong,1
+ICT application developer,frontend,200,matched,strong,1
+ICT application developer,html,200,matched,strong,1
+ICT application developer,css,200,matched,strong,1
+ICT application developer,java,200,none,strong,3
+ICT application developer,backend,200,none,strong,3
+ICT application developer,.net,200,none,strong,3
+ICT application developer,enterprise,200,none,strong,3
+ICT application developer,requirements,200,matched,strong,1
+ICT application developer,communication,200,matched,strong,1
+ICT application developer,analysis,200,matched,strong,1
+ICT application developer,business analysis,200,matched,strong,1
+ICT application developer,excel,200,none,strong,3
+ICT application developer,customer service,200,none,strong,3
+ICT application developer,cooking,200,none,strong,3
+ICT application developer,photography,200,none,strong,3
+ICT application developer,,200,,strong,3
+administrative assistant,javascript,200,matched,strong,1
+administrative assistant,js,200,matched,strong,1
+administrative assistant,frontend,200,matched,strong,1
+administrative assistant,html,200,matched,strong,1
+administrative assistant,css,200,matched,strong,1
+administrative assistant,java,200,matched,strong,1
+administrative assistant,backend,200,matched,strong,1
+administrative assistant,.net,200,matched,strong,1
+administrative assistant,enterprise,200,matched,strong,1
+administrative assistant,requirements,200,matched,strong,1
+administrative assistant,communication,200,matched,strong,1
+administrative assistant,analysis,200,matched,strong,1
+administrative assistant,business analysis,200,matched,strong,1
+administrative assistant,excel,200,none,strong,3
+administrative assistant,customer service,200,none,strong,3
+administrative assistant,cooking,200,none,strong,3
+administrative assistant,photography,200,none,strong,3
+administrative assistant,,200,,strong,3
+sales assistant,javascript,200,matched,strong,1
+sales assistant,js,200,matched,strong,1
+sales assistant,frontend,200,matched,strong,1
+sales assistant,html,200,matched,strong,1
+sales assistant,css,200,matched,strong,1
+sales assistant,java,200,matched,strong,1
+sales assistant,backend,200,matched,strong,1
+sales assistant,.net,200,matched,strong,1
+sales assistant,enterprise,200,matched,strong,1
+sales assistant,requirements,200,none,strong,3
+sales assistant,communication,200,none,strong,3
+sales assistant,analysis,200,none,strong,3
+sales assistant,business analysis,200,none,strong,3
+sales assistant,excel,200,none,strong,3
+sales assistant,customer service,200,none,strong,3
+sales assistant,cooking,200,none,strong,3
+sales assistant,photography,200,none,strong,3
+sales assistant,,200,,strong,3
+shop assistant,javascript,200,matched,strong,1
+shop assistant,js,200,matched,strong,1
+shop assistant,frontend,200,matched,strong,1
+shop assistant,html,200,matched,strong,1
+shop assistant,css,200,matched,strong,1
+shop assistant,java,200,none,strong,3
+shop assistant,backend,200,none,strong,3
+shop assistant,.net,200,none,strong,3
+shop assistant,enterprise,200,none,strong,3
+shop assistant,requirements,200,none,strong,3
+shop assistant,communication,200,none,strong,3
+shop assistant,analysis,200,none,strong,3
+shop assistant,business analysis,200,none,strong,3
+shop assistant,excel,200,none,strong,3
+shop assistant,customer service,200,none,strong,3
+shop assistant,cooking,200,none,strong,3
+shop assistant,photography,200,none,strong,3
+shop assistant,,200,,strong,3
+warehouse worker,javascript,200,matched,strong,1
+warehouse worker,js,200,matched,strong,1
+warehouse worker,frontend,200,matched,strong,1
+warehouse worker,html,200,matched,strong,1
+warehouse worker,css,200,matched,strong,1
+warehouse worker,java,200,matched,strong,1
+warehouse worker,backend,200,matched,strong,1
+warehouse worker,.net,200,matched,strong,1
+warehouse worker,enterprise,200,matched,strong,1
+warehouse worker,requirements,200,none,strong,3
+warehouse worker,communication,200,none,strong,3
+warehouse worker,analysis,200,none,strong,3
+warehouse worker,business analysis,200,none,strong,3
+warehouse worker,excel,200,none,strong,3
+warehouse worker,customer service,200,none,strong,3
+warehouse worker,cooking,200,none,strong,3
+warehouse worker,photography,200,none,strong,3
+warehouse worker,,200,,strong,3
+cashier,javascript,200,matched,strong,1
+cashier,js,200,matched,strong,1
+cashier,frontend,200,matched,strong,1
+cashier,html,200,matched,strong,1
+cashier,css,200,matched,strong,1
+cashier,java,200,none,strong,3
+cashier,backend,200,none,strong,3
+cashier,.net,200,none,strong,3
+cashier,enterprise,200,none,strong,3
+cashier,requirements,200,none,strong,3
+cashier,communication,200,none,strong,3
+cashier,analysis,200,none,strong,3
+cashier,business analysis,200,none,strong,3
+cashier,excel,200,none,strong,3
+cashier,customer service,200,none,strong,3
+cashier,cooking,200,none,strong,3
+cashier,photography,200,none,strong,3
+cashier,,200,,strong,3
+kitchen assistant,javascript,200,none,strong,3
+kitchen assistant,js,200,none,strong,3
+kitchen assistant,frontend,200,none,strong,3
+kitchen assistant,html,200,none,strong,3
+kitchen assistant,css,200,none,strong,3
+kitchen assistant,java,200,none,strong,3
+kitchen assistant,backend,200,none,strong,3
+kitchen assistant,.net,200,none,strong,3
+kitchen assistant,enterprise,200,none,strong,3
+kitchen assistant,requirements,200,none,strong,3
+kitchen assistant,communication,200,none,strong,3
+kitchen assistant,analysis,200,none,strong,3
+kitchen assistant,business analysis,200,none,strong,3
+kitchen assistant,excel,200,none,strong,3
+kitchen assistant,customer service,200,none,strong,3
+kitchen assistant,cooking,200,none,strong,3
+kitchen assistant,photography,200,none,strong,3
+kitchen assistant,,200,,strong,3
+waiter/waitress,javascript,200,matched,strong,1
+waiter/waitress,js,200,matched,strong,1
+waiter/waitress,frontend,200,matched,strong,1
+waiter/waitress,html,200,matched,strong,1
+waiter/waitress,css,200,matched,strong,1
+waiter/waitress,java,200,none,strong,3
+waiter/waitress,backend,200,none,strong,3
+waiter/waitress,.net,200,none,strong,3
+waiter/waitress,enterprise,200,none,strong,3
+waiter/waitress,requirements,200,none,strong,3
+waiter/waitress,communication,200,none,strong,3
+waiter/waitress,analysis,200,none,strong,3
+waiter/waitress,business analysis,200,none,strong,3
+waiter/waitress,excel,200,none,strong,3
+waiter/waitress,customer service,200,none,strong,3
+waiter/waitress,cooking,200,none,strong,3
+waiter/waitress,photography,200,none,strong,3
+waiter/waitress,,200,,strong,3
+factory hand,javascript,200,matched,strong,1
+factory hand,js,200,matched,strong,1
+factory hand,frontend,200,matched,strong,1
+factory hand,html,200,matched,strong,1
+factory hand,css,200,matched,strong,1
+factory hand,java,200,none,strong,3
+factory hand,backend,200,none,strong,3
+factory hand,.net,200,none,strong,3
+factory hand,enterprise,200,none,strong,3
+factory hand,requirements,200,none,strong,3
+factory hand,communication,200,none,strong,3
+factory hand,analysis,200,none,strong,3
+factory hand,business analysis,200,none,strong,3
+factory hand,excel,200,none,strong,3
+factory hand,customer service,200,none,strong,3
+factory hand,cooking,200,none,strong,3
+factory hand,photography,200,none,strong,3
+factory hand,,200,,strong,3
+building cleaner,javascript,200,none,strong,3
+building cleaner,js,200,none,strong,3
+building cleaner,frontend,200,none,strong,3
+building cleaner,html,200,none,strong,3
+building cleaner,css,200,none,strong,3
+building cleaner,java,200,none,strong,3
+building cleaner,backend,200,none,strong,3
+building cleaner,.net,200,none,strong,3
+building cleaner,enterprise,200,none,strong,3
+building cleaner,requirements,200,none,strong,3
+building cleaner,communication,200,none,strong,3
+building cleaner,analysis,200,none,strong,3
+building cleaner,business analysis,200,none,strong,3
+building cleaner,excel,200,none,strong,3
+building cleaner,customer service,200,none,strong,3
+building cleaner,cooking,200,none,strong,3
+building cleaner,photography,200,none,strong,3
+building cleaner,,200,,strong,3
+supply chain assistant,javascript,200,none,strong,3
+supply chain assistant,js,200,none,strong,3
+supply chain assistant,frontend,200,none,strong,3
+supply chain assistant,html,200,none,strong,3
+supply chain assistant,css,200,none,strong,3
+supply chain assistant,java,200,none,strong,3
+supply chain assistant,backend,200,none,strong,3
+supply chain assistant,.net,200,none,strong,3
+supply chain assistant,enterprise,200,none,strong,3
+supply chain assistant,requirements,200,none,strong,3
+supply chain assistant,communication,200,none,strong,3
+supply chain assistant,analysis,200,none,strong,3
+supply chain assistant,business analysis,200,none,strong,3
+supply chain assistant,excel,200,none,strong,3
+supply chain assistant,customer service,200,none,strong,3
+supply chain assistant,cooking,200,none,strong,3
+supply chain assistant,photography,200,none,strong,3
+supply chain assistant,,200,,strong,3
+warehouse order picker,javascript,200,matched,strong,1
+warehouse order picker,js,200,matched,strong,1
+warehouse order picker,frontend,200,matched,strong,1
+warehouse order picker,html,200,matched,strong,1
+warehouse order picker,css,200,matched,strong,1
+warehouse order picker,java,200,none,strong,3
+warehouse order picker,backend,200,none,strong,3
+warehouse order picker,.net,200,none,strong,3
+warehouse order picker,enterprise,200,none,strong,3
+warehouse order picker,requirements,200,none,strong,3
+warehouse order picker,communication,200,none,strong,3
+warehouse order picker,analysis,200,none,strong,3
+warehouse order picker,business analysis,200,none,strong,3
+warehouse order picker,excel,200,none,strong,3
+warehouse order picker,customer service,200,none,strong,3
+warehouse order picker,cooking,200,none,strong,3
+warehouse order picker,photography,200,none,strong,3
+warehouse order picker,,200,,strong,3
+hand packer,javascript,200,none,strong,3
+hand packer,js,200,none,strong,3
+hand packer,frontend,200,none,strong,3
+hand packer,html,200,none,strong,3
+hand packer,css,200,none,strong,3
+hand packer,java,200,none,strong,3
+hand packer,backend,200,none,strong,3
+hand packer,.net,200,none,strong,3
+hand packer,enterprise,200,none,strong,3
+hand packer,requirements,200,none,strong,3
+hand packer,communication,200,none,strong,3
+hand packer,analysis,200,none,strong,3
+hand packer,business analysis,200,none,strong,3
+hand packer,excel,200,none,strong,3
+hand packer,customer service,200,none,strong,3
+hand packer,cooking,200,none,strong,3
+hand packer,photography,200,none,strong,3
+hand packer,,200,,strong,3
+secretary,javascript,200,none,strong,3
+secretary,js,200,none,strong,3
+secretary,frontend,200,none,strong,3
+secretary,html,200,none,strong,3
+secretary,css,200,none,strong,3
+secretary,java,200,none,strong,3
+secretary,backend,200,none,strong,3
+secretary,.net,200,none,strong,3
+secretary,enterprise,200,none,strong,3
+secretary,requirements,200,none,strong,3
+secretary,communication,200,none,strong,3
+secretary,analysis,200,none,strong,3
+secretary,business analysis,200,none,strong,3
+secretary,excel,200,none,strong,3
+secretary,customer service,200,none,strong,3
+secretary,cooking,200,none,strong,3
+secretary,photography,200,none,strong,3
+secretary,,200,,strong,3
+sales support assistant,javascript,200,none,strong,3
+sales support assistant,js,200,none,strong,3
+sales support assistant,frontend,200,none,strong,3
+sales support assistant,html,200,none,strong,3
+sales support assistant,css,200,none,strong,3
+sales support assistant,java,200,none,strong,3
+sales support assistant,backend,200,none,strong,3
+sales support assistant,.net,200,none,strong,3
+sales support assistant,enterprise,200,none,strong,3
+sales support assistant,requirements,200,none,strong,3
+sales support assistant,communication,200,none,strong,3
+sales support assistant,analysis,200,none,strong,3
+sales support assistant,business analysis,200,none,strong,3
+sales support assistant,excel,200,none,strong,3
+sales support assistant,customer service,200,none,strong,3
+sales support assistant,cooking,200,none,strong,3
+sales support assistant,photography,200,none,strong,3
+sales support assistant,,200,,strong,3
+accounting assistant,javascript,200,none,strong,3
+accounting assistant,js,200,none,strong,3
+accounting assistant,frontend,200,none,strong,3
+accounting assistant,html,200,none,strong,3
+accounting assistant,css,200,none,strong,3
+accounting assistant,java,200,none,strong,3
+accounting assistant,backend,200,none,strong,3
+accounting assistant,.net,200,none,strong,3
+accounting assistant,enterprise,200,none,strong,3
+accounting assistant,requirements,200,none,strong,3
+accounting assistant,communication,200,none,strong,3
+accounting assistant,analysis,200,none,strong,3
+accounting assistant,business analysis,200,none,strong,3
+accounting assistant,excel,200,none,strong,3
+accounting assistant,customer service,200,none,strong,3
+accounting assistant,cooking,200,none,strong,3
+accounting assistant,photography,200,none,strong,3
+accounting assistant,,200,,strong,3
+forklift operator,javascript,200,none,strong,3
+forklift operator,js,200,none,strong,3
+forklift operator,frontend,200,none,strong,3
+forklift operator,html,200,none,strong,3
+forklift operator,css,200,none,strong,3
+forklift operator,java,200,none,strong,3
+forklift operator,backend,200,none,strong,3
+forklift operator,.net,200,none,strong,3
+forklift operator,enterprise,200,none,strong,3
+forklift operator,requirements,200,none,strong,3
+forklift operator,communication,200,none,strong,3
+forklift operator,analysis,200,none,strong,3
+forklift operator,business analysis,200,none,strong,3
+forklift operator,excel,200,none,strong,3
+forklift operator,customer service,200,none,strong,3
+forklift operator,cooking,200,none,strong,3
+forklift operator,photography,200,none,strong,3
+forklift operator,,200,,strong,3
+food service worker,javascript,200,none,strong,3
+food service worker,js,200,none,strong,3
+food service worker,frontend,200,none,strong,3
+food service worker,html,200,none,strong,3
+food service worker,css,200,none,strong,3
+food service worker,java,200,none,strong,3
+food service worker,backend,200,none,strong,3
+food service worker,.net,200,none,strong,3
+food service worker,enterprise,200,none,strong,3
+food service worker,requirements,200,none,strong,3
+food service worker,communication,200,none,strong,3
+food service worker,analysis,200,none,strong,3
+food service worker,business analysis,200,none,strong,3
+food service worker,excel,200,none,strong,3
+food service worker,customer service,200,none,strong,3
+food service worker,cooking,200,none,strong,3
+food service worker,photography,200,none,strong,3
+food service worker,,200,,strong,3
+receptionist,javascript,200,none,strong,3
+receptionist,js,200,none,strong,3
+receptionist,frontend,200,none,strong,3
+receptionist,html,200,none,strong,3
+receptionist,css,200,none,strong,3
+receptionist,java,200,none,strong,3
+receptionist,backend,200,none,strong,3
+receptionist,.net,200,none,strong,3
+receptionist,enterprise,200,none,strong,3
+receptionist,requirements,200,none,strong,3
+receptionist,communication,200,none,strong,3
+receptionist,analysis,200,none,strong,3
+receptionist,business analysis,200,none,strong,3
+receptionist,excel,200,none,strong,3
+receptionist,customer service,200,none,strong,3
+receptionist,cooking,200,none,strong,3
+receptionist,photography,200,none,strong,3
+receptionist,,200,,strong,3
+call centre agent,javascript,200,none,strong,3
+call centre agent,js,200,none,strong,3
+call centre agent,frontend,200,none,strong,3
+call centre agent,html,200,none,strong,3
+call centre agent,css,200,none,strong,3
+call centre agent,java,200,none,strong,3
+call centre agent,backend,200,none,strong,3
+call centre agent,.net,200,none,strong,3
+call centre agent,enterprise,200,none,strong,3
+call centre agent,requirements,200,none,strong,3
+call centre agent,communication,200,none,strong,3
+call centre agent,analysis,200,none,strong,3
+call centre agent,business analysis,200,none,strong,3
+call centre agent,excel,200,none,strong,3
+call centre agent,customer service,200,none,strong,3
+call centre agent,cooking,200,none,strong,3
+call centre agent,photography,200,none,strong,3
+call centre agent,,200,,strong,3
+restaurant host/restaurant hostess,javascript,200,none,strong,3
+restaurant host/restaurant hostess,js,200,none,strong,3
+restaurant host/restaurant hostess,frontend,200,none,strong,3
+restaurant host/restaurant hostess,html,200,none,strong,3
+restaurant host/restaurant hostess,css,200,none,strong,3
+restaurant host/restaurant hostess,java,200,none,strong,3
+restaurant host/restaurant hostess,backend,200,none,strong,3
+restaurant host/restaurant hostess,.net,200,none,strong,3
+restaurant host/restaurant hostess,enterprise,200,none,strong,3
+restaurant host/restaurant hostess,requirements,200,none,strong,3
+restaurant host/restaurant hostess,communication,200,none,strong,3
+restaurant host/restaurant hostess,analysis,200,none,strong,3
+restaurant host/restaurant hostess,business analysis,200,none,strong,3
+restaurant host/restaurant hostess,excel,200,none,strong,3
+restaurant host/restaurant hostess,customer service,200,none,strong,3
+restaurant host/restaurant hostess,cooking,200,none,strong,3
+restaurant host/restaurant hostess,photography,200,none,strong,3
+restaurant host/restaurant hostess,,200,,strong,3
+child care worker,javascript,200,none,strong,3
+child care worker,js,200,none,strong,3
+child care worker,frontend,200,none,strong,3
+child care worker,html,200,none,strong,3
+child care worker,css,200,none,strong,3
+child care worker,java,200,none,strong,3
+child care worker,backend,200,none,strong,3
+child care worker,.net,200,none,strong,3
+child care worker,enterprise,200,none,strong,3
+child care worker,requirements,200,none,strong,3
+child care worker,communication,200,none,strong,3
+child care worker,analysis,200,none,strong,3
+child care worker,business analysis,200,none,strong,3
+child care worker,excel,200,none,strong,3
+child care worker,customer service,200,none,strong,3
+child care worker,cooking,200,none,strong,3
+child care worker,photography,200,none,strong,3
+child care worker,,200,,strong,3
+clothing specialised seller,javascript,200,none,strong,3
+clothing specialised seller,js,200,none,strong,3
+clothing specialised seller,frontend,200,none,strong,3
+clothing specialised seller,html,200,none,strong,3
+clothing specialised seller,css,200,none,strong,3
+clothing specialised seller,java,200,none,strong,3
+clothing specialised seller,backend,200,none,strong,3
+clothing specialised seller,.net,200,none,strong,3
+clothing specialised seller,enterprise,200,none,strong,3
+clothing specialised seller,requirements,200,none,strong,3
+clothing specialised seller,communication,200,none,strong,3
+clothing specialised seller,analysis,200,none,strong,3
+clothing specialised seller,business analysis,200,none,strong,3
+clothing specialised seller,excel,200,none,strong,3
+clothing specialised seller,customer service,200,none,strong,3
+clothing specialised seller,cooking,200,none,strong,3
+clothing specialised seller,photography,200,none,strong,3
+clothing specialised seller,,200,,strong,3
+management assistant,javascript,200,none,strong,3
+management assistant,js,200,none,strong,3
+management assistant,frontend,200,none,strong,3
+management assistant,html,200,none,strong,3
+management assistant,css,200,none,strong,3
+management assistant,java,200,none,strong,3
+management assistant,backend,200,none,strong,3
+management assistant,.net,200,none,strong,3
+management assistant,enterprise,200,none,strong,3
+management assistant,requirements,200,none,strong,3
+management assistant,communication,200,none,strong,3
+management assistant,analysis,200,none,strong,3
+management assistant,business analysis,200,none,strong,3
+management assistant,excel,200,none,strong,3
+management assistant,customer service,200,none,strong,3
+management assistant,cooking,200,none,strong,3
+management assistant,photography,200,none,strong,3
+management assistant,,200,,strong,3
+packaging and filling machine operator,javascript,200,none,strong,3
+packaging and filling machine operator,js,200,none,strong,3
+packaging and filling machine operator,frontend,200,none,strong,3
+packaging and filling machine operator,html,200,none,strong,3
+packaging and filling machine operator,css,200,none,strong,3
+packaging and filling machine operator,java,200,none,strong,3
+packaging and filling machine operator,backend,200,none,strong,3
+packaging and filling machine operator,.net,200,none,strong,3
+packaging and filling machine operator,enterprise,200,none,strong,3
+packaging and filling machine operator,requirements,200,none,strong,3
+packaging and filling machine operator,communication,200,none,strong,3
+packaging and filling machine operator,analysis,200,none,strong,3
+packaging and filling machine operator,business analysis,200,none,strong,3
+packaging and filling machine operator,excel,200,none,strong,3
+packaging and filling machine operator,customer service,200,none,strong,3
+packaging and filling machine operator,cooking,200,none,strong,3
+packaging and filling machine operator,photography,200,none,strong,3
+packaging and filling machine operator,,200,,strong,3
+blender operator,javascript,200,,limited,0
+blender operator,js,200,,limited,0
+blender operator,frontend,200,,limited,0
+blender operator,html,200,,limited,0
+blender operator,css,200,,limited,0
+blender operator,java,200,,limited,0
+blender operator,backend,200,,limited,0
+blender operator,.net,200,,limited,0
+blender operator,enterprise,200,,limited,0
+blender operator,requirements,200,,limited,0
+blender operator,communication,200,,limited,0
+blender operator,analysis,200,,limited,0
+blender operator,business analysis,200,,limited,0
+blender operator,excel,200,,limited,0
+blender operator,customer service,200,,limited,0
+blender operator,cooking,200,,limited,0
+blender operator,photography,200,,limited,0
+blender operator,,200,,limited,0
+investment clerk,javascript,200,none,strong,3
+investment clerk,js,200,none,strong,3
+investment clerk,frontend,200,none,strong,3
+investment clerk,html,200,none,strong,3
+investment clerk,css,200,none,strong,3
+investment clerk,java,200,none,strong,3
+investment clerk,backend,200,none,strong,3
+investment clerk,.net,200,none,strong,3
+investment clerk,enterprise,200,none,strong,3
+investment clerk,requirements,200,none,strong,3
+investment clerk,communication,200,none,strong,3
+investment clerk,analysis,200,none,strong,3
+investment clerk,business analysis,200,none,strong,3
+investment clerk,excel,200,none,strong,3
+investment clerk,customer service,200,none,strong,3
+investment clerk,cooking,200,none,strong,3
+investment clerk,photography,200,none,strong,3
+investment clerk,,200,,strong,3
+water traffic coordinator,javascript,200,none,strong,3
+water traffic coordinator,js,200,none,strong,3
+water traffic coordinator,frontend,200,none,strong,3
+water traffic coordinator,html,200,none,strong,3
+water traffic coordinator,css,200,none,strong,3
+water traffic coordinator,java,200,none,strong,3
+water traffic coordinator,backend,200,none,strong,3
+water traffic coordinator,.net,200,none,strong,3
+water traffic coordinator,enterprise,200,none,strong,3
+water traffic coordinator,requirements,200,none,strong,3
+water traffic coordinator,communication,200,none,strong,3
+water traffic coordinator,analysis,200,none,strong,3
+water traffic coordinator,business analysis,200,none,strong,3
+water traffic coordinator,excel,200,none,strong,3
+water traffic coordinator,customer service,200,none,strong,3
+water traffic coordinator,cooking,200,none,strong,3
+water traffic coordinator,photography,200,none,strong,3
+water traffic coordinator,,200,,strong,3
+shipping agent,javascript,200,none,strong,3
+shipping agent,js,200,none,strong,3
+shipping agent,frontend,200,none,strong,3
+shipping agent,html,200,none,strong,3
+shipping agent,css,200,none,strong,3
+shipping agent,java,200,none,strong,3
+shipping agent,backend,200,none,strong,3
+shipping agent,.net,200,none,strong,3
+shipping agent,enterprise,200,none,strong,3
+shipping agent,requirements,200,none,strong,3
+shipping agent,communication,200,none,strong,3
+shipping agent,analysis,200,none,strong,3
+shipping agent,business analysis,200,none,strong,3
+shipping agent,excel,200,none,strong,3
+shipping agent,customer service,200,none,strong,3
+shipping agent,cooking,200,none,strong,3
+shipping agent,photography,200,none,strong,3
+shipping agent,,200,,strong,3
+air pollution analyst,javascript,200,,limited,0
+air pollution analyst,js,200,,limited,0
+air pollution analyst,frontend,200,,limited,0
+air pollution analyst,html,200,,limited,0
+air pollution analyst,css,200,,limited,0
+air pollution analyst,java,200,,limited,0
+air pollution analyst,backend,200,,limited,0
+air pollution analyst,.net,200,,limited,0
+air pollution analyst,enterprise,200,,limited,0
+air pollution analyst,requirements,200,,limited,0
+air pollution analyst,communication,200,,limited,0
+air pollution analyst,analysis,200,,limited,0
+air pollution analyst,business analysis,200,,limited,0
+air pollution analyst,excel,200,,limited,0
+air pollution analyst,customer service,200,,limited,0
+air pollution analyst,cooking,200,,limited,0
+air pollution analyst,photography,200,,limited,0
+air pollution analyst,,200,,limited,0
+beauty vocational teacher,javascript,200,none,strong,3
+beauty vocational teacher,js,200,none,strong,3
+beauty vocational teacher,frontend,200,none,strong,3
+beauty vocational teacher,html,200,none,strong,3
+beauty vocational teacher,css,200,none,strong,3
+beauty vocational teacher,java,200,none,strong,3
+beauty vocational teacher,backend,200,none,strong,3
+beauty vocational teacher,.net,200,none,strong,3
+beauty vocational teacher,enterprise,200,none,strong,3
+beauty vocational teacher,requirements,200,none,strong,3
+beauty vocational teacher,communication,200,none,strong,3
+beauty vocational teacher,analysis,200,none,strong,3
+beauty vocational teacher,business analysis,200,none,strong,3
+beauty vocational teacher,excel,200,none,strong,3
+beauty vocational teacher,customer service,200,none,strong,3
+beauty vocational teacher,cooking,200,none,strong,3
+beauty vocational teacher,photography,200,none,strong,3
+beauty vocational teacher,,200,,strong,3
+executive assistant,javascript,200,none,strong,3
+executive assistant,js,200,none,strong,3
+executive assistant,frontend,200,none,strong,3
+executive assistant,html,200,none,strong,3
+executive assistant,css,200,none,strong,3
+executive assistant,java,200,none,strong,3
+executive assistant,backend,200,none,strong,3
+executive assistant,.net,200,none,strong,3
+executive assistant,enterprise,200,none,strong,3
+executive assistant,requirements,200,none,strong,3
+executive assistant,communication,200,none,strong,3
+executive assistant,analysis,200,none,strong,3
+executive assistant,business analysis,200,none,strong,3
+executive assistant,excel,200,none,strong,3
+executive assistant,customer service,200,none,strong,3
+executive assistant,cooking,200,none,strong,3
+executive assistant,photography,200,none,strong,3
+executive assistant,,200,,strong,3
+"import export manager in hardware, plumbing and heating equipment and supplies",javascript,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",js,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",frontend,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",html,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",css,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",java,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",backend,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",.net,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",enterprise,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",requirements,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",communication,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",analysis,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",business analysis,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",excel,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",customer service,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",cooking,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",photography,200,,limited,0
+"import export manager in hardware, plumbing and heating equipment and supplies",,200,,limited,0
+glove maker,javascript,200,,limited,0
+glove maker,js,200,,limited,0
+glove maker,frontend,200,,limited,0
+glove maker,html,200,,limited,0
+glove maker,css,200,,limited,0
+glove maker,java,200,,limited,0
+glove maker,backend,200,,limited,0
+glove maker,.net,200,,limited,0
+glove maker,enterprise,200,,limited,0
+glove maker,requirements,200,,limited,0
+glove maker,communication,200,,limited,0
+glove maker,analysis,200,,limited,0
+glove maker,business analysis,200,,limited,0
+glove maker,excel,200,,limited,0
+glove maker,customer service,200,,limited,0
+glove maker,cooking,200,,limited,0
+glove maker,photography,200,,limited,0
+glove maker,,200,,limited,0
+jewellery repairer,javascript,200,,limited,0
+jewellery repairer,js,200,,limited,0
+jewellery repairer,frontend,200,,limited,0
+jewellery repairer,html,200,,limited,0
+jewellery repairer,css,200,,limited,0
+jewellery repairer,java,200,,limited,0
+jewellery repairer,backend,200,,limited,0
+jewellery repairer,.net,200,,limited,0
+jewellery repairer,enterprise,200,,limited,0
+jewellery repairer,requirements,200,,limited,0
+jewellery repairer,communication,200,,limited,0
+jewellery repairer,analysis,200,,limited,0
+jewellery repairer,business analysis,200,,limited,0
+jewellery repairer,excel,200,,limited,0
+jewellery repairer,customer service,200,,limited,0
+jewellery repairer,cooking,200,,limited,0
+jewellery repairer,photography,200,,limited,0
+jewellery repairer,,200,,limited,0
+footwear designer,javascript,200,,limited,0
+footwear designer,js,200,,limited,0
+footwear designer,frontend,200,,limited,0
+footwear designer,html,200,,limited,0
+footwear designer,css,200,,limited,0
+footwear designer,java,200,,limited,0
+footwear designer,backend,200,,limited,0
+footwear designer,.net,200,,limited,0
+footwear designer,enterprise,200,,limited,0
+footwear designer,requirements,200,,limited,0
+footwear designer,communication,200,,limited,0
+footwear designer,analysis,200,,limited,0
+footwear designer,business analysis,200,,limited,0
+footwear designer,excel,200,,limited,0
+footwear designer,customer service,200,,limited,0
+footwear designer,cooking,200,,limited,0
+footwear designer,photography,200,,limited,0
+footwear designer,,200,,limited,0
+ICT operations manager,javascript,200,none,strong,3
+ICT operations manager,js,200,none,strong,3
+ICT operations manager,frontend,200,none,strong,3
+ICT operations manager,html,200,none,strong,3
+ICT operations manager,css,200,none,strong,3
+ICT operations manager,java,200,none,strong,3
+ICT operations manager,backend,200,none,strong,3
+ICT operations manager,.net,200,none,strong,3
+ICT operations manager,enterprise,200,none,strong,3
+ICT operations manager,requirements,200,none,strong,3
+ICT operations manager,communication,200,none,strong,3
+ICT operations manager,analysis,200,none,strong,3
+ICT operations manager,business analysis,200,none,strong,3
+ICT operations manager,excel,200,none,strong,3
+ICT operations manager,customer service,200,none,strong,3
+ICT operations manager,cooking,200,none,strong,3
+ICT operations manager,photography,200,none,strong,3
+ICT operations manager,,200,,strong,3
+furniture upholsterer,javascript,200,none,strong,3
+furniture upholsterer,js,200,none,strong,3
+furniture upholsterer,frontend,200,none,strong,3
+furniture upholsterer,html,200,none,strong,3
+furniture upholsterer,css,200,none,strong,3
+furniture upholsterer,java,200,none,strong,3
+furniture upholsterer,backend,200,none,strong,3
+furniture upholsterer,.net,200,none,strong,3
+furniture upholsterer,enterprise,200,none,strong,3
+furniture upholsterer,requirements,200,none,strong,3
+furniture upholsterer,communication,200,none,strong,3
+furniture upholsterer,analysis,200,none,strong,3
+furniture upholsterer,business analysis,200,none,strong,3
+furniture upholsterer,excel,200,none,strong,3
+furniture upholsterer,customer service,200,none,strong,3
+furniture upholsterer,cooking,200,none,strong,3
+furniture upholsterer,photography,200,none,strong,3
+furniture upholsterer,,200,,strong,3
+packaging production manager,javascript,200,none,strong,3
+packaging production manager,js,200,none,strong,3
+packaging production manager,frontend,200,none,strong,3
+packaging production manager,html,200,none,strong,3
+packaging production manager,css,200,none,strong,3
+packaging production manager,java,200,none,strong,3
+packaging production manager,backend,200,none,strong,3
+packaging production manager,.net,200,none,strong,3
+packaging production manager,enterprise,200,none,strong,3
+packaging production manager,requirements,200,none,strong,3
+packaging production manager,communication,200,none,strong,3
+packaging production manager,analysis,200,none,strong,3
+packaging production manager,business analysis,200,none,strong,3
+packaging production manager,excel,200,none,strong,3
+packaging production manager,customer service,200,none,strong,3
+packaging production manager,cooking,200,none,strong,3
+packaging production manager,photography,200,none,strong,3
+packaging production manager,,200,,strong,3
+leather production machine operator,javascript,200,,limited,0
+leather production machine operator,js,200,,limited,0
+leather production machine operator,frontend,200,,limited,0
+leather production machine operator,html,200,,limited,0
+leather production machine operator,css,200,,limited,0
+leather production machine operator,java,200,,limited,0
+leather production machine operator,backend,200,,limited,0
+leather production machine operator,.net,200,,limited,0
+leather production machine operator,enterprise,200,,limited,0
+leather production machine operator,requirements,200,,limited,0
+leather production machine operator,communication,200,,limited,0
+leather production machine operator,analysis,200,,limited,0
+leather production machine operator,business analysis,200,,limited,0
+leather production machine operator,excel,200,,limited,0
+leather production machine operator,customer service,200,,limited,0
+leather production machine operator,cooking,200,,limited,0
+leather production machine operator,photography,200,,limited,0
+leather production machine operator,,200,,limited,0
+vessel steering instructor,javascript,200,none,strong,3
+vessel steering instructor,js,200,none,strong,3
+vessel steering instructor,frontend,200,none,strong,3
+vessel steering instructor,html,200,none,strong,3
+vessel steering instructor,css,200,none,strong,3
+vessel steering instructor,java,200,none,strong,3
+vessel steering instructor,backend,200,none,strong,3
+vessel steering instructor,.net,200,none,strong,3
+vessel steering instructor,enterprise,200,none,strong,3
+vessel steering instructor,requirements,200,none,strong,3
+vessel steering instructor,communication,200,none,strong,3
+vessel steering instructor,analysis,200,none,strong,3
+vessel steering instructor,business analysis,200,none,strong,3
+vessel steering instructor,excel,200,none,strong,3
+vessel steering instructor,customer service,200,none,strong,3
+vessel steering instructor,cooking,200,none,strong,3
+vessel steering instructor,photography,200,none,strong,3
+vessel steering instructor,,200,,strong,3
+police trainer,javascript,200,none,strong,3
+police trainer,js,200,none,strong,3
+police trainer,frontend,200,none,strong,3
+police trainer,html,200,none,strong,3
+police trainer,css,200,none,strong,3
+police trainer,java,200,none,strong,3
+police trainer,backend,200,none,strong,3
+police trainer,.net,200,none,strong,3
+police trainer,enterprise,200,none,strong,3
+police trainer,requirements,200,none,strong,3
+police trainer,communication,200,none,strong,3
+police trainer,analysis,200,none,strong,3
+police trainer,business analysis,200,none,strong,3
+police trainer,excel,200,none,strong,3
+police trainer,customer service,200,none,strong,3
+police trainer,cooking,200,none,strong,3
+police trainer,photography,200,none,strong,3
+police trainer,,200,,strong,3
+"agriculture, forestry and fishery vocational teacher",javascript,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",js,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",frontend,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",html,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",css,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",java,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",backend,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",.net,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",enterprise,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",requirements,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",communication,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",analysis,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",business analysis,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",excel,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",customer service,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",cooking,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",photography,200,none,strong,3
+"agriculture, forestry and fishery vocational teacher",,200,,strong,3
+electrical mechanic,javascript,200,none,strong,3
+electrical mechanic,js,200,none,strong,3
+electrical mechanic,frontend,200,none,strong,3
+electrical mechanic,html,200,none,strong,3
+electrical mechanic,css,200,none,strong,3
+electrical mechanic,java,200,none,strong,3
+electrical mechanic,backend,200,none,strong,3
+electrical mechanic,.net,200,none,strong,3
+electrical mechanic,enterprise,200,none,strong,3
+electrical mechanic,requirements,200,none,strong,3
+electrical mechanic,communication,200,none,strong,3
+electrical mechanic,analysis,200,none,strong,3
+electrical mechanic,business analysis,200,none,strong,3
+electrical mechanic,excel,200,none,strong,3
+electrical mechanic,customer service,200,none,strong,3
+electrical mechanic,cooking,200,none,strong,3
+electrical mechanic,photography,200,none,strong,3
+electrical mechanic,,200,,strong,3
+human resources officer,javascript,200,none,strong,3
+human resources officer,js,200,none,strong,3
+human resources officer,frontend,200,none,strong,3
+human resources officer,html,200,none,strong,3
+human resources officer,css,200,none,strong,3
+human resources officer,java,200,none,strong,3
+human resources officer,backend,200,none,strong,3
+human resources officer,.net,200,none,strong,3
+human resources officer,enterprise,200,none,strong,3
+human resources officer,requirements,200,none,strong,3
+human resources officer,communication,200,none,strong,3
+human resources officer,analysis,200,none,strong,3
+human resources officer,business analysis,200,none,strong,3
+human resources officer,excel,200,none,strong,3
+human resources officer,customer service,200,none,strong,3
+human resources officer,cooking,200,none,strong,3
+human resources officer,photography,200,none,strong,3
+human resources officer,,200,,strong,3
+tanner,javascript,200,none,strong,3
+tanner,js,200,none,strong,3
+tanner,frontend,200,none,strong,3
+tanner,html,200,none,strong,3
+tanner,css,200,none,strong,3
+tanner,java,200,none,strong,3
+tanner,backend,200,none,strong,3
+tanner,.net,200,none,strong,3
+tanner,enterprise,200,none,strong,3
+tanner,requirements,200,none,strong,3
+tanner,communication,200,none,strong,3
+tanner,analysis,200,none,strong,3
+tanner,business analysis,200,none,strong,3
+tanner,excel,200,none,strong,3
+tanner,customer service,200,none,strong,3
+tanner,cooking,200,none,strong,3
+tanner,photography,200,none,strong,3
+tanner,,200,,strong,3
+surface engineer,javascript,200,,limited,0
+surface engineer,js,200,,limited,0
+surface engineer,frontend,200,,limited,0
+surface engineer,html,200,,limited,0
+surface engineer,css,200,,limited,0
+surface engineer,java,200,,limited,0
+surface engineer,backend,200,,limited,0
+surface engineer,.net,200,,limited,0
+surface engineer,enterprise,200,,limited,0
+surface engineer,requirements,200,,limited,0
+surface engineer,communication,200,,limited,0
+surface engineer,analysis,200,,limited,0
+surface engineer,business analysis,200,,limited,0
+surface engineer,excel,200,,limited,0
+surface engineer,customer service,200,,limited,0
+surface engineer,cooking,200,,limited,0
+surface engineer,photography,200,,limited,0
+surface engineer,,200,,limited,0
+water plant technician,javascript,200,none,strong,3
+water plant technician,js,200,none,strong,3
+water plant technician,frontend,200,none,strong,3
+water plant technician,html,200,none,strong,3
+water plant technician,css,200,none,strong,3
+water plant technician,java,200,none,strong,3
+water plant technician,backend,200,none,strong,3
+water plant technician,.net,200,none,strong,3
+water plant technician,enterprise,200,none,strong,3
+water plant technician,requirements,200,none,strong,3
+water plant technician,communication,200,none,strong,3
+water plant technician,analysis,200,none,strong,3
+water plant technician,business analysis,200,none,strong,3
+water plant technician,excel,200,none,strong,3
+water plant technician,customer service,200,none,strong,3
+water plant technician,cooking,200,none,strong,3
+water plant technician,photography,200,none,strong,3
+water plant technician,,200,,strong,3
+model maker,javascript,200,none,strong,3
+model maker,js,200,none,strong,3
+model maker,frontend,200,none,strong,3
+model maker,html,200,none,strong,3
+model maker,css,200,none,strong,3
+model maker,java,200,none,strong,3
+model maker,backend,200,none,strong,3
+model maker,.net,200,none,strong,3
+model maker,enterprise,200,none,strong,3
+model maker,requirements,200,none,strong,3
+model maker,communication,200,none,strong,3
+model maker,analysis,200,none,strong,3
+model maker,business analysis,200,none,strong,3
+model maker,excel,200,none,strong,3
+model maker,customer service,200,none,strong,3
+model maker,cooking,200,none,strong,3
+model maker,photography,200,none,strong,3
+model maker,,200,,strong,3

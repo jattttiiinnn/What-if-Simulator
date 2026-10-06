@@ -81,6 +81,32 @@ export function yearsToRadius(years, layout) {
   return lerp(radiusMin, radiusMax, t);
 }
 
+/**
+ * Depth (translateZ, px) for each kind of star.
+ *
+ * The whole sky lives on one perspective plane that the camera tilts and
+ * orbits, so a larger z floats a star closer to the viewer. Satellites sit
+ * just above the hero; the better-evidenced destinations float furthest
+ * forward, which is what turns a flat chart into a sky with real parallax.
+ */
+export const SKY_DEPTH = {
+  hero: 0,
+  satellite: 46,
+  satelliteActiveLift: 54,
+  branchMin: 74,
+  branchMax: 168,
+  branchHoverLift: 40,
+};
+
+/** Branch depth scales with observed share (capped at 30%). */
+export function branchDepth(share) {
+  const value = Number.isFinite(share) ? clamp(share, 0, 30) : 0;
+  return (
+    SKY_DEPTH.branchMin +
+    (value / 30) * (SKY_DEPTH.branchMax - SKY_DEPTH.branchMin)
+  );
+}
+
 /** Star diameter in px from observed transition share (0-100-ish). */
 export function shareToSize(share, sizeScale = 1) {
   const value = Number.isFinite(share) ? clamp(share, 0, 60) : 0;

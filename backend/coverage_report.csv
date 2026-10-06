@@ -60,7 +60,6 @@ procurement department manager,1213.3,strong,25
 programme manager,1213.4,strong,203
 business manager,1213.5,strong,1246
 branch manager,1213.5.1,strong,427
-EU funds manager,1213.6,strong,33
 health safety and environmental manager,1213.7,strong,46
 sustainability manager,1213.8,limited,18
 business service manager,1219.1,strong,216
@@ -103,7 +102,7 @@ footwear product development manager,1223.2.1.2,limited,4
 games development manager,1223.2.1.3,limited,12
 leather goods product development manager,1223.2.1.4,limited,1
 research manager,1223.2.2,strong,62
-ICT research manager,1223.2.2.1,strong,32
+ICT research manager,1223.2.2.1,strong,62
 forester,1311.1,limited,14
 aquaculture husbandry manager,1312.2,limited,2
 aquaculture production manager,1312.3,limited,1
@@ -221,14 +220,12 @@ leather raw materials purchasing manager,1324.8.2.1,limited,3
 resource manager,1324.8.3,strong,113
 chief data officer,1330.1,strong,55
 ICT information and knowledge manager,1330.1.1,strong,25
-ICT environmental manager,1330.10,limited,2
 chief information officer,1330.2,strong,75
 chief technology officer,1330.3,strong,42
-ICT documentation manager,1330.4,strong,42
-ICT operations manager,1330.5,strong,258
+ICT operations manager,1330.5,strong,342
 software manager,1330.5.1,strong,181
-ICT product manager,1330.6,strong,254
-ICT project manager,1330.7,strong,360
+ICT product manager,1330.6,strong,318
+ICT project manager,1330.7,strong,1420
 ICT vendor relationship manager,1330.8,strong,46
 telecommunications manager,1330.9,strong,164
 child care coordinator,1341.1,strong,985
@@ -598,7 +595,7 @@ special effects artist,2166.13,limited,14
 stop-motion animator,2166.14,strong,1785
 animation layout artist,2166.2,limited,17
 animator,2166.3,strong,813
-3D animator,2166.3.1,limited,4
+3D animator,2166.3.1,strong,813
 desktop publisher,2166.4,strong,596
 digital artist,2166.5,strong,27
 digital games designer,2166.6,strong,27
@@ -743,7 +740,7 @@ classical languages teacher secondary school,2330.1.5,strong,79
 drama teacher secondary school,2330.1.6,strong,373
 geography teacher secondary school,2330.1.7,strong,275
 history teacher secondary school,2330.1.8,strong,444
-ICT teacher secondary school,2330.1.9,strong,499
+ICT teacher secondary school,2330.1.9,strong,3446
 primary school teacher,2341.1,strong,2035
 Steiner school teacher,2341.1.1,limited,17
 early years teacher,2342.1,strong,1330
@@ -770,7 +767,6 @@ dance teacher,2355.3,strong,104
 drama teacher,2355.4,strong,28
 photography teacher,2355.5,strong,35
 visual arts teacher,2355.6,strong,215
-ICT trainer,2356.1,strong,243
 digital literacy teacher,2356.1.1,strong,112
 academic advisor,2359.1,strong,231
 instructional designer,2359.10,strong,122
@@ -868,7 +864,7 @@ corporate trainer,2424.2,strong,344
 advertising copywriter,2431.1,strong,364
 marketing consultant,2431.10,strong,779
 advertising media planner,2431.10.1,strong,115
-eBusiness manager,2431.10.2,strong,67
+eBusiness manager,2431.10.2,strong,1246
 marketing assistant,2431.10.3,strong,2471
 online marketer,2431.10.4,strong,618
 market research analyst,2431.11,strong,515
@@ -909,29 +905,24 @@ technical sales representative in machinery and industrial equipment,2433.6.4,st
 technical sales representative in mining and construction machinery,2433.6.5,limited,12
 technical sales representative in office machinery and equipment,2433.6.6,strong,250
 technical sales representative in the textile machinery industry,2433.6.7,strong,74
-ICT account manager,2434.1,strong,480
 ICT business development manager,2434.2,strong,56
-ICT presales engineer,2434.3,strong,62
+ICT presales engineer,2434.3,strong,321
 technical sales representative in electronic and telecommunications equipment,2434.4,strong,626
-ICT consultant,2511.10,strong,169
+ICT consultant,2511.10,strong,75
 artificial intelligence engineer,2511.11,limited,4
-ICT research consultant,2511.12,strong,86
-ICT system analyst,2511.13,strong,321
-ICT system architect,2511.14,strong,84
+ICT research consultant,2511.12,strong,75
+ICT system architect,2511.14,strong,156
 blockchain architect,2511.14.1,limited,4
-ICT system developer,2511.15,strong,182
 ICT system integration consultant,2511.16,strong,233
 integration engineer,2511.17,strong,45
-IT auditor,2511.18,strong,45
 user experience analyst,2511.19,limited,14
 computer vision engineer,2511.2,limited,19
 data analyst,2511.3,strong,345
 data scientist,2511.4,strong,60
 embedded system designer,2511.5,strong,31
 enterprise architect,2511.6,strong,22
-green ICT consultant,2511.7,limited,4
-ICT business analysis manager,2511.8,strong,21
-ICT business analyst,2511.9,strong,145
+green ICT consultant,2511.7,strong,75
+ICT business analyst,2511.9,strong,275
 cloud engineer,2512.1,limited,19
 software analyst,2512.2,strong,449
 software architect,2512.3,strong,61
@@ -943,41 +934,24 @@ search engine optimisation expert,2513.2,strong,58
 user interface designer,2513.3,strong,35
 web content manager,2513.4,strong,223
 web developer,2513.5,strong,596
-ICT application configurator,2514.1,strong,53
-ICT application developer,2514.2,strong,276
 embedded systems software developer,2514.2.1,strong,150
 mobile application developer,2514.2.2,strong,114
 industrial mobile devices software developer,2514.3,strong,50
 numerical tool and process control programmer,2514.4,strong,257
 data quality specialist,2519.1,strong,71
-ICT auditor manager,2519.2,limited,9
 ICT change and configuration manager,2519.3,strong,135
-ICT disaster recovery analyst,2519.4,strong,32
-ICT quality assurance manager,2519.5,strong,30
-ICT test analyst,2519.6,strong,408
 software tester,2519.7,strong,166
 digital games tester,2519.7.1,strong,20
-ICT accessibility tester,2519.7.2,limited,12
-ICT integration tester,2519.7.3,strong,75
-ICT system tester,2519.7.4,strong,84
-ICT usability tester,2519.7.5,limited,12
 database administrator,2521.1,strong,134
 database designer,2521.2,strong,133
 database developer,2521.3,strong,77
 database integrator,2521.4,strong,338
 data warehouse designer,2521.5,strong,188
-ICT system administrator,2522.1,strong,379
-ICT network administrator,2522.1.1,strong,400
 system configurator,2522.1.2,strong,419
-ICT capacity planner,2523.1,limited,19
-ICT network architect,2523.2,strong,105
-ICT network engineer,2523.3,strong,228
-chief ICT security officer,2529.1,limited,15
+ICT network architect,2523.2,strong,156
 digital forensics expert,2529.2,limited,13
 embedded systems security engineer,2529.3,strong,22
 ethical hacker,2529.4,limited,7
-ICT resilience manager,2529.5,limited,9
-ICT security administrator,2529.6,limited,16
 cyber incident responder,2529.7,limited,13
 cybersecurity risk manager,2529.8,strong,43
 knowledge engineer,2529.9,limited,5
@@ -1246,7 +1220,6 @@ metallurgical technician,3117.3,limited,4
 mine safety officer,3117.4,limited,16
 mine surveying technician,3117.5,limited,18
 3D printing technician,3118.1,limited,1
-clothing CAD technician,3118.2,limited,6
 drafter,3118.3,strong,490
 aerospace engineering drafter,3118.3.1,limited,12
 marine engineering drafter,3118.3.10,limited,6
@@ -1507,7 +1480,6 @@ renewable energy sales representative,3322.1.2,strong,74
 costume buyer,3323.1,strong,61
 purchaser,3323.2,strong,576
 green coffee buyer,3323.2.1,limited,3
-ICT buyer,3323.2.2,strong,70
 purchase planner,3323.2.3,strong,356
 textile sourcing merchandiser,3323.2.4,strong,52
 set buyer,3323.3,limited,10
@@ -1766,12 +1738,7 @@ costume attendant,3435.7.1,strong,159
 extra,3435.8,strong,168
 fight director,3435.9,limited,6
 data centre operator,3511.1,strong,345
-ICT help desk agent,3512.1,strong,1926
-ICT help desk manager,3512.2,strong,382
-ICT security technician,3512.3,strong,34
-ICT technician,3512.4,strong,422
 aviation data communications manager,3513.1,strong,24
-ICT network technician,3513.2,strong,689
 webmaster,3514.1,strong,290
 audio-visual technician,3521.1,strong,168
 boom operator,3521.1.1,strong,74
@@ -2367,7 +2334,6 @@ electricity distribution technician,7413.1,strong,228
 cable jointer,7413.1.1,strong,123
 overhead line worker,7413.1.2,limited,15
 street lighting electrician,7413.1.3,strong,64
-ATM repair technician,7421.1,strong,174
 avionics technician,7421.2,strong,40
 consumer electronics repair technician,7421.3,strong,351
 marine electronics technician,7421.4,limited,12
@@ -2431,7 +2397,6 @@ hide grader,7531.3,strong,55
 milliner,7531.4,strong,110
 tailor,7531.5,strong,23
 wig and hairpiece maker,7531.6,limited,9
-clothing CAD patternmaker,7532.1,limited,15
 clothing cutter,7532.2,strong,53
 clothing product grader,7532.3,limited,15
 digital prototyper,7532.4,strong,22
@@ -2455,7 +2420,7 @@ leather goods hand cutting operator,7536.1.2,limited,5
 leather goods hand stitcher,7536.1.3,limited,2
 shoemaker,7536.2,strong,36
 bespoke footwear technician,7536.2.1,strong,21
-footwear CAD patternmaker,7536.2.3,limited,4
+footwear CAD patternmaker,7536.2.3,limited,1
 footwear hand sewer,7536.2.4,limited,1
 footwear patternmaker,7536.2.5,limited,1
 hand lasting operator,7536.2.6,limited,5

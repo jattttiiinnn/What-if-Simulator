@@ -3,6 +3,8 @@ import BackgroundStars from './BackgroundStars';
 import EvidenceSheet from './EvidenceSheet';
 import { USE_MOCK, fetchBranches } from '../api/careerApi';
 import {
+  SKY_DEPTH,
+  branchDepth,
   computeLayout,
   destinationAngles,
   project,
@@ -13,6 +15,7 @@ import {
 } from '../lib/geometry';
 import { useElementSize } from '../hooks/useElementSize';
 import { usePrefersReducedMotion } from '../hooks/usePrefersReducedMotion';
+import useSky3D from '../hooks/useSky3D';
 
 const MAX_SATELLITES = 4;
 const REVEAL_STAGGER_MS = 200;
@@ -27,8 +30,15 @@ const REVEAL_STAGGER_MS = 200;
  */
 export default function ConstellationView({ profile, audio, onEditProfile, onStartOver }) {
   const stageRef = useRef(null);
+  const planeRef = useRef(null);
   const { width, height } = useElementSize(stageRef);
   const reducedMotion = usePrefersReducedMotion();
+  // The 3D camera: drag to orbit, scroll to zoom, subtle idle drift.
+  const sky = useSky3D({
+    containerRef: stageRef,
+    planeRef,
+    reducedMotion,
+  });
 
   const satellites = useMemo(
     () => (profile.skills || []).slice(0, MAX_SATELLITES),
@@ -248,119 +258,147 @@ export default function ConstellationView({ profile, audio, onEditProfile, onSta
     <div className="constellation" ref={stageRef}>
       <BackgroundStars reducedMotion={reducedMotion} />
 
-      <svg
-        className="links"
-        width={width}
-        height={height}
-        viewBox={`0 0 ${Math.max(width, 1)} ${Math.max(height, 1)}`}
-        aria-hidden="true"
-        focusable="false"
-      >
-        {/*
-          Each trail is a path with pathLength="1", so the draw animation uses
-          constant dash values. Nothing that feeds a keyframe is ever written to
-          these elements again — on resize React only updates `d`, and the
-          in-flight draw keeps its progress.
-        */}
-        {visibleBranches.map((branch) => {
-          const d = `M ${anchor.x.toFixed(1)} ${anchor.y.toFixed(1)} L ${branch.x.toFixed(
-            1
-          )} ${branch.y.toFixed(1)}`;
-          return (
-            <g key={branch.occupation}>
-              {branch.hasEvidence ? (
-                <>
-                  <path
-                    className="link link--glow"
-                    d={d}
-                    pathLength="1"
-                    strokeWidth={Math.max(2.5, branch.stroke * 3)}
-                  />
-                  <path
-                    className="link"
-                    d={d}
-                    pathLength="1"
-                    strokeWidth={branch.stroke}
-                  />
-                </>
-              ) : (
-                <path
-                  className="link link--dim"
-                  d={d}
-                  pathLength="1"
-                  strokeWidth={1}
-                />
-              )}
-            </g>
-          );
-        })}
-      </svg>
-
-      <button
-        type="button"
-        className="hero-star"
-        onClick={() => openSheet({ kind: 'profile' })}
-        aria-label={`${profile.role}. Open your profile summary.`}
-      >
-        <span className="hero-star__core" style={{ '--hero-size': `${layout.heroSize}px` }} />
-        <span className="hero-star__label">{profile.role}</span>
-        <span className="hero-star__sub">you are here</span>
-      </button>
-
-      {satellitePositions.map((position) => {
-        const isActive = position.skill === activeSkill;
-        const isLoading = loadingSkill === position.skill;
-        return (
-          <button
-            key={position.skill}
-            type="button"
-            className={[
-              'satellite',
-              isActive ? 'is-active' : '',
-              isLoading ? 'is-loading' : '',
-            ]
-              .filter(Boolean)
-              .join(' ')}
-            style={{ left: `${position.x}px`, top: `${position.y}px` }}
-            onClick={() => handleSatellite(position.skill)}
-            aria-pressed={isActive}
-            aria-label={`What if I learn ${position.skill}`}
-          >
-            <span className="satellite__dot" aria-hidden="true" />
-            <span className="satellite__label">{position.skill}</span>
-          </button>
-        );
-      })}
-
-      {visibleBranches.map((branch) => (
-        <button
-          key={branch.occupation}
-          type="button"
-          className={`dest-star${branch.hasEvidence ? '' : ' is-dim'}`}
-          // Only positioning: the mount (not a resize) drives the entrance.
-          style={{
-            left: `${branch.x}px`,
-            top: `${branch.y}px`,
-            '--size': `${branch.size}px`,
-          }}
-          onClick={() => openSheet({ kind: 'branch', branch })}
-          aria-label={
-            branch.hasEvidence
-              ? `${branch.occupation}: ${branch.share}% observed transition share, based on ${branch.n} trajectories${
-                  branch.years ? `, typical time to transition about ${branch.years} years` : ''
-                }`
-              : `${branch.occupation}: limited evidence for this path`
-          }
+      {/*
+        The sky lives on one perspective plane. useSky3D drives the plane's
+        transform per frame (orbit, tilt, zoom); each star carries its own
+        translateZ so more-evidenced destinations float closer to the viewer.
+      */}
+      <div className="sky3d">
+        <div
+          className={`sky3d__plane${sky.isDragging ? ' is-dragging' : ''}`}
+          ref={planeRef}
         >
-          <span className="dest-star__core" aria-hidden="true" />
-          <span className="dest-star__caption">
-            <span className="dest-star__label">{branch.occupation}</span>
-            {!branch.hasEvidence && (
-              <span className="dest-star__note">limited evidence</span>
-            )}
-          </span>
-        </button>
-      ))}
+          <svg
+            className="links"
+            width={width}
+            height={height}
+            viewBox={`0 0 ${Math.max(width, 1)} ${Math.max(height, 1)}`}
+            aria-hidden="true"
+            focusable="false"
+          >
+            {/*
+              Each trail is a path with pathLength="1", so the draw animation
+              uses constant dash values. Nothing that feeds a keyframe is ever
+              written to these elements again — on resize React only updates `d`,
+              and the in-flight draw keeps its progress.
+            */}
+            {visibleBranches.map((branch) => {
+              const d = `M ${anchor.x.toFixed(1)} ${anchor.y.toFixed(1)} L ${branch.x.toFixed(
+                1
+              )} ${branch.y.toFixed(1)}`;
+              return (
+                <g key={branch.occupation}>
+                  {branch.hasEvidence ? (
+                    <>
+                      <path
+                        className="link link--glow"
+                        d={d}
+                        pathLength="1"
+                        strokeWidth={Math.max(2.5, branch.stroke * 3)}
+                      />
+                      <path
+                        className="link"
+                        d={d}
+                        pathLength="1"
+                        strokeWidth={branch.stroke}
+                      />
+                    </>
+                  ) : (
+                    <path
+                      className="link link--dim"
+                      d={d}
+                      pathLength="1"
+                      strokeWidth={1}
+                    />
+                  )}
+                </g>
+              );
+            })}
+          </svg>
+
+          <button
+            type="button"
+            className="hero-star"
+            onClick={() => openSheet({ kind: 'profile' })}
+            aria-label={`${profile.role}. Open your profile summary.`}
+          >
+            <span
+              className="hero-star__core"
+              style={{ '--hero-size': `${layout.heroSize}px` }}
+            />
+            <span className="hero-star__label">{profile.role}</span>
+            <span className="hero-star__sub">you are here</span>
+          </button>
+
+          {satellitePositions.map((position) => {
+            const isActive = position.skill === activeSkill;
+            const isLoading = loadingSkill === position.skill;
+            return (
+              <button
+                key={position.skill}
+                type="button"
+                className={[
+                  'satellite',
+                  isActive ? 'is-active' : '',
+                  isLoading ? 'is-loading' : '',
+                ]
+                  .filter(Boolean)
+                  .join(' ')}
+                style={{
+                  left: `${position.x}px`,
+                  top: `${position.y}px`,
+                  '--z': `${SKY_DEPTH.satellite}px`,
+                }}
+                onClick={() => handleSatellite(position.skill)}
+                aria-pressed={isActive}
+                aria-label={`What if I learn ${position.skill}`}
+              >
+                <span className="satellite__dot" aria-hidden="true" />
+                <span className="satellite__label">{position.skill}</span>
+              </button>
+            );
+          })}
+
+          {visibleBranches.map((branch) => (
+            <button
+              key={branch.occupation}
+              type="button"
+              className={`dest-star${branch.hasEvidence ? '' : ' is-dim'}`}
+              // Only positioning: the mount (not a resize) drives the entrance.
+              style={{
+                left: `${branch.x}px`,
+                top: `${branch.y}px`,
+                '--size': `${branch.size}px`,
+                '--z': `${
+                  branch.hasEvidence
+                    ? branchDepth(branch.share)
+                    : SKY_DEPTH.branchMin
+                }px`,
+              }}
+              onClick={() => openSheet({ kind: 'branch', branch })}
+              aria-label={
+                branch.hasEvidence
+                  ? `${branch.occupation}: ${branch.share}% observed transition share, based on ${branch.n} trajectories${
+                      branch.years
+                        ? `, typical time to transition about ${branch.years} years`
+                        : ''
+                    }`
+                  : `${branch.occupation}: limited evidence for this path`
+              }
+            >
+              <span className="dest-star__pop" aria-hidden="true">
+                <span className="dest-star__core" />
+              </span>
+              <span className="dest-star__caption">
+                <span className="dest-star__label">{branch.occupation}</span>
+                <span className="dest-star__note">
+                  {branch.hasEvidence ? `${branch.share}%` : 'limited evidence'}
+                </span>
+              </span>
+            </button>
+          ))}
+        </div>
+      </div>
 
       {(loadingSkill ||
         status === 'error' ||
@@ -424,10 +462,37 @@ export default function ConstellationView({ profile, audio, onEditProfile, onSta
         </p>
       )}
 
+      <div className="sky-controls">
+        <button
+          type="button"
+          className="sky-controls__btn"
+          onClick={() => sky.zoomBy(1.16)}
+          aria-label="Zoom in"
+        >
+          +
+        </button>
+        <button
+          type="button"
+          className="sky-controls__btn"
+          onClick={() => sky.zoomBy(1 / 1.16)}
+          aria-label="Zoom out"
+        >
+          −
+        </button>
+        <button type="button" className="sky-controls__reset" onClick={sky.reset}>
+          Reset view
+        </button>
+      </div>
+
       <div className="legend">
         <span className="legend__line">
           size = likelihood · distance = typical time · line = likelihood
         </span>
+        {!reducedMotion && (
+          <span className="legend__line legend__line--hint">
+            drag to orbit · scroll to zoom
+          </span>
+        )}
         {USE_MOCK && <span className="legend__badge">sample dataset</span>}
       </div>
 

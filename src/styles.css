@@ -612,6 +612,33 @@ button {
   transition: opacity 380ms var(--ease);
 }
 
+/* ------------------------------------------------------------- 3d sky */
+/*
+  The whole sky is one perspective plane. useSky3D rotates/scales it every
+  frame; each star's own translateZ (--z) sets how far forward it floats, so
+  the tilt produces real parallax instead of a flat sideways slide.
+*/
+.sky3d {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  perspective: 1400px;
+  perspective-origin: 50% 47%;
+}
+
+.sky3d__plane {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  transform-origin: 50% 50%;
+  cursor: grab;
+  will-change: transform;
+}
+
+.sky3d__plane.is-dragging {
+  cursor: grabbing;
+}
+
 .links {
   position: absolute;
   inset: 0;
@@ -648,7 +675,13 @@ button {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  /* A wide, grid-centred anchor: the absolutely positioned role label needs a
+     roomy containing block or it shrink-wraps to the star and wraps, dropping
+     onto the satellite ring below. */
+  display: grid;
+  place-items: center;
+  width: min(200px, 58vw);
+  transform: translate(-50%, -50%) translateZ(var(--z, 0px));
   z-index: 3;
   pointer-events: auto;
 }
@@ -673,10 +706,11 @@ button {
 
 .hero-star__label {
   position: absolute;
-  top: calc(100% + 12px);
-  left: 50%;
-  transform: translateX(-50%);
-  max-width: min(170px, 44vw);
+  bottom: calc(100% + 12px);
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  max-width: min(200px, 58vw);
   font-size: 15px;
   font-weight: 600;
   text-align: center;
@@ -686,11 +720,13 @@ button {
 
 .hero-star__sub {
   position: absolute;
-  bottom: calc(100% + 10px);
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 10.5px;
-  letter-spacing: 0.18em;
+  top: calc(100% + 2px);
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 9.5px;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--dim);
   white-space: nowrap;
@@ -703,7 +739,18 @@ button {
   height: 22px;
   display: grid;
   place-items: center;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%)
+    translateZ(calc(var(--z, 0px) + var(--z-lift, 0px)));
+  transition: transform 460ms var(--ease), opacity 300ms var(--ease);
+}
+
+.satellite:hover,
+.satellite:focus-visible {
+  --z-lift: 32px;
+}
+
+.satellite.is-active {
+  --z-lift: 54px;
 }
 
 .satellite__dot {
@@ -764,7 +811,22 @@ button {
   height: var(--size, 24px);
   display: grid;
   place-items: center;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%)
+    translateZ(calc(var(--z, 0px) + var(--z-lift, 0px)));
+  transition: transform 460ms var(--ease), opacity 300ms var(--ease);
+}
+
+.dest-star:hover,
+.dest-star:focus-visible {
+  --z-lift: 40px;
+}
+
+/* Entrance lives on the inner wrapper so it never fights the hover lift
+   applied to the positioned button. */
+.dest-star__pop {
+  display: block;
+  width: 100%;
+  height: 100%;
   animation: starIn 460ms var(--ease) both;
 }
 
@@ -864,6 +926,62 @@ button {
   color: var(--dim);
   background: rgba(188, 208, 255, 0.07);
   box-shadow: inset 0 0 0 1px rgba(188, 208, 255, 0.12);
+}
+
+.legend__line--hint {
+  color: var(--accent);
+  opacity: 0.72;
+}
+
+/* --- 3D camera controls (bottom-right) --- */
+.sky-controls {
+  position: absolute;
+  right: calc(16px + var(--safe-right));
+  bottom: calc(16px + var(--safe-bottom));
+  z-index: 8;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px;
+  border-radius: 999px;
+  background: rgba(10, 14, 26, 0.62);
+  box-shadow: inset 0 0 0 1px rgba(188, 208, 255, 0.14);
+  backdrop-filter: blur(10px);
+  animation: fadeIn 320ms var(--ease) both;
+}
+
+.sky-controls__btn {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  font-size: 17px;
+  line-height: 1;
+  color: var(--muted);
+  background: rgba(188, 208, 255, 0.07);
+  transition: color 200ms var(--ease), background 200ms var(--ease);
+}
+
+.sky-controls__btn:hover,
+.sky-controls__btn:focus-visible {
+  color: var(--ink);
+  background: rgba(188, 208, 255, 0.16);
+}
+
+.sky-controls__reset {
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  transition: color 200ms var(--ease), background 200ms var(--ease);
+}
+
+.sky-controls__reset:hover,
+.sky-controls__reset:focus-visible {
+  color: var(--ink);
+  background: rgba(188, 208, 255, 0.12);
 }
 
 .stage-notice {
@@ -1206,11 +1324,11 @@ button {
 @keyframes starIn {
   from {
     opacity: 0;
-    transform: translate(-50%, -50%) scale(0.35);
+    transform: scale(0.35);
   }
   to {
     opacity: 1;
-    transform: translate(-50%, -50%) scale(1);
+    transform: scale(1);
   }
 }
 
@@ -1288,7 +1406,11 @@ button {
 
   .legend {
     font-size: 9.5px;
-    max-width: 62vw;
+    max-width: 50vw;
+  }
+
+  .sky-controls__reset {
+    padding: 6px 10px;
   }
 
   .stage-notice {
